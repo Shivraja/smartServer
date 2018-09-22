@@ -1,0 +1,666 @@
+Fri, 19 May 2017 06:54:44 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Fri, 19 May 2017 06:54:44 PM UTC : gcm_register.php
+'College Id -> 55555'
+
+Fri, 19 May 2017 06:54:44 PM UTC : gcm_register.php
+'Registration Token -> success'
+
+Fri, 19 May 2017 06:54:44 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Fri, 19 May 2017 07:13:09 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Fri, 19 May 2017 07:13:09 PM UTC : gcm_register.php
+'College Id -> 55555'
+
+Fri, 19 May 2017 07:13:09 PM UTC : gcm_register.php
+'Registration Token -> ds2oD4M0w94:APA91bF9a0Snl733tZgRItqjfGNafcSETGgaBICUTggUBgNYK3fdk-IjJXsS-t49zuag42UyjUXVUWk-5udU38V7eSHj1gqGiqTcWjzOLqXp3tScdNMD3JFATPAC0a7xOsu8TdfAzyyP'
+
+Fri, 19 May 2017 07:13:09 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Fri, 19 May 2017 07:16:12 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Fri, 19 May 2017 07:16:12 PM UTC : gcm_register.php
+'College Id -> 55555'
+
+Fri, 19 May 2017 07:16:12 PM UTC : gcm_register.php
+'Registration Token -> ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA'
+
+Fri, 19 May 2017 07:16:12 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Fri, 19 May 2017 07:38:59 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Fri, 19 May 2017 07:38:59 PM UTC : gcm_register.php
+'College Id -> 123456'
+
+Fri, 19 May 2017 07:38:59 PM UTC : gcm_register.php
+'Registration Token -> dbSnCGbxvnY:APA91bEb-J_lZ3SdDffGlLw1j_n7MSFzvBfzrXqocvwLPDActOg2R5ouPtrqPsyg2lWgJEwmceESkCxikw30szWuw8OmfYU62Gh7K-qYNuN-zoMAzeKgCY5pTwuRgAksqo-FtDsc1VQA'
+
+Fri, 19 May 2017 07:38:59 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Fri, 19 May 2017 07:39:22 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'55555\''
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '55555',
+  'student_id' => '123456',
+  'student_name' => 'Ramu',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+'<HTML>
+<HEAD>
+<TITLE>Unauthorized</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<H1>Unauthorized</H1>
+<H2>Error 401</H2>
+</BODY>
+</HTML>
+'
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'123456\''
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '55555',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+array (
+  0 => 'dbSnCGbxvnY:APA91bEb-J_lZ3SdDffGlLw1j_n7MSFzvBfzrXqocvwLPDActOg2R5ouPtrqPsyg2lWgJEwmceESkCxikw30szWuw8OmfYU62Gh7K-qYNuN-zoMAzeKgCY5pTwuRgAksqo-FtDsc1VQA',
+)
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+'<HTML>
+<HEAD>
+<TITLE>Unauthorized</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<H1>Unauthorized</H1>
+<H2>Error 401</H2>
+</BODY>
+</HTML>
+'
+
+Fri, 19 May 2017 07:39:22 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 07:43:57 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'55555\''
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '55555',
+  'student_id' => '123456',
+  'student_name' => 'Ramu',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+'{"multicast_id":8594904580527879503,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495223202390087%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'123456\''
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '55555',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+array (
+  0 => 'dbSnCGbxvnY:APA91bEb-J_lZ3SdDffGlLw1j_n7MSFzvBfzrXqocvwLPDActOg2R5ouPtrqPsyg2lWgJEwmceESkCxikw30szWuw8OmfYU62Gh7K-qYNuN-zoMAzeKgCY5pTwuRgAksqo-FtDsc1VQA',
+)
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+'{"multicast_id":7007466802597960114,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495223202478136%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 07:43:57 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 07:54:12 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Fri, 19 May 2017 07:54:12 PM UTC : gcm_register.php
+'College Id -> 123456'
+
+Fri, 19 May 2017 07:54:12 PM UTC : gcm_register.php
+'Registration Token -> fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny'
+
+Fri, 19 May 2017 07:54:12 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Fri, 19 May 2017 07:57:09 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 19 May 2017 07:57:09 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'55555\''
+
+Fri, 19 May 2017 07:57:09 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 07:57:09 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '55555',
+  'student_id' => '123456',
+  'student_name' => 'Ramu',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 07:57:09 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 07:57:10 PM UTC : .php
+'{"multicast_id":8770072198771808700,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495223994611539%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 07:57:10 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 07:57:10 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'123456\''
+
+Fri, 19 May 2017 07:57:10 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 07:57:10 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '55555',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 07:57:10 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 07:57:10 PM UTC : .php
+'{"multicast_id":5971398646481860265,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495223994715276%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 07:57:10 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:14:16 PM UTC : add_course_server.php
+'Add Course Started'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_ASSIGNMENT',
+  'assignment_id' => '55555course1495224856',
+  'subject_id' => 'Rajasample',
+  'assignment_name' => 'Sample',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1495224856,
+)
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'{"multicast_id":4651628250355683429,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225021140006%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_COURSE',
+  'assignment_id' => '55555course1495224856',
+  'course_name' => 'Sample',
+  'description' => 'Do well',
+)
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'{"multicast_id":8588049084039196640,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225021222434%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_ASSIGNMENT',
+  'subject_id' => 'Rajasample',
+  'assignment_id' => '55555course1495224856',
+  'assignment_name' => 'Sample',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1495224856,
+)
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'{"multicast_id":5849183987170489458,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225021301635%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:14:16 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:14:16 PM UTC : add_course_server.php
+'Add Course Ended'
+
+Fri, 19 May 2017 08:17:01 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'55555\''
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '55555',
+  'student_id' => '123456',
+  'student_name' => 'Ramu',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+'{"multicast_id":7634351357480197010,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225186594288%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'123456\''
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '55555',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 08:17:01 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 08:17:02 PM UTC : .php
+'{"multicast_id":5781907233189389618,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225186688194%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:17:02 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:18:01 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'55555\''
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '55555',
+  'student_id' => '123456',
+  'student_name' => 'Ramu',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+'{"multicast_id":6852982805715428994,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225246119911%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'123456\''
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '55555',
+  'subject_id' => 'Rajasample',
+)
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+'{"multicast_id":6473976105258855072,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225246192163%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:18:01 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:18:21 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Fri, 19 May 2017 08:18:21 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'123456\',\'55555course1495224856\',\'55555\',\'55555course1495224856\',\'0.0\')'
+
+Fri, 19 May 2017 08:18:21 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'55555\''
+
+Fri, 19 May 2017 08:18:21 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:18:21 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '123456',
+  'assignment_id' => '55555course1495224856',
+  'score' => '0.0',
+)
+
+Fri, 19 May 2017 08:18:21 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 08:18:21 PM UTC : .php
+'{"multicast_id":7858222735723467259,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225265997454%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:18:21 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:18:21 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Fri, 19 May 2017 08:19:40 PM UTC : add_course_server.php
+'Add Course Started'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_ASSIGNMENT',
+  'assignment_id' => '55555course1495225180',
+  'subject_id' => 'Rajasample',
+  'assignment_name' => 'Sample 2',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1495225180,
+)
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'{"multicast_id":7458830316433111144,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225345330271%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_COURSE',
+  'assignment_id' => '55555course1495225180',
+  'course_name' => 'Sample 2',
+  'description' => 'Tesr',
+)
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'{"multicast_id":8439709402856461734,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225345429291%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_ASSIGNMENT',
+  'subject_id' => 'Rajasample',
+  'assignment_id' => '55555course1495225180',
+  'assignment_name' => 'Sample 2',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1495225180,
+)
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'{"multicast_id":8439382332737478429,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225345518447%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:19:40 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:19:40 PM UTC : add_course_server.php
+'Add Course Ended'
+
+Fri, 19 May 2017 08:28:53 PM UTC : add_course_server.php
+'Add Course Started'
+
+Fri, 19 May 2017 08:28:53 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:28:53 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_ASSIGNMENT',
+  'assignment_id' => '55555course1495225733',
+  'subject_id' => 'Rajasample',
+  'assignment_name' => 'Sample 3',
+  'type' => 'COURSE',
+  'number_of_days' => '2',
+  'time' => 1495225733,
+)
+
+Fri, 19 May 2017 08:28:53 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+'{"multicast_id":6327576126324275833,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225898683836%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_COURSE',
+  'assignment_id' => '55555course1495225733',
+  'course_name' => 'Sample 3',
+  'description' => 'Test',
+)
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+'{"multicast_id":5174779555367260335,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225899130525%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_ASSIGNMENT',
+  'subject_id' => 'Rajasample',
+  'assignment_id' => '55555course1495225733',
+  'assignment_name' => 'Sample 3',
+  'type' => 'COURSE',
+  'number_of_days' => '2',
+  'time' => 1495225733,
+)
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+array (
+  0 => 'fD-Tdk4grjQ:APA91bFx6TGketmFIRfu-e4RIShyYGn32xn5fi74J3B_HtANlu8PVGlsyOQucEpvMFti0V_Rtz0zbGyqkP8mDO8tGO76aI1mcYipGiUIEvLdfLY2IorCZjQMqv30sxak1dqL0-FDAqny',
+)
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+'{"multicast_id":5274878768580283380,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225899597143%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:28:54 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:28:54 PM UTC : add_course_server.php
+'Add Course Ended'
+
+Fri, 19 May 2017 08:29:47 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Fri, 19 May 2017 08:29:47 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'123456\',\'55555course1495225180\',\'55555\',\'55555course1495225180\',\'0.0\')'
+
+Fri, 19 May 2017 08:29:47 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'55555\''
+
+Fri, 19 May 2017 08:29:47 PM UTC : .php
+'Send to FCM Started'
+
+Fri, 19 May 2017 08:29:47 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '123456',
+  'assignment_id' => '55555course1495225180',
+  'score' => '0.0',
+)
+
+Fri, 19 May 2017 08:29:47 PM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Fri, 19 May 2017 08:29:47 PM UTC : .php
+'{"multicast_id":8583547362424501493,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495225952461088%30ba418ff9fd7ecd"}]}'
+
+Fri, 19 May 2017 08:29:47 PM UTC : .php
+'Send to FCM Ended'
+
+Fri, 19 May 2017 08:29:47 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+

@@ -1,0 +1,18 @@
+Mon, 16 Apr 2018 03:58:42 PM UTC : 709053.php
+'almighty'
+
+Mon, 16 Apr 2018 03:58:42 PM UTC : check_user.php
+'TEACHER'
+
+Mon, 16 Apr 2018 03:58:42 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 16 Apr 2018 03:58:42 PM UTC : gcm_register.php
+'College Id -> 709053'
+
+Mon, 16 Apr 2018 03:58:42 PM UTC : gcm_register.php
+'Registration Token -> fSuXHOoF8_8:APA91bHYw6zNZ0N3SFJwK8NX8QDWa0i99RFos4D2TE_y_2qPZAjixANrutcpfrIjxDzGNwpu31eOydIY7H_oLxpVLUXlI1PlwPbKE9Phr4Hpyer4evxcEFO8ecI3fLAtU3gNKp3QAL1u'
+
+Mon, 16 Apr 2018 03:58:42 PM UTC : gcm_register.php
+'GCM Registration Ended'
+

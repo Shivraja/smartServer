@@ -1,0 +1,2396 @@
+Wed, 7 Feb 2018 10:53:12 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:53:12 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001002\''
+
+Wed, 7 Feb 2018 10:53:12 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:53:12 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:53:12 AM UTC : .php
+array (
+  0 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+)
+
+Wed, 7 Feb 2018 10:53:12 AM UTC : .php
+'{"multicast_id":5041120052239227332,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:53:12 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001003',
+  'student_name' => 'kaviya',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+'{"multicast_id":5368991575156455120,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001496761860%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001003\''
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+array (
+  0 => 'ejOdWSsSi0A:APA91bEEEnCH4i6YmOEGVsDthlmk0jz6rfSkO6rl3_wwNXi44EfaKDIWpdPojIqgOb3reelt2jyJOMlmsiV5upBPBh0TILNZWtYqbFgAcznhMIpyyVV7QMZ9ltEBlmlkL5IGJo3RDKWh',
+)
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+'{"multicast_id":5252548851218663627,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:53:27 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001004',
+  'student_name' => 'Ashmeen shabana',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+'{"multicast_id":7787010421448607097,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001508819203%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001004\''
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+array (
+  0 => 'f3qMawycPUA:APA91bHqFJqa15kOU9f2cCH-g0PmpEA8wI-ZytUOdOu58CYqdXDI42RHTgQo-rzrKPr-vYWXmQnI--KXqKvKh4etDRAkWvrhoEtjY5da_DBtPSUOlI4ZJGhKMasA4uQmNKeNA1TxBHQG',
+)
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+'{"multicast_id":9201203791376922166,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:53:39 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:53:53 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:53:53 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:53:53 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:53:53 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001005',
+  'student_name' => 'abirami.j',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:53:53 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:53:54 AM UTC : .php
+'{"multicast_id":6154642553112260909,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001523276944%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:53:54 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:53:54 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001005\''
+
+Wed, 7 Feb 2018 10:53:54 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:53:54 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:53:54 AM UTC : .php
+array (
+  0 => 'elW1VGyTS3g:APA91bG-mPffcLjsMj1E072-qqqoOyGrVGFaHymdC_87kgR9LFBoBfMX2jatx9VMVCKEp5eV71wHACx2hcHK8Ror51-6LHcH9yar5sUxKA7LyQ_UDCgSAIP7RfhD9AGuGnYQ0_ASU6pC',
+)
+
+Wed, 7 Feb 2018 10:53:54 AM UTC : .php
+'{"multicast_id":5196682506161604657,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001523384850%30ba418f85120eb2"}]}'
+
+Wed, 7 Feb 2018 10:53:54 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001006',
+  'student_name' => 'Akshaya',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+'{"multicast_id":6954757865452585036,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001533669321%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001006\''
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+array (
+  0 => 'c3aspowa1j0:APA91bFJRm4UvDAIp-YA-0KXlV-Z8nBqxaoMIGRj7nxFoa2hMUZYR3i62hZjGYP2m7TzI7IoTyxSvG68IsE5gJz8U87ks1fAK9xz1WmOEzQEnMYdO4WiCJCIka2TkAbywWjPqJxr6PiW',
+)
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+'{"multicast_id":9120490611564424920,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001533753450%30ba418f85120eb2"}]}'
+
+Wed, 7 Feb 2018 10:54:04 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001007',
+  'student_name' => 'Suganthi',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+'{"multicast_id":6792651544498061190,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001549998432%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001007\''
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+array (
+  0 => 'cC9AzusK6ts:APA91bE5sBKUtyNnUYkvNVJNhJl5RpHJmMQcL-VNI8_PuBS074Dj_IiFfXxpnmUSDoRm0hyGt_-Bqem2IPvVtQ2ZIUmBifbJB9MSZNo6by9jkiOJke8hYVlVgppq8K1O1WyAxLIrirrH',
+)
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+'{"multicast_id":5468715322734790849,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:54:20 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001008',
+  'student_name' => 'bhuvaneswari',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+'{"multicast_id":8544482526367576782,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001558904328%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001008\''
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+array (
+  0 => 'cUDgMQOjpyE:APA91bGQhIII54Cm5Az-lpFXAzmAWOkwXO2kh3uUdjvS4hGhpD4ghhFSE1AmH6AyP-eGjYo5pMTyW_IVFzgW07ENacjtN8XyPjhuyKTDl-m5a1PZXvnTC8kAh0lpbCXJzI0KvmlrtadD',
+)
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+'{"multicast_id":5457947819958038523,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:54:29 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001009',
+  'student_name' => 'subitcha',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+'{"multicast_id":8910599483867075275,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001566956566%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001009\''
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+array (
+  0 => 'djqpYmdNWxM:APA91bG7kKk6ukGpePxywdf1Agt0Gyr5fuHRc9XHFpaoxYMaCQOO5NaYzu5_eWS-hV5_kV6ly5ZXQ3E4wReHfeJn107xIiA1nGgcrWzkYXjE8dfaYb7X-Po-ZO-9fG5lpShxAmtimJ21',
+)
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+'{"multicast_id":6416488210136010670,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:54:37 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:51 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:54:51 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:54:51 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:51 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001010',
+  'student_name' => 'Arun',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:51 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:54:52 AM UTC : .php
+'{"multicast_id":5619897038071022056,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001581305992%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:54:52 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:54:52 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001010\''
+
+Wed, 7 Feb 2018 10:54:52 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:54:52 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 10:54:52 AM UTC : .php
+array (
+  0 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+)
+
+Wed, 7 Feb 2018 10:54:52 AM UTC : .php
+'{"multicast_id":9001028618857408164,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:54:52 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:55:14 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:55:14 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001002\''
+
+Wed, 7 Feb 2018 10:55:14 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:55:14 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:55:14 AM UTC : .php
+array (
+  0 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+)
+
+Wed, 7 Feb 2018 10:55:14 AM UTC : .php
+'{"multicast_id":8868644020990571534,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:55:14 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001003',
+  'student_name' => 'kaviya',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+'{"multicast_id":9019499932560409563,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001610501587%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001003\''
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+array (
+  0 => 'ejOdWSsSi0A:APA91bEEEnCH4i6YmOEGVsDthlmk0jz6rfSkO6rl3_wwNXi44EfaKDIWpdPojIqgOb3reelt2jyJOMlmsiV5upBPBh0TILNZWtYqbFgAcznhMIpyyVV7QMZ9ltEBlmlkL5IGJo3RDKWh',
+)
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+'{"multicast_id":4751834306880853838,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:55:21 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001004',
+  'student_name' => 'Ashmeen shabana',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+'{"multicast_id":7217127942671279552,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001617724208%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001004\''
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+array (
+  0 => 'f3qMawycPUA:APA91bHqFJqa15kOU9f2cCH-g0PmpEA8wI-ZytUOdOu58CYqdXDI42RHTgQo-rzrKPr-vYWXmQnI--KXqKvKh4etDRAkWvrhoEtjY5da_DBtPSUOlI4ZJGhKMasA4uQmNKeNA1TxBHQG',
+)
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+'{"multicast_id":8518955484750476785,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:55:28 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001005',
+  'student_name' => 'abirami.j',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+'{"multicast_id":5255453484527646013,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001658740037%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001005\''
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+array (
+  0 => 'elW1VGyTS3g:APA91bG-mPffcLjsMj1E072-qqqoOyGrVGFaHymdC_87kgR9LFBoBfMX2jatx9VMVCKEp5eV71wHACx2hcHK8Ror51-6LHcH9yar5sUxKA7LyQ_UDCgSAIP7RfhD9AGuGnYQ0_ASU6pC',
+)
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+'{"multicast_id":5973310239272086692,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001658843910%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:56:09 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001006',
+  'student_name' => 'Akshaya',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+'{"multicast_id":5441313340473419368,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001668472279%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001006\''
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+array (
+  0 => 'c3aspowa1j0:APA91bFJRm4UvDAIp-YA-0KXlV-Z8nBqxaoMIGRj7nxFoa2hMUZYR3i62hZjGYP2m7TzI7IoTyxSvG68IsE5gJz8U87ks1fAK9xz1WmOEzQEnMYdO4WiCJCIka2TkAbywWjPqJxr6PiW',
+)
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+'{"multicast_id":7077200648279684817,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001668558699%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:56:19 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001007',
+  'student_name' => 'Suganthi',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+'{"multicast_id":7614109141753400475,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001678078425%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001007\''
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+array (
+  0 => 'cC9AzusK6ts:APA91bE5sBKUtyNnUYkvNVJNhJl5RpHJmMQcL-VNI8_PuBS074Dj_IiFfXxpnmUSDoRm0hyGt_-Bqem2IPvVtQ2ZIUmBifbJB9MSZNo6by9jkiOJke8hYVlVgppq8K1O1WyAxLIrirrH',
+)
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+'{"multicast_id":7576468039279343012,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:56:28 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001008',
+  'student_name' => 'bhuvaneswari',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+'{"multicast_id":8479319052896298735,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001686990780%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001008\''
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+array (
+  0 => 'cUDgMQOjpyE:APA91bGQhIII54Cm5Az-lpFXAzmAWOkwXO2kh3uUdjvS4hGhpD4ghhFSE1AmH6AyP-eGjYo5pMTyW_IVFzgW07ENacjtN8XyPjhuyKTDl-m5a1PZXvnTC8kAh0lpbCXJzI0KvmlrtadD',
+)
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+'{"multicast_id":7988783247337536421,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:56:37 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001009',
+  'student_name' => 'subitcha',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+'{"multicast_id":8240068639641437791,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001699715971%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001009\''
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+array (
+  0 => 'djqpYmdNWxM:APA91bG7kKk6ukGpePxywdf1Agt0Gyr5fuHRc9XHFpaoxYMaCQOO5NaYzu5_eWS-hV5_kV6ly5ZXQ3E4wReHfeJn107xIiA1nGgcrWzkYXjE8dfaYb7X-Po-ZO-9fG5lpShxAmtimJ21',
+)
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+'{"multicast_id":9142395821481676328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:56:50 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001010',
+  'student_name' => 'Arun',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+'{"multicast_id":7139829371586366215,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001715815644%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001010\''
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+array (
+  0 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+)
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+'{"multicast_id":8770194365840121140,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:57:06 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:17 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:57:17 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001002\''
+
+Wed, 7 Feb 2018 10:57:17 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:17 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:17 AM UTC : .php
+array (
+  0 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+)
+
+Wed, 7 Feb 2018 10:57:18 AM UTC : .php
+'{"multicast_id":8451037868755027372,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:57:18 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001003',
+  'student_name' => 'kaviya',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+'{"multicast_id":6450905529121913094,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001732856251%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001003\''
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+array (
+  0 => 'ejOdWSsSi0A:APA91bEEEnCH4i6YmOEGVsDthlmk0jz6rfSkO6rl3_wwNXi44EfaKDIWpdPojIqgOb3reelt2jyJOMlmsiV5upBPBh0TILNZWtYqbFgAcznhMIpyyVV7QMZ9ltEBlmlkL5IGJo3RDKWh',
+)
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+'{"multicast_id":7245711666364073142,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:57:23 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001004',
+  'student_name' => 'Ashmeen shabana',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+'{"multicast_id":6771270433332795943,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001738752439%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001004\''
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+array (
+  0 => 'f3qMawycPUA:APA91bHqFJqa15kOU9f2cCH-g0PmpEA8wI-ZytUOdOu58CYqdXDI42RHTgQo-rzrKPr-vYWXmQnI--KXqKvKh4etDRAkWvrhoEtjY5da_DBtPSUOlI4ZJGhKMasA4uQmNKeNA1TxBHQG',
+)
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+'{"multicast_id":4818671072719322068,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:57:29 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001005',
+  'student_name' => 'abirami.j',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+'{"multicast_id":7638432038830437930,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001746794165%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001005\''
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+array (
+  0 => 'elW1VGyTS3g:APA91bG-mPffcLjsMj1E072-qqqoOyGrVGFaHymdC_87kgR9LFBoBfMX2jatx9VMVCKEp5eV71wHACx2hcHK8Ror51-6LHcH9yar5sUxKA7LyQ_UDCgSAIP7RfhD9AGuGnYQ0_ASU6pC',
+)
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+'{"multicast_id":4790041884340771769,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001746868863%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:57:37 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001006',
+  'student_name' => 'Akshaya',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+'{"multicast_id":8772117323721623481,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001757167330%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001006\''
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+array (
+  0 => 'c3aspowa1j0:APA91bFJRm4UvDAIp-YA-0KXlV-Z8nBqxaoMIGRj7nxFoa2hMUZYR3i62hZjGYP2m7TzI7IoTyxSvG68IsE5gJz8U87ks1fAK9xz1WmOEzQEnMYdO4WiCJCIka2TkAbywWjPqJxr6PiW',
+)
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+'{"multicast_id":4898854311220887135,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001757241282%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:57:47 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001007',
+  'student_name' => 'Suganthi',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+'{"multicast_id":8113225048728111475,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001766019807%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001007\''
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+array (
+  0 => 'cC9AzusK6ts:APA91bE5sBKUtyNnUYkvNVJNhJl5RpHJmMQcL-VNI8_PuBS074Dj_IiFfXxpnmUSDoRm0hyGt_-Bqem2IPvVtQ2ZIUmBifbJB9MSZNo6by9jkiOJke8hYVlVgppq8K1O1WyAxLIrirrH',
+)
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+'{"multicast_id":5036425714657794849,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:57:56 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001008',
+  'student_name' => 'bhuvaneswari',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+'{"multicast_id":8749188108364851975,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001776464796%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001008\''
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+array (
+  0 => 'cUDgMQOjpyE:APA91bGQhIII54Cm5Az-lpFXAzmAWOkwXO2kh3uUdjvS4hGhpD4ghhFSE1AmH6AyP-eGjYo5pMTyW_IVFzgW07ENacjtN8XyPjhuyKTDl-m5a1PZXvnTC8kAh0lpbCXJzI0KvmlrtadD',
+)
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+'{"multicast_id":8857965140842062701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:58:07 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001009',
+  'student_name' => 'subitcha',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+'{"multicast_id":5906622333256527221,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001785987190%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001009\''
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+array (
+  0 => 'djqpYmdNWxM:APA91bG7kKk6ukGpePxywdf1Agt0Gyr5fuHRc9XHFpaoxYMaCQOO5NaYzu5_eWS-hV5_kV6ly5ZXQ3E4wReHfeJn107xIiA1nGgcrWzkYXjE8dfaYb7X-Po-ZO-9fG5lpShxAmtimJ21',
+)
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+'{"multicast_id":6499471405259280902,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:58:16 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001010',
+  'student_name' => 'Arun',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+'{"multicast_id":8287826394748405519,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001796157400%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001010\''
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+array (
+  0 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+)
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+'{"multicast_id":7710153430780829858,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:58:26 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:35 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:58:35 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001002\''
+
+Wed, 7 Feb 2018 10:58:35 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:35 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:58:35 AM UTC : .php
+array (
+  0 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+)
+
+Wed, 7 Feb 2018 10:58:35 AM UTC : .php
+'{"multicast_id":5459551940582987752,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:58:35 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001003',
+  'student_name' => 'kaviya',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+'{"multicast_id":5366959551307739972,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001811206340%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001003\''
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:58:41 AM UTC : .php
+array (
+  0 => 'ejOdWSsSi0A:APA91bEEEnCH4i6YmOEGVsDthlmk0jz6rfSkO6rl3_wwNXi44EfaKDIWpdPojIqgOb3reelt2jyJOMlmsiV5upBPBh0TILNZWtYqbFgAcznhMIpyyVV7QMZ9ltEBlmlkL5IGJo3RDKWh',
+)
+
+Wed, 7 Feb 2018 10:58:42 AM UTC : .php
+'{"multicast_id":5374871359248458748,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:58:42 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001004',
+  'student_name' => 'Ashmeen shabana',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+'{"multicast_id":7514488513621203839,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001817758914%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001004\''
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+array (
+  0 => 'f3qMawycPUA:APA91bHqFJqa15kOU9f2cCH-g0PmpEA8wI-ZytUOdOu58CYqdXDI42RHTgQo-rzrKPr-vYWXmQnI--KXqKvKh4etDRAkWvrhoEtjY5da_DBtPSUOlI4ZJGhKMasA4uQmNKeNA1TxBHQG',
+)
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+'{"multicast_id":7544203449788945175,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:58:48 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001005',
+  'student_name' => 'abirami.j',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+'{"multicast_id":6086831326439879018,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001826440663%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001005\''
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+array (
+  0 => 'elW1VGyTS3g:APA91bG-mPffcLjsMj1E072-qqqoOyGrVGFaHymdC_87kgR9LFBoBfMX2jatx9VMVCKEp5eV71wHACx2hcHK8Ror51-6LHcH9yar5sUxKA7LyQ_UDCgSAIP7RfhD9AGuGnYQ0_ASU6pC',
+)
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+'{"multicast_id":6708084925940845561,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001826523582%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:58:57 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001006',
+  'student_name' => 'Akshaya',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+'{"multicast_id":6748886088510036593,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001837847075%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001006\''
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+array (
+  0 => 'c3aspowa1j0:APA91bFJRm4UvDAIp-YA-0KXlV-Z8nBqxaoMIGRj7nxFoa2hMUZYR3i62hZjGYP2m7TzI7IoTyxSvG68IsE5gJz8U87ks1fAK9xz1WmOEzQEnMYdO4WiCJCIka2TkAbywWjPqJxr6PiW',
+)
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+'{"multicast_id":8184572509765610108,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001837931103%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:59:08 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001007',
+  'student_name' => 'Suganthi',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+'{"multicast_id":7754152286482626530,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001846209958%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001007\''
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:16 AM UTC : .php
+array (
+  0 => 'cC9AzusK6ts:APA91bE5sBKUtyNnUYkvNVJNhJl5RpHJmMQcL-VNI8_PuBS074Dj_IiFfXxpnmUSDoRm0hyGt_-Bqem2IPvVtQ2ZIUmBifbJB9MSZNo6by9jkiOJke8hYVlVgppq8K1O1WyAxLIrirrH',
+)
+
+Wed, 7 Feb 2018 10:59:17 AM UTC : .php
+'{"multicast_id":6717825068663727166,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:59:17 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001008',
+  'student_name' => 'bhuvaneswari',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+'{"multicast_id":7619814767826493115,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001854491000%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001008\''
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+array (
+  0 => 'cUDgMQOjpyE:APA91bGQhIII54Cm5Az-lpFXAzmAWOkwXO2kh3uUdjvS4hGhpD4ghhFSE1AmH6AyP-eGjYo5pMTyW_IVFzgW07ENacjtN8XyPjhuyKTDl-m5a1PZXvnTC8kAh0lpbCXJzI0KvmlrtadD',
+)
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+'{"multicast_id":6143191329032779172,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:59:25 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001009',
+  'student_name' => 'subitcha',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+'{"multicast_id":8203730151036194542,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001862419247%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001009\''
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+array (
+  0 => 'djqpYmdNWxM:APA91bG7kKk6ukGpePxywdf1Agt0Gyr5fuHRc9XHFpaoxYMaCQOO5NaYzu5_eWS-hV5_kV6ly5ZXQ3E4wReHfeJn107xIiA1nGgcrWzkYXjE8dfaYb7X-Po-ZO-9fG5lpShxAmtimJ21',
+)
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+'{"multicast_id":6937042206714444306,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:59:33 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001010',
+  'student_name' => 'Arun',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+'{"multicast_id":6869800122198816433,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518001872729035%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001010\''
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+array (
+  0 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+)
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+'{"multicast_id":6473420166046955668,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}'
+
+Wed, 7 Feb 2018 10:59:43 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:09:14 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:14 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:14 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:14 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:14 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:14 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:15 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:15 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:15 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:15 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:15 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:15 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:15 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:15 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:16 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:16 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:16 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:16 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:17 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:17 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:17 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:17 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:09:17 AM UTC : 1604001014.php
+'sivaranjini'
+
+Wed, 7 Feb 2018 11:09:17 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 7 Feb 2018 11:10:29 AM UTC : gcm_register.php
+'GCM Registration Started'
+
+Wed, 7 Feb 2018 11:10:29 AM UTC : gcm_register.php
+'College Id -> 1604001014'
+
+Wed, 7 Feb 2018 11:10:29 AM UTC : gcm_register.php
+'Registration Token -> dCw06mh1cXQ:APA91bGLPCxNXtxeQSEPL-K6ugqcJi6u9HVIaWIxfHGSz0Zhtq4zihaIuxNpHRM8_eoM8L_z8fFaZkYF17PJOqZzajSMGQJAwh3tj6wpDI31u0QcTI669lLq_P8M0VzNLff3jp9wkxXQ'
+
+Wed, 7 Feb 2018 11:10:29 AM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001014',
+  'student_name' => 'Yamuna',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+'{"multicast_id":6091005145604771304,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002777486160%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001014\''
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+array (
+  0 => 'dCw06mh1cXQ:APA91bGLPCxNXtxeQSEPL-K6ugqcJi6u9HVIaWIxfHGSz0Zhtq4zihaIuxNpHRM8_eoM8L_z8fFaZkYF17PJOqZzajSMGQJAwh3tj6wpDI31u0QcTI669lLq_P8M0VzNLff3jp9wkxXQ',
+)
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+'{"multicast_id":5384244095668923879,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002777600729%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:14:48 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001025',
+  'student_name' => 'Rina Juliet ',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+'{"multicast_id":6209886136854889833,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002789667567%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001025\''
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Dental Materials ',
+)
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+array (
+  0 => 'ejQjrRBcXj8:APA91bF38svDGABip9yIe-kEIFYwNbumRDUS1DDIMTI6NM1Tob2d8-LNfLB7LYQ-FEYBsAjn6zEKIJ0MhJZmRCtY3yEl9f-obc9GGyEzcccfEisjVgjmNP_JfyUg3e_tjzJl4KuD9UQG',
+)
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+'{"multicast_id":8180781569929847320,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002789768982%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:00 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001014',
+  'student_name' => 'Yamuna',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+'{"multicast_id":4900452117621193085,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002800582373%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001014\''
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+array (
+  0 => 'dCw06mh1cXQ:APA91bGLPCxNXtxeQSEPL-K6ugqcJi6u9HVIaWIxfHGSz0Zhtq4zihaIuxNpHRM8_eoM8L_z8fFaZkYF17PJOqZzajSMGQJAwh3tj6wpDI31u0QcTI669lLq_P8M0VzNLff3jp9wkxXQ',
+)
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+'{"multicast_id":8392121419724461969,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002800676784%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:11 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001025',
+  'student_name' => 'Rina Juliet ',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+'{"multicast_id":7202420069593715627,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002809700109%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001025\''
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pathology ',
+)
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+array (
+  0 => 'ejQjrRBcXj8:APA91bF38svDGABip9yIe-kEIFYwNbumRDUS1DDIMTI6NM1Tob2d8-LNfLB7LYQ-FEYBsAjn6zEKIJ0MhJZmRCtY3yEl9f-obc9GGyEzcccfEisjVgjmNP_JfyUg3e_tjzJl4KuD9UQG',
+)
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+'{"multicast_id":5872224742461920471,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002809785004%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:20 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001014',
+  'student_name' => 'Yamuna',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+'{"multicast_id":7212777453647806856,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002820687572%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001014\''
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+array (
+  0 => 'dCw06mh1cXQ:APA91bGLPCxNXtxeQSEPL-K6ugqcJi6u9HVIaWIxfHGSz0Zhtq4zihaIuxNpHRM8_eoM8L_z8fFaZkYF17PJOqZzajSMGQJAwh3tj6wpDI31u0QcTI669lLq_P8M0VzNLff3jp9wkxXQ',
+)
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+'{"multicast_id":5889196963025834136,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002820766624%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:31 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001025',
+  'student_name' => 'Rina Juliet ',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+'{"multicast_id":4790506037909556797,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002832071987%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001025\''
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Pharmacology ',
+)
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+array (
+  0 => 'ejQjrRBcXj8:APA91bF38svDGABip9yIe-kEIFYwNbumRDUS1DDIMTI6NM1Tob2d8-LNfLB7LYQ-FEYBsAjn6zEKIJ0MhJZmRCtY3yEl9f-obc9GGyEzcccfEisjVgjmNP_JfyUg3e_tjzJl4KuD9UQG',
+)
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+'{"multicast_id":5515752493919590807,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002832159577%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:42 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001014',
+  'student_name' => 'Yamuna',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+'{"multicast_id":4927373841198588534,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002842039801%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001014\''
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+array (
+  0 => 'dCw06mh1cXQ:APA91bGLPCxNXtxeQSEPL-K6ugqcJi6u9HVIaWIxfHGSz0Zhtq4zihaIuxNpHRM8_eoM8L_z8fFaZkYF17PJOqZzajSMGQJAwh3tj6wpDI31u0QcTI669lLq_P8M0VzNLff3jp9wkxXQ',
+)
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+'{"multicast_id":5794625056308722255,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002842126268%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:15:52 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'709053\''
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '709053',
+  'student_id' => '1604001025',
+  'student_name' => 'Rina Juliet ',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+array (
+  0 => 'cU5N9_I9630:APA91bGGHKc5bCJ0wkkd8zgqlvlwVqJFQGRmK8t8MaRtt6vLKctw8IODkjN-Jrdi7UkEk8H8WpwYyz6yric5ZiVxQjtBK51K_rGulciIi9zfT56G65d0G_Tk59Trhvf3X2F0yJ2DooMl',
+)
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+'{"multicast_id":4784946371975495318,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002850511827%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+'Send to FCM Ended'
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001025\''
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+'Send to FCM Started'
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '709053',
+  'subject_id' => 'Microbiology ',
+)
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+array (
+  0 => 'ejQjrRBcXj8:APA91bF38svDGABip9yIe-kEIFYwNbumRDUS1DDIMTI6NM1Tob2d8-LNfLB7LYQ-FEYBsAjn6zEKIJ0MhJZmRCtY3yEl9f-obc9GGyEzcccfEisjVgjmNP_JfyUg3e_tjzJl4KuD9UQG',
+)
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+'{"multicast_id":5276892875542961697,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1518002850613690%30ba418ff9fd7ecd"}]}'
+
+Wed, 7 Feb 2018 11:16:01 AM UTC : .php
+'Send to FCM Ended'
+

@@ -1,0 +1,35 @@
+Sun, 16 Jul 2017 10:40:31 AM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Sun, 16 Jul 2017 10:40:31 AM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001039\',\'Oralhis\',\'1505001004\',\'mucosa\',\'80.0\')'
+
+Sun, 16 Jul 2017 10:40:31 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Sun, 16 Jul 2017 10:40:31 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 16 Jul 2017 10:40:31 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001039',
+  'assignment_id' => '1505001004test1496074524',
+  'score' => '80.0',
+)
+
+Sun, 16 Jul 2017 10:40:31 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Sun, 16 Jul 2017 10:40:32 AM UTC : .php
+'{"multicast_id":6618112742079090587,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1500201912014582%30ba418ff9fd7ecd"}]}'
+
+Sun, 16 Jul 2017 10:40:32 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 16 Jul 2017 10:40:32 AM UTC : notify_completed.php
+'Ended Notify-Completed'
+

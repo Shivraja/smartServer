@@ -1,0 +1,472 @@
+Fri, 26 May 2017 01:19:42 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:19:42 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:19:42 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:19:42 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:19:56 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:19:56 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:20:14 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:20:14 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:20:14 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:20:14 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:20:15 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:20:15 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:20:16 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:20:16 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:20:16 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:20:16 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:20:41 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:20:41 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:20:42 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:20:42 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:01 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:01 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:01 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:01 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:05 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:05 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:05 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:05 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:06 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:06 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:06 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:06 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:06 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:06 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:07 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:07 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:07 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:07 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:07 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:07 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:19 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:19 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:19 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:19 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:20 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:20 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:21 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:21 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:22 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:22 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:22 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:22 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:23 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:23 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:23 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:23 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:21:23 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:21:23 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:33:30 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:33:30 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:33:31 AM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 01:33:31 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 08:02:53 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+'Send to FCM Started'
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001009',
+  'student_name' => 'subitcha',
+  'subject_id' => 'Anat',
+)
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+'{"multicast_id":7234497712120031107,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495785951028811%30ba418ff9fd7ecd"}]}'
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+'Send to FCM Ended'
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001009\''
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+'Send to FCM Started'
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Anat',
+)
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+array (
+  0 => 'djqpYmdNWxM:APA91bG7kKk6ukGpePxywdf1Agt0Gyr5fuHRc9XHFpaoxYMaCQOO5NaYzu5_eWS-hV5_kV6ly5ZXQ3E4wReHfeJn107xIiA1nGgcrWzkYXjE8dfaYb7X-Po-ZO-9fG5lpShxAmtimJ21',
+)
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+'{"multicast_id":4807446233590802157,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495785951110056%30ba418ff9fd7ecd"}]}'
+
+Fri, 26 May 2017 08:02:53 AM UTC : .php
+'Send to FCM Ended'
+
+Fri, 26 May 2017 08:03:07 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+'Send to FCM Started'
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001009',
+  'student_name' => 'subitcha',
+  'subject_id' => 'Biochem',
+)
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+'{"multicast_id":4861570139656247435,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495785965457837%30ba418ff9fd7ecd"}]}'
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+'Send to FCM Ended'
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001009\''
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+'Send to FCM Started'
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Biochem',
+)
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+array (
+  0 => 'djqpYmdNWxM:APA91bG7kKk6ukGpePxywdf1Agt0Gyr5fuHRc9XHFpaoxYMaCQOO5NaYzu5_eWS-hV5_kV6ly5ZXQ3E4wReHfeJn107xIiA1nGgcrWzkYXjE8dfaYb7X-Po-ZO-9fG5lpShxAmtimJ21',
+)
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+'{"multicast_id":6165759457875590745,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495785965528853%30ba418ff9fd7ecd"}]}'
+
+Fri, 26 May 2017 08:03:07 AM UTC : .php
+'Send to FCM Ended'
+
+Fri, 26 May 2017 08:03:19 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+'Send to FCM Started'
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001009',
+  'student_name' => 'subitcha',
+  'subject_id' => 'Oralhis',
+)
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+'{"multicast_id":6142099330567548580,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495785976788185%30ba418ff9fd7ecd"}]}'
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+'Send to FCM Ended'
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001009\''
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+'Send to FCM Started'
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Oralhis',
+)
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+array (
+  0 => 'djqpYmdNWxM:APA91bG7kKk6ukGpePxywdf1Agt0Gyr5fuHRc9XHFpaoxYMaCQOO5NaYzu5_eWS-hV5_kV6ly5ZXQ3E4wReHfeJn107xIiA1nGgcrWzkYXjE8dfaYb7X-Po-ZO-9fG5lpShxAmtimJ21',
+)
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+'{"multicast_id":7556971030452891122,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495785976879096%30ba418ff9fd7ecd"}]}'
+
+Fri, 26 May 2017 08:03:19 AM UTC : .php
+'Send to FCM Ended'
+
+Fri, 26 May 2017 08:03:32 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+'Send to FCM Started'
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001009',
+  'student_name' => 'subitcha',
+  'subject_id' => 'Physio',
+)
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+'{"multicast_id":8995147815942937032,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495785989810936%30ba418ff9fd7ecd"}]}'
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+'Send to FCM Ended'
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001009\''
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+'Send to FCM Started'
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Physio',
+)
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+array (
+  0 => 'djqpYmdNWxM:APA91bG7kKk6ukGpePxywdf1Agt0Gyr5fuHRc9XHFpaoxYMaCQOO5NaYzu5_eWS-hV5_kV6ly5ZXQ3E4wReHfeJn107xIiA1nGgcrWzkYXjE8dfaYb7X-Po-ZO-9fG5lpShxAmtimJ21',
+)
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+'{"multicast_id":5083667157367860807,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495785989900180%30ba418ff9fd7ecd"}]}'
+
+Fri, 26 May 2017 08:03:32 AM UTC : .php
+'Send to FCM Ended'
+
+Fri, 26 May 2017 08:07:27 AM UTC : 1604001010.php
+'arun'
+
+Fri, 26 May 2017 08:07:27 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 08:07:30 AM UTC : 1604001010.php
+'aruna'
+
+Fri, 26 May 2017 08:07:30 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 08:07:30 AM UTC : 1604001010.php
+'aruna'
+
+Fri, 26 May 2017 08:07:30 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 08:07:31 AM UTC : 1604001010.php
+'aruna'
+
+Fri, 26 May 2017 08:07:31 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 08:07:31 AM UTC : 1604001010.php
+'aruna'
+
+Fri, 26 May 2017 08:07:31 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 08:07:32 AM UTC : 1604001010.php
+'aruna'
+
+Fri, 26 May 2017 08:07:32 AM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 01:08:36 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Fri, 26 May 2017 01:08:37 PM UTC : gcm_register.php
+'College Id -> 1604001028'
+
+Fri, 26 May 2017 01:08:37 PM UTC : gcm_register.php
+'Registration Token -> eNgn778gVX8:APA91bECS1vMXrFDAih9pjtz7_SiUqAPnu2nft0Fita3hgI98OyIXSGJq1swfe2vtO1bsA_1ECxXMYrtaZHTJq3rMePmEUEL-R_08AzcbjJP79eYcknadJCwcHt2BvB9FLwkihJBzp7K'
+
+Fri, 26 May 2017 01:08:37 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Fri, 26 May 2017 02:44:13 PM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 02:44:13 PM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 02:44:14 PM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 02:44:14 PM UTC : check_user.php
+'INVALID'
+
+Fri, 26 May 2017 02:44:15 PM UTC : 1604001020.php
+NULL
+
+Fri, 26 May 2017 02:44:15 PM UTC : check_user.php
+'INVALID'
+

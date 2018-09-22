@@ -1,0 +1,138 @@
+Wed, 24 May 2017 01:43:36 AM UTC : 1604001020.php
+'suguna'
+
+Wed, 24 May 2017 01:43:36 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 24 May 2017 01:43:37 AM UTC : 1604001020.php
+'suguna'
+
+Wed, 24 May 2017 01:43:37 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 24 May 2017 01:43:37 AM UTC : 1604001020.php
+'suguna'
+
+Wed, 24 May 2017 01:43:37 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 24 May 2017 01:43:37 AM UTC : 1604001020.php
+'suguna'
+
+Wed, 24 May 2017 01:43:37 AM UTC : check_user.php
+'STUDENT'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'GCM Registration Started'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'College Id -> 1604001020'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'Registration Token -> fYmQMhefvqI:APA91bExVb71NrjvWN4XMTbCWV0bZ1kuKGyb-Oemyp0h6tPlLNzuY9v_w91eA07D7WEXRFrxOY98tvdV5xfQLlypyRLoLGFWtKxVLS48xpkzEDbwdOkYRpJ1Jlm8fisujhQu-KECUApv'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'GCM Registration Started'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'College Id -> 1604001020'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'Registration Token -> fYmQMhefvqI:APA91bExVb71NrjvWN4XMTbCWV0bZ1kuKGyb-Oemyp0h6tPlLNzuY9v_w91eA07D7WEXRFrxOY98tvdV5xfQLlypyRLoLGFWtKxVLS48xpkzEDbwdOkYRpJ1Jlm8fisujhQu-KECUApv'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'GCM Registration Started'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'College Id -> 1604001020'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'Registration Token -> fYmQMhefvqI:APA91bExVb71NrjvWN4XMTbCWV0bZ1kuKGyb-Oemyp0h6tPlLNzuY9v_w91eA07D7WEXRFrxOY98tvdV5xfQLlypyRLoLGFWtKxVLS48xpkzEDbwdOkYRpJ1Jlm8fisujhQu-KECUApv'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'GCM Registration Started'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'College Id -> 1604001020'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'Registration Token -> fYmQMhefvqI:APA91bExVb71NrjvWN4XMTbCWV0bZ1kuKGyb-Oemyp0h6tPlLNzuY9v_w91eA07D7WEXRFrxOY98tvdV5xfQLlypyRLoLGFWtKxVLS48xpkzEDbwdOkYRpJ1Jlm8fisujhQu-KECUApv'
+
+Wed, 24 May 2017 01:43:38 AM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Wed, 24 May 2017 11:50:37 AM UTC : 1604001027.php
+'20071999'
+
+Wed, 24 May 2017 11:50:37 AM UTC : check_user.php
+'INVALID'
+
+Wed, 24 May 2017 11:50:38 AM UTC : 1604001027.php
+'20071999'
+
+Wed, 24 May 2017 11:50:38 AM UTC : check_user.php
+'INVALID'
+
+Wed, 24 May 2017 11:50:38 AM UTC : 1604001027.php
+'20071999'
+
+Wed, 24 May 2017 11:50:38 AM UTC : check_user.php
+'INVALID'
+
+Wed, 24 May 2017 11:51:36 AM UTC : gcm_register.php
+'GCM Registration Started'
+
+Wed, 24 May 2017 11:51:36 AM UTC : gcm_register.php
+'College Id -> 1604001027'
+
+Wed, 24 May 2017 11:51:36 AM UTC : gcm_register.php
+'Registration Token -> e4gbPgLCVkI:APA91bF_Mg85qryHKByCvLwNvR6fkh3I9rdNYcy0ySpiLaVJ3JEhPdLjPGqj07-gO7P8DgNEfBZPjtYB8jlRs95kbkb1vAxf60eeI8yoWCIB6eHpwNCCCQv2gHnE6UEQSkQaDyWGdmE2'
+
+Wed, 24 May 2017 11:51:36 AM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Wed, 24 May 2017 03:50:55 PM UTC : 1600401016.php
+'1968999'
+
+Wed, 24 May 2017 03:50:55 PM UTC : check_user.php
+'INVALID'
+
+Wed, 24 May 2017 03:50:56 PM UTC : 1600401016.php
+'1968999'
+
+Wed, 24 May 2017 03:50:56 PM UTC : check_user.php
+'INVALID'
+
+Wed, 24 May 2017 03:51:05 PM UTC : 1600401016.php
+'1968999'
+
+Wed, 24 May 2017 03:51:05 PM UTC : check_user.php
+'INVALID'
+
+Wed, 24 May 2017 03:51:23 PM UTC : 1604001016.php
+'1968999'
+
+Wed, 24 May 2017 03:51:23 PM UTC : check_user.php
+'STUDENT'
+
+Wed, 24 May 2017 03:51:23 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Wed, 24 May 2017 03:51:23 PM UTC : gcm_register.php
+'College Id -> 1604001016'
+
+Wed, 24 May 2017 03:51:23 PM UTC : gcm_register.php
+'Registration Token -> f1NCrbmOUHE:APA91bFIROlYGSSTaSD5KHdB0DeCBLFIwOGZDLCyXqqpjG6vmfy3xcc3C_NfdBa5rv-tNuFDGjIlgi6FnWqCrka5aqmfJRuQooPYOayudqtBxQ9A7MvjkXnwJKfkiGFz5fcmeSy31g29'
+
+Wed, 24 May 2017 03:51:23 PM UTC : gcm_register.php
+'GCM Registration Ended'
+

@@ -1,0 +1,105 @@
+Thu, 22 Jun 2017 02:08:57 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Thu, 22 Jun 2017 02:08:57 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001014\',\'1505001004course1497102690\',\'1505001004\',\'1505001004course1497102690\',\'0.0\')'
+
+Thu, 22 Jun 2017 02:08:57 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Thu, 22 Jun 2017 02:08:57 PM UTC : .php
+'Send to FCM Started'
+
+Thu, 22 Jun 2017 02:08:57 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001014',
+  'assignment_id' => '1505001004course1497102690',
+  'score' => '0.0',
+)
+
+Thu, 22 Jun 2017 02:08:57 PM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Thu, 22 Jun 2017 02:08:57 PM UTC : .php
+'{"multicast_id":6566561228801988774,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1498140769854350%30ba418ff9fd7ecd"}]}'
+
+Thu, 22 Jun 2017 02:08:57 PM UTC : .php
+'Send to FCM Ended'
+
+Thu, 22 Jun 2017 02:08:57 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001014\',\'Anat\',\'1505001004\',\'Embryology\',\'70.0\')'
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : .php
+'Send to FCM Started'
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001014',
+  'assignment_id' => '1505001004test1496552542',
+  'score' => '70.0',
+)
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : .php
+'{"multicast_id":5071925689071283201,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1498140954212497%30ba418ff9fd7ecd"}]}'
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : .php
+'Send to FCM Ended'
+
+Thu, 22 Jun 2017 02:12:01 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001014\',\'Physio\',\'1505001004\',\'Endocrine\',\'0.0\')'
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : .php
+'Send to FCM Started'
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001014',
+  'assignment_id' => '1505001004test1496073952',
+  'score' => '0.0',
+)
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : .php
+'{"multicast_id":6299519764363265979,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1498140954569746%30ba418ff9fd7ecd"}]}'
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : .php
+'Send to FCM Ended'
+
+Thu, 22 Jun 2017 02:12:02 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+

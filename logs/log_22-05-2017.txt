@@ -1,0 +1,665 @@
+Mon, 22 May 2017 02:02:27 AM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Mon, 22 May 2017 02:02:27 AM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'123456\',\'Rajasample\',\'55555\',\'Sample\',\'50.0\')'
+
+Mon, 22 May 2017 02:02:27 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'55555\''
+
+Mon, 22 May 2017 02:02:27 AM UTC : .php
+'Send to FCM Started'
+
+Mon, 22 May 2017 02:02:27 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '123456',
+  'assignment_id' => '55555test1495379269',
+  'score' => '50.0',
+)
+
+Mon, 22 May 2017 02:02:27 AM UTC : .php
+array (
+  0 => 'ffxLuTwY5FA:APA91bEzMVFsm38qcSpczu0zNcDgPs2NMO7xL_31X4tOHNocI0F3gojgTuq8zV3in65Z01ukpBWm0UiR_VKmRhNDfh3sGhoc93TQrTJ_60WQ-gV1lbxvfSWD8KdQQIfscvlZGbxL5SJA',
+)
+
+Mon, 22 May 2017 02:02:28 AM UTC : .php
+'{"multicast_id":5627452881449722755,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495418717088337%30ba418ff9fd7ecd"}]}'
+
+Mon, 22 May 2017 02:02:28 AM UTC : .php
+'Send to FCM Ended'
+
+Mon, 22 May 2017 02:02:28 AM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Mon, 22 May 2017 03:42:21 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:36 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:36 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:36 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:37 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:37 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:37 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:37 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:37 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:37 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:38 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:38 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:38 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:38 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:38 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:38 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:39 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:39 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:39 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:39 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:39 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:39 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:42:40 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:42:40 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:44:49 PM UTC : 1604001041.php
+'ksr12345'
+
+Mon, 22 May 2017 03:44:49 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:45:04 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:45:04 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:45:07 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:45:07 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:45:07 PM UTC : 1604001041.php
+'Vasanth399'
+
+Mon, 22 May 2017 03:45:07 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:45:10 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:45:10 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:45:23 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:45:23 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:45:58 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:45:58 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:46:01 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:46:01 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:46:07 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:46:07 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:46:14 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:46:14 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:46:21 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:46:21 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:46:27 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:46:27 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:46:27 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:46:27 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:46:28 PM UTC : 1604001041.php
+'ksrvasanth399'
+
+Mon, 22 May 2017 03:46:28 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:46:28 PM UTC : 1604001005.php
+'welcomeabi'
+
+Mon, 22 May 2017 03:46:28 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:46:29 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:46:29 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:46:32 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:46:32 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:46:40 PM UTC : 1604001041.php
+'ksrvasanth399'
+
+Mon, 22 May 2017 03:46:40 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:46:48 PM UTC : 1604001041.php
+'ksr12345'
+
+Mon, 22 May 2017 03:46:48 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:47:22 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:47:22 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:47:36 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:47:36 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:48:32 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:48:32 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:51:41 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:51:41 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:51:44 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:51:44 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:52:35 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:52:35 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:52:36 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:52:36 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:52:37 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:52:37 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:52:38 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:52:38 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:52:38 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:52:38 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:52:39 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:52:39 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:52:39 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:52:39 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:52:39 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:52:39 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:02 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:02 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:02 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:02 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:02 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:02 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:03 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:03 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:03 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:03 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:03 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:03 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:04 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:04 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:04 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:04 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:04 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:04 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:05 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:05 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:05 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:05 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:05 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:05 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:06 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:06 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:06 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:06 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:06 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:06 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:20 PM UTC : 1604001014.php
+'yamunabalou'
+
+Mon, 22 May 2017 03:53:20 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:53:20 PM UTC : 1604001014.php
+'yamunabalou'
+
+Mon, 22 May 2017 03:53:20 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:53:31 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:31 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:32 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 03:53:32 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:53:41 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:53:41 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:54:18 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:54:18 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:54:29 PM UTC : 12345.php
+'123456'
+
+Mon, 22 May 2017 03:54:29 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:55:39 PM UTC : 12345.php
+'123456'
+
+Mon, 22 May 2017 03:55:39 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:55:40 PM UTC : 12345.php
+'123456'
+
+Mon, 22 May 2017 03:55:40 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:55:51 PM UTC : 12345.php
+'123456'
+
+Mon, 22 May 2017 03:55:51 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 03:56:14 PM UTC : 123456.php
+'12345'
+
+Mon, 22 May 2017 03:56:14 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:56:15 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 03:56:15 PM UTC : gcm_register.php
+'College Id -> 123456'
+
+Mon, 22 May 2017 03:56:15 PM UTC : gcm_register.php
+'Registration Token -> e3BsR8mbYFA:APA91bFpsM5kALExPKVPxiEFiXa6a0DQda8q1CPF3ht9nDn2GVzSCRhsQqDX-wUZyDDUjqv98omaBPm9tBNrqSlmbAQvpxfL5xiZuXKXdGsVpBczl3ny_I1LzU9Bl0HCcIsEGW7MyXed'
+
+Mon, 22 May 2017 03:56:15 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Mon, 22 May 2017 03:59:08 PM UTC : 1604001029.php
+'ARMI1508'
+
+Mon, 22 May 2017 03:59:08 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:59:08 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 03:59:08 PM UTC : gcm_register.php
+'College Id -> 1604001029'
+
+Mon, 22 May 2017 03:59:08 PM UTC : gcm_register.php
+'Registration Token -> epyfkL7YmJs:APA91bH9Qy9mT5ZdUrxxzfyIqsmHn9pbnbYh4uPFVLyXRwuvxXTxuOyt9pk6PAnW55BxHuTUcMaSKeFjWC4gN3XPQgGDm3WXTsNhldmGaeWBKCno2lVqf4cq6uLCmhRw2QY9JAzCG9TH'
+
+Mon, 22 May 2017 03:59:08 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Mon, 22 May 2017 03:59:44 PM UTC : 1604001036.php
+'ravivasant'
+
+Mon, 22 May 2017 03:59:44 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 03:59:44 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 03:59:44 PM UTC : gcm_register.php
+'College Id -> 1604001036'
+
+Mon, 22 May 2017 03:59:44 PM UTC : gcm_register.php
+'Registration Token -> ee_ngoi5sQA:APA91bFzx2OBQy99Xe33NgDj5akWzf-CAFH1SihRRSYw8pWINjTQ7blFEg3ogxq8K6IsE-CEdPXjc8ChBEBp7KsLWegrDCK7ECjtHs8l2n4bbDoamRhsHWjXZKiOZCSh318k2rizq42B'
+
+Mon, 22 May 2017 03:59:44 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Mon, 22 May 2017 04:12:26 PM UTC : .php
+''
+
+Mon, 22 May 2017 04:12:26 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 04:17:25 PM UTC : 1604001014.php
+'sivaranjini'
+
+Mon, 22 May 2017 04:17:25 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 04:17:25 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 04:17:25 PM UTC : gcm_register.php
+'College Id -> 1604001014'
+
+Mon, 22 May 2017 04:17:25 PM UTC : gcm_register.php
+'Registration Token -> devFfzCZDzk:APA91bHak035bxsGFJd4kRaBaVRRZukueFlpigHeOYAPHFZ8JhtIUw8qqr9lOP0Z4RRLPJQSsiDri9s5ReSikIhgyUUiRhMsL_kxzjIL2xPzjJCn2UwzunVxf6NBGrMAiqyy0gOuZGNX'
+
+Mon, 22 May 2017 04:17:25 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Mon, 22 May 2017 04:20:06 PM UTC : 1604001031.php
+'rameshyayini'
+
+Mon, 22 May 2017 04:20:06 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 04:20:06 PM UTC : 1604001031.php
+'rameshyayini'
+
+Mon, 22 May 2017 04:20:06 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 04:20:07 PM UTC : 1604001031.php
+'rameshyayini'
+
+Mon, 22 May 2017 04:20:07 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 04:20:08 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 04:20:08 PM UTC : gcm_register.php
+'College Id -> 1604001031'
+
+Mon, 22 May 2017 04:20:08 PM UTC : gcm_register.php
+'Registration Token -> cdU2oiy0b7s:APA91bHK3EozkavvWQ2or1PvlqBoI0k0alBujxSn9YLl55YjVgv7pcsgLMCpmR-aiA0w7QTzmR6Ky6RAeRdi680tuhSf71HWCbYZZR5gYm4oB1k1EL_rIlG2Dnb6NcmTZ9I59IYq9SwF'
+
+Mon, 22 May 2017 04:20:08 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Mon, 22 May 2017 04:20:10 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 04:20:10 PM UTC : gcm_register.php
+'College Id -> 1604001031'
+
+Mon, 22 May 2017 04:20:10 PM UTC : gcm_register.php
+'Registration Token -> cdU2oiy0b7s:APA91bHK3EozkavvWQ2or1PvlqBoI0k0alBujxSn9YLl55YjVgv7pcsgLMCpmR-aiA0w7QTzmR6Ky6RAeRdi680tuhSf71HWCbYZZR5gYm4oB1k1EL_rIlG2Dnb6NcmTZ9I59IYq9SwF'
+
+Mon, 22 May 2017 04:20:10 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Mon, 22 May 2017 04:20:11 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 04:20:11 PM UTC : gcm_register.php
+'College Id -> 1604001031'
+
+Mon, 22 May 2017 04:20:11 PM UTC : gcm_register.php
+'Registration Token -> cdU2oiy0b7s:APA91bHK3EozkavvWQ2or1PvlqBoI0k0alBujxSn9YLl55YjVgv7pcsgLMCpmR-aiA0w7QTzmR6Ky6RAeRdi680tuhSf71HWCbYZZR5gYm4oB1k1EL_rIlG2Dnb6NcmTZ9I59IYq9SwF'
+
+Mon, 22 May 2017 04:20:11 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Mon, 22 May 2017 05:09:33 PM UTC : 1604001024.php
+'dharanisenthil007'
+
+Mon, 22 May 2017 05:09:33 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 05:09:35 PM UTC : 1604001024.php
+'dharanisenthil007'
+
+Mon, 22 May 2017 05:09:35 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 05:09:35 PM UTC : 1604001024.php
+'dharanisenthil007'
+
+Mon, 22 May 2017 05:09:35 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 05:09:37 PM UTC : 1604001024.php
+'dharanisenthil007'
+
+Mon, 22 May 2017 05:09:37 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 05:09:37 PM UTC : 1604001024.php
+'dharanisenthil007'
+
+Mon, 22 May 2017 05:09:37 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 05:09:37 PM UTC : 1604001024.php
+'dharanisenthil007'
+
+Mon, 22 May 2017 05:09:37 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 05:09:37 PM UTC : 1604001024.php
+'dharanisenthil007'
+
+Mon, 22 May 2017 05:09:37 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 05:09:38 PM UTC : 1604001024.php
+'dharanisenthil007'
+
+Mon, 22 May 2017 05:09:38 PM UTC : check_user.php
+'INVALID'
+
+Mon, 22 May 2017 05:09:47 PM UTC : 1604001025.php
+'blackstuff28'
+
+Mon, 22 May 2017 05:09:47 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 05:09:47 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 05:09:47 PM UTC : gcm_register.php
+'College Id -> 1604001025'
+
+Mon, 22 May 2017 05:09:47 PM UTC : gcm_register.php
+'Registration Token -> ejQjrRBcXj8:APA91bF38svDGABip9yIe-kEIFYwNbumRDUS1DDIMTI6NM1Tob2d8-LNfLB7LYQ-FEYBsAjn6zEKIJ0MhJZmRCtY3yEl9f-obc9GGyEzcccfEisjVgjmNP_JfyUg3e_tjzJl4KuD9UQG'
+
+Mon, 22 May 2017 05:09:47 PM UTC : gcm_register.php
+'GCM Registration Ended'
+
+Mon, 22 May 2017 05:09:47 PM UTC : 1604001024.php
+'rajavsrani'
+
+Mon, 22 May 2017 05:09:47 PM UTC : check_user.php
+'STUDENT'
+
+Mon, 22 May 2017 05:09:49 PM UTC : gcm_register.php
+'GCM Registration Started'
+
+Mon, 22 May 2017 05:09:49 PM UTC : gcm_register.php
+'College Id -> 1604001024'
+
+Mon, 22 May 2017 05:09:49 PM UTC : gcm_register.php
+'Registration Token -> eBC8-RektIA:APA91bF_J-HSv8OxQQdWyofO71uHYcCR2GCyy2paVYE7RUJqn6W9YAWdoRODNSQhuRHNCD7_jG3Kqkvioev4tR3KXJpm0rBtsWUUnoTETdGsQ1NadK42xRhn31yCL5E40wvPfDgPmZ_3'
+
+Mon, 22 May 2017 05:09:49 PM UTC : gcm_register.php
+'GCM Registration Ended'
+

@@ -1,0 +1,3401 @@
+Tue, 16 May 2017 01:06:24 PM UTC : add_course_server.php
+'Add Course Started'
+
+Tue, 16 May 2017 01:06:24 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:06:24 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_ASSIGNMENT',
+  'assignment_id' => '1505001004course1494939984',
+  'subject_id' => 'Anatomy',
+  'assignment_name' => 'Portions covered till now',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1494939984,
+)
+
+Tue, 16 May 2017 01:06:24 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:06:25 PM UTC : .php
+'{"multicast_id":5345010668663286386,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940143198927%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:06:25 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:06:25 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:06:25 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_COURSE',
+  'assignment_id' => '1505001004course1494939984',
+  'course_name' => 'Portions covered till now',
+  'description' => 'Just tick the chapters in the book that are completed till now and write the important questions given by dept as well as from previous qp, chapter wise and keep in a notebook',
+)
+
+Tue, 16 May 2017 01:06:25 PM UTC : .php
+array (
+  0 => 'dBdl4IlCFNc:APA91bHWic1zV6HojOOpg0m-qhH_Wu6X1_k-96dnOxVddRw6vVe3dfF2ycHuCvFNOn9Ix8usvcWsweg7OZ_VeDGt_8X7jDTRdOi0OcTXn47SffrgsubrW3twkwCQzriFZkjaPfG1WUBL',
+  1 => 'efq3dPd-xHQ:APA91bGWFhc2Td3ca8JP5cio6OHJt3QZ8TSMI33WjrxicbPdsAigEkgY8xLEdyZJrLzEGpApv0rV5ZedrSwap0m5fnjNHBsUy3aUn2_xLAvtT3L5PWs5r1PDPxpZt0s_t920SLeOrmLp',
+  2 => 'eeP0716w_EE:APA91bEInzdjUgNdtIXp5DgQV3ChOmEYLUd1YcR3P36YAfAPRXBvcxjG_ah8DJa_SjFmobAam__8Sun-id61DC8nlL1guvtCcidNhOAGF67VckeWjcFbSC8si1tDesK0SSbwNjrcwc7T',
+  3 => 'cvdA3afIMwU:APA91bGLmOwAs8OkIyCEEVrbnoNC59qj53shh0k-bc3ZuWpr5R_Tx1WxpJ46jzvxXolsztVZtp8nNGGlrI6jd4TWfV9avs8KXyJAJ1VLSI9Zmrq4iLqB8xTVvNFGhpVF87nj3oDTgxW1',
+  4 => 'dsXY_IAauoU:APA91bEJlLFQgUwL3Fo9Hxh-NYdlRXZ-C2VYaIUNPjCyVOyfBiCvxvIh3-JXkW2IcceF1FnwNtYxt1Cb4lzhtryTd4dWYpez3EH_OsQmkXUWaXwDEgiCpffsefwDt7H0EjUvC9bs7Inb',
+  5 => 'fiuDGfY3s5g:APA91bFlHXFjPSvVrqQP063uJRjdztaqRhrR-xUA0LIOzrLsbsHgRFLazTHoHq8ebQ03F5H3d7xzJw4Z1x2Bme1TnZYXbtqDx685Dsg258hCQuxqDKznKNMy-HpLdPqWAkXeuhTHupHN',
+  6 => 'fP7hRtBp1bg:APA91bGjzyG6QkY1AKqtJ0VsPXVCtUJXoO4upqSby-ip-J5WWVrryc9iKjD-9ZrrC-HcRuUxWIxBUavMw9Bx6wTgdbXgEV4vrog1t4ZyCgWYCPXipN4vgeP-bQtlBWSosu4HruMhQLV1',
+  7 => 'fgiB8ou0VHk:APA91bGUQ0d969PjfdHcWXYnTm3scYgfy1CvLJD_HaHPW0YEFrVVaujYmiPVvjzTIZyOEePedMt8RFSY3I2J6YBeWmNyRqA8Prwpds4ggHg3CipS6eHnM14Vy3wCSO0u232zyy3GAOBT',
+  8 => 'e_JmGq8l8TI:APA91bG1X5B30iAgUdu3blhKVDesoV9t_nQF-pLhLgZy6oV8Da13mL63P0TBXMsQ-CiIySU4e-eh94ne_KOv4wlbs90ZGHmpdRU6xHwsZEzp1IRDJzuqHxNS-94tChUuQgSP7VGTuHp6',
+  9 => 'fQWjZx1PnMk:APA91bEqRzmqNetlNIP-SveivkTvPtx9Uk7OiXiTwcJ5Br7hylV5MNN0TEJ6v-T-OOfu8AWhyPT_Ase4A-w2H5b-PPZtdjWo0_XwHS5pzAz9NTqfsWKFdh8PWDjZEPalRArkXGTJw1CN',
+  10 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+  11 => 'fkGF_Q5LX5A:APA91bH2DFrPAsmu4eRsyS2bp46VWIZLjGPD8PInm4y9-PByLTbx_Ijhrlqu1LFi0UOwBmozZ9E88BksYVAq-bEaAJLJpFYCFABR9MuI6DKwbayDYfadQLwEG0S-NNUvJJGBLoSvR3V5',
+  12 => 'dhqNVdTmVwo:APA91bHQUBs4xQUvFM7W2iBLBz15mu9efXfKmPRKEWoRU6mUIcfQV5pPmzcW9DX0XW6gNsjg5EHE5GKWHu0mwQY3MR_ni8eLGzAPC2aFwC7Cb3Y0Vhrl41flTVqq0unvsiPT1GK0gn8u',
+  13 => 'eDV6CYaYkGU:APA91bGZg2Xh1Vav-WiPjJReIyeRbTxt2K43QFLzXU2WsrN5V_5AHQk5Qbbp_oWFOqo47Gak9MPBVP-1Rg1u8Huc_K5eZjpbQPzfsy_eAUSQ_mC_vcQG10ICqE07FnBts4Ljd3nafGaW',
+  14 => 'dr03ytckkWg:APA91bFMUDc53P3a7V9Gb9t4Bhh-usJC_0bB5jT74tBTd3XQ2YcsMw-8T6_mbcjr2ZWQdzjmuyPuSAye6krUonAewSMLxP9HeE_luwrIOPW5Ab_plb8-ZD5WiIdF9ySjJTIBJq6TH1TM',
+  15 => 'frbON8q7MXc:APA91bFR53AhSDlqfMX4yv_NgSbG_-7YHBcwUgwXLfXeiSgSta2qsVy1UQ9-IQdk20NgXGonVaAyyVW2fCgna6nSVibSUIhRvv2DTRNDaWVAtyVEz6pomxve7nEK6bOFhyf-M2eUao3h',
+  16 => 'clXSVC6_S44:APA91bGTpv0IdZXjO838UGLQyuJQzH1LZtxrmnDDHhl1gY13PQL32ZHgH5nBE8_1nAH9QLYWMYoQ7JUhgQ9NdNXAPd8pymLb9_IRbRjbx4QMEc1IpB2FysdMpeYifokwNdN49JY8Frm4',
+  17 => 'dEAlvni_UGU:APA91bHc1Df-8KBWyfqEUsrEKYp42gPMWduHi7uXnw9XDyLruAdjY6rsmw5bGFFKwGcCWP56m4YxpJJ4XyztC3gUCiGi33Ca4ldoezi-LlA5YxJOdB3DtPoxv0X7yXOE3QxzM9o7L3_N',
+  18 => 'cVIz3qXXnyw:APA91bGDad2SeqbnirR1uGIrGRFB6H-nEj0Cw0fWpmyByzJQ6VQal2OUCHzUepEnyr3KZSSqQ6zDfvaOef2DyG_bLnkyZY_Gvbj3LCl1Nkn7vjj-pY0fR8DdUvnuj5rEiPEVT6cK1K7e',
+  19 => 'eAr7Dn6Wewg:APA91bESN8tQlxTNmAXLjEEMLyHBuwbo9nizbsS7IQYlKjJtE3JYaAsAfk6vuqlbjQbPan5r6jqtv3vG_BUMLEbcNWguErbHEivw49xjj5ZRvAMqbAR1_NARbtJhWcBd50eW4ZTfhqg5',
+  20 => 'ckDm5PwYs0c:APA91bGjm1u3KkMMWc-g9bzG1qtGwYxw8rnbuqXwf6DheIFl_KAN7ZADJXZUHUpj5u9fM1TsQh9xKpFEfotNmu6o5Xa9uoHDpn5cktSx4OT9J9pttRscphzBGWv-1mOLCNH3gf6rMrre',
+  21 => 'cDHmXHw9z68:APA91bG19kLfEF9QhhsMQr2SLBnVfgc_oqugk1dZ0YuFAIUdhAfoSr2KQQSMSZbOJMZymYVeWgOaPo0BtVrbjjwMcZZ507VVx-RTa4dyUK7dYXfdCWYV36m7jiBRqddIpSEpxWCkuUwy',
+  22 => 'ekUwTuUE4M0:APA91bFIDnrR2d1sZRFd0kAs4VqRy-_lWtw0q3BfJG5p4iNADWRGS8AOFyhbOoH9y336majoQ_g9PeGmB4AbWQvzq0JHAiTHHwzFfssd0nwl1qew6pC4syclmqx2vDxEqKwxUmFnmwFH',
+  23 => 'ePlIfF1C0A4:APA91bECi4-Fmx1ljnJGQFbobid84SOS5RUGxZqi1EgCCh9rMehwglvvDktHHIm2Bq8Zmc36iVlGZv5iJoK7bU6UKSSHmnORt4iui951kB14cp83vNv4HCwDe4yvUmixnbQoWQPgMJVg',
+  24 => 'ciJKTcdl1zM:APA91bGYe5_0eXuPcvpKMlLfBHkuQOtLwYDaKZN3hTTRBAX4m6GbC7JMy3O7DIAp7fEWkmOj8ZF6-OPdNWrjnyxqcwvfPviQ51qv6FzyqC14xY1P6Pz7EKsOeKBphA1uo82YSd03umqz',
+  25 => 'd2QWcj2n3_s:APA91bGSrh3vXfNHJusapX5O6od71CAYA0Vq_zHCZRYI8sHrX0RAbEDZ0u7AjsADxtR-naKsPpgW0Oeq8FrgBwXWHe2t5Hs465iutqUns23eBuU-NSBWfB5FDLZOhxjocvSQVGupVYw9',
+  26 => 'fKZcl2PqdH8:APA91bFP7ASegCwrrxa-0zc3HfSjh3ZmAJU05yJzDAPKdxFihASMkVgf5BnEnGoKJpzZohqKOwXYeeOI2fAJPzMSJbpAiSsMIcs98TwtPiNcIERHRmotfDfq6DvYmeQxR1OEu2tB1lKt',
+  27 => 'dbXt4Fv2ruc:APA91bEdrGLp_9k1hsHoM4BM0xh_X0cAMJ0vN5DDeBriPCoryUSJD5uF2JekqbLjUovy0LcwoFvGRCCjrZSlwPkf3rgW70vS97qyHmjo40scqPDY8mSpCtw2y17j6iXXIk7VU_UEr58U',
+  28 => 'c07SwHCibiw:APA91bFNcHfVdv11-t5RkJ27KFUI1ameKQCYZtrLresszGjTTvAwLPutVFV9dpIa_T-k72hILH3AdK_9xtOofvYCff0DWFUMh1hz4apaZjgWiFc9220Y5FxPGK_TCi1tvG6wcdtSliQO',
+  29 => 'd8eTwwSaoIU:APA91bHJrXZkcJVv38_8sWOt4M5PULJU2X5FmuzzjL8wM7n2TwywNYohwopmo6xaEgsHBDa8fjK1sEFDlejrfTaYfL5tZnCQN7Z6WTaUUFHkhGL6UK0_dS6h0YnJwt0AnRrzZs13teWE',
+  30 => 'cp6_4WEefV0:APA91bHyJZpRnolOgqHbvo6emt9eoh9cEsb7sqJMbRHf8GMDUfsQykH7MCJgsq3wN8BUiu2mPB9mnj5xZu8LMgL88La7T297QAxNZ7Xj7rCPAy--G8ZK4h1NR-xu9eA-ZEmvLUKxkm_N',
+  31 => 'd2w7ITNyvgw:APA91bE4dXK6yqjJbLdZOsDkakRv3YA9OtKS0WxMi4OHyjl9iJWcdakiYNhBruVrmQapgC9TF5mbhUtsR8zbOXA3iD6jt1N8ewuhWUJ4szO2saibUyWrUwF6pTP1PQ-zZHblMI4MP-DW',
+  32 => 'ee0tYSD7KzQ:APA91bHWmbnijSv9OLasvBe6t2X9wzD9DiWoz_DOWIQPK0v9TZBz0d7xQ6XDnuzqXKuSIxqByXVojpNeSwSdd42QSK0GLjhrk8BZfmf5Esn_IGugRO0JVD9ypulSuhgzhgswSbE6RVnh',
+  33 => 'fANVRkHwfcU:APA91bGjXRouDqRoIMp1oSnYBijIxULcPc6lyUqFd-X16ewiNUwhZUF6aaIvRUOrnWtbKV3ehkluZzhFmS8rRQS_vSOTwXpATOYC9VbUBFCe52ycSRNXbLjPajdwAzQbXeIkdy3yTqdz',
+  34 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+  35 => 'eGS3yNxO34g:APA91bHNffFyg3KUjdhBbqxRNKfjiczH5iVmMZC5L-zV1jvrKtCW_krtuDFgBTkzEEh7mBhdXYTUzOhLVbqRJfV9Fetff_fa_CYURQhTyA4hGjJ-KAx7vMfdJVMC_uT4W2J9akR1fHlq',
+  36 => 'fV0Mp9eid5A:APA91bHUB46kkmk3TCZmGgTqQFFsog-CH2SS5fiirPzSTdVCnqCczcqra6ET2pdwyEozqJROP_5N_6Pb76qYn89QIjkG5QuXz21IGu1Ob7f8fXzfBSVUCeESbDdeYLydgSWBoHDZu-Nl',
+  37 => 'd0xJJq2tVSA:APA91bF3zeSPypJzBSn0cVbH-kuXktVVspImSCK6_ZNBuOcUiaNdU-4oCWk77a7716pePlT9fRcLS8YaTQGEZrHwEvd0FMu8YU4eJqPNmuO64DFDePTgvfPYh9dQ7jNdY1gkhg6-vEUb',
+  38 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+  39 => 'fAW3Oxb5ox0:APA91bHtBD4U7zWmco__fwz_9TmuOUaUHPoiP3xI_drv0PW6tHZ9k05AGDHa9YpXRr9hKr_lNp1X7-ba64vJlDEqZ-o3A8KPnsVKsp6sURnCZ_WQKBmmWr3HMRbrHK9GwM_WjBjcI9Sz',
+  40 => 'duIbcdouWVI:APA91bGOvzc5l1xFUKfQu1zrD_AoDIoaNqlsdr1Zsana7bXSFcjNdNvaJz55hKZDeRit4xNaobldA1tr88YczWWSryC01l_amK_NjF0y847QjDMDSS27dc7slhSg2IsBZq93lD4-Vj2-',
+  41 => 'e-YrC5OhyrU:APA91bHIBcaGkFvquq1UE-hmE_YNo8Jmjzv6p8OMY_6WAvJT8hiiCcZu7iIaFrV8nd_k9dr0Lcjj_L6V9qEl2OhiH2dxIytEB2FsDXiMx5IdtVbkVWEC6NMA0wf-FI6uC5A2NJrJpFPb',
+)
+
+Tue, 16 May 2017 01:06:26 PM UTC : .php
+'{"multicast_id":7263067698917853400,"success":38,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1494940144282975%30ba418ff9fd7ecd"},{"message_id":"0:1494940144288876%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940144283188%30ba418ff9fd7ecd"},{"message_id":"0:1494940144286585%30ba418ff9fd7ecd"},{"message_id":"0:1494940144287084%30ba418ff9fd7ecd"},{"message_id":"0:1494940144290857%30ba418ff9fd7ecd"},{"message_id":"0:1494940144287954%30ba418ff9fd7ecd"},{"message_id":"0:1494940144283189%30ba418ff9fd7ecd"},{"message_id":"0:1494940144288617%30ba418ff9fd7ecd"},{"message_id":"0:1494940144287863%30ba418ff9fd7ecd"},{"message_id":"0:1494940144291825%30ba418ff9fd7ecd"},{"message_id":"0:1494940144287546%30ba418ff9fd7ecd"},{"message_id":"0:1494940144297905%30ba418ff9fd7ecd"},{"message_id":"0:1494940144287956%30ba418ff9fd7ecd"},{"message_id":"0:1494940144287958%30ba418ff9fd7ecd"},{"message_id":"0:1494940144288642%30ba418ff9fd7ecd"},{"message_id":"0:1494940144290810%30ba418ff9fd7ecd"},{"message_id":"0:1494940144295380%30ba418ff9fd7ecd"},{"message_id":"0:1494940144288874%30ba418ff9fd7ecd"},{"message_id":"0:1494940144289937%30ba418ff9fd7ecd"},{"message_id":"0:1494940144288878%30ba418ff9fd7ecd"},{"message_id":"0:1494940144289935%30ba418ff9fd7ecd"},{"message_id":"0:1494940144291769%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940144290814%30ba418ff9fd7ecd"},{"message_id":"0:1494940144288879%30ba418ff9fd7ecd"},{"message_id":"0:1494940144289767%30ba418ff9fd7ecd"},{"message_id":"0:1494940144289941%30ba418ff9fd7ecd"},{"message_id":"0:1494940144289939%30ba418ff9fd7ecd"},{"message_id":"0:1494940144290938%30ba418ff9fd7ecd"},{"message_id":"0:1494940144300686%30ba418ff9fd7ecd"},{"message_id":"0:1494940144299335%30ba418ff9fd7ecd"},{"message_id":"0:1494940144291861%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"error":"NotRegistered"},{"message_id":"0:1494940144292151%30ba418ff9fd7ecd"},{"message_id":"0:1494940144297998%30ba418ff9fd7ecd"},{"message_id":"0:1494940144310964%30ba418ff9fd7ecd"},{"message_id":"0:1494940144293672%30ba418ff9fd7ecd"},{"message_id":"0:1494940144335046%30ba418f85120eb2"},{"message_id":"0:1494940144295503%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:06:26 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:06:26 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:06:26 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_ASSIGNMENT',
+  'subject_id' => 'Anatomy',
+  'assignment_id' => '1505001004course1494939984',
+  'assignment_name' => 'Portions covered till now',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1494939984,
+)
+
+Tue, 16 May 2017 01:06:26 PM UTC : .php
+array (
+  0 => 'dBdl4IlCFNc:APA91bHWic1zV6HojOOpg0m-qhH_Wu6X1_k-96dnOxVddRw6vVe3dfF2ycHuCvFNOn9Ix8usvcWsweg7OZ_VeDGt_8X7jDTRdOi0OcTXn47SffrgsubrW3twkwCQzriFZkjaPfG1WUBL',
+  1 => 'efq3dPd-xHQ:APA91bGWFhc2Td3ca8JP5cio6OHJt3QZ8TSMI33WjrxicbPdsAigEkgY8xLEdyZJrLzEGpApv0rV5ZedrSwap0m5fnjNHBsUy3aUn2_xLAvtT3L5PWs5r1PDPxpZt0s_t920SLeOrmLp',
+  2 => 'eeP0716w_EE:APA91bEInzdjUgNdtIXp5DgQV3ChOmEYLUd1YcR3P36YAfAPRXBvcxjG_ah8DJa_SjFmobAam__8Sun-id61DC8nlL1guvtCcidNhOAGF67VckeWjcFbSC8si1tDesK0SSbwNjrcwc7T',
+  3 => 'cvdA3afIMwU:APA91bGLmOwAs8OkIyCEEVrbnoNC59qj53shh0k-bc3ZuWpr5R_Tx1WxpJ46jzvxXolsztVZtp8nNGGlrI6jd4TWfV9avs8KXyJAJ1VLSI9Zmrq4iLqB8xTVvNFGhpVF87nj3oDTgxW1',
+  4 => 'dsXY_IAauoU:APA91bEJlLFQgUwL3Fo9Hxh-NYdlRXZ-C2VYaIUNPjCyVOyfBiCvxvIh3-JXkW2IcceF1FnwNtYxt1Cb4lzhtryTd4dWYpez3EH_OsQmkXUWaXwDEgiCpffsefwDt7H0EjUvC9bs7Inb',
+  5 => 'fiuDGfY3s5g:APA91bFlHXFjPSvVrqQP063uJRjdztaqRhrR-xUA0LIOzrLsbsHgRFLazTHoHq8ebQ03F5H3d7xzJw4Z1x2Bme1TnZYXbtqDx685Dsg258hCQuxqDKznKNMy-HpLdPqWAkXeuhTHupHN',
+  6 => 'fP7hRtBp1bg:APA91bGjzyG6QkY1AKqtJ0VsPXVCtUJXoO4upqSby-ip-J5WWVrryc9iKjD-9ZrrC-HcRuUxWIxBUavMw9Bx6wTgdbXgEV4vrog1t4ZyCgWYCPXipN4vgeP-bQtlBWSosu4HruMhQLV1',
+  7 => 'fgiB8ou0VHk:APA91bGUQ0d969PjfdHcWXYnTm3scYgfy1CvLJD_HaHPW0YEFrVVaujYmiPVvjzTIZyOEePedMt8RFSY3I2J6YBeWmNyRqA8Prwpds4ggHg3CipS6eHnM14Vy3wCSO0u232zyy3GAOBT',
+  8 => 'e_JmGq8l8TI:APA91bG1X5B30iAgUdu3blhKVDesoV9t_nQF-pLhLgZy6oV8Da13mL63P0TBXMsQ-CiIySU4e-eh94ne_KOv4wlbs90ZGHmpdRU6xHwsZEzp1IRDJzuqHxNS-94tChUuQgSP7VGTuHp6',
+  9 => 'fQWjZx1PnMk:APA91bEqRzmqNetlNIP-SveivkTvPtx9Uk7OiXiTwcJ5Br7hylV5MNN0TEJ6v-T-OOfu8AWhyPT_Ase4A-w2H5b-PPZtdjWo0_XwHS5pzAz9NTqfsWKFdh8PWDjZEPalRArkXGTJw1CN',
+  10 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+  11 => 'fkGF_Q5LX5A:APA91bH2DFrPAsmu4eRsyS2bp46VWIZLjGPD8PInm4y9-PByLTbx_Ijhrlqu1LFi0UOwBmozZ9E88BksYVAq-bEaAJLJpFYCFABR9MuI6DKwbayDYfadQLwEG0S-NNUvJJGBLoSvR3V5',
+  12 => 'dhqNVdTmVwo:APA91bHQUBs4xQUvFM7W2iBLBz15mu9efXfKmPRKEWoRU6mUIcfQV5pPmzcW9DX0XW6gNsjg5EHE5GKWHu0mwQY3MR_ni8eLGzAPC2aFwC7Cb3Y0Vhrl41flTVqq0unvsiPT1GK0gn8u',
+  13 => 'eDV6CYaYkGU:APA91bGZg2Xh1Vav-WiPjJReIyeRbTxt2K43QFLzXU2WsrN5V_5AHQk5Qbbp_oWFOqo47Gak9MPBVP-1Rg1u8Huc_K5eZjpbQPzfsy_eAUSQ_mC_vcQG10ICqE07FnBts4Ljd3nafGaW',
+  14 => 'dr03ytckkWg:APA91bFMUDc53P3a7V9Gb9t4Bhh-usJC_0bB5jT74tBTd3XQ2YcsMw-8T6_mbcjr2ZWQdzjmuyPuSAye6krUonAewSMLxP9HeE_luwrIOPW5Ab_plb8-ZD5WiIdF9ySjJTIBJq6TH1TM',
+  15 => 'frbON8q7MXc:APA91bFR53AhSDlqfMX4yv_NgSbG_-7YHBcwUgwXLfXeiSgSta2qsVy1UQ9-IQdk20NgXGonVaAyyVW2fCgna6nSVibSUIhRvv2DTRNDaWVAtyVEz6pomxve7nEK6bOFhyf-M2eUao3h',
+  16 => 'clXSVC6_S44:APA91bGTpv0IdZXjO838UGLQyuJQzH1LZtxrmnDDHhl1gY13PQL32ZHgH5nBE8_1nAH9QLYWMYoQ7JUhgQ9NdNXAPd8pymLb9_IRbRjbx4QMEc1IpB2FysdMpeYifokwNdN49JY8Frm4',
+  17 => 'dEAlvni_UGU:APA91bHc1Df-8KBWyfqEUsrEKYp42gPMWduHi7uXnw9XDyLruAdjY6rsmw5bGFFKwGcCWP56m4YxpJJ4XyztC3gUCiGi33Ca4ldoezi-LlA5YxJOdB3DtPoxv0X7yXOE3QxzM9o7L3_N',
+  18 => 'cVIz3qXXnyw:APA91bGDad2SeqbnirR1uGIrGRFB6H-nEj0Cw0fWpmyByzJQ6VQal2OUCHzUepEnyr3KZSSqQ6zDfvaOef2DyG_bLnkyZY_Gvbj3LCl1Nkn7vjj-pY0fR8DdUvnuj5rEiPEVT6cK1K7e',
+  19 => 'eAr7Dn6Wewg:APA91bESN8tQlxTNmAXLjEEMLyHBuwbo9nizbsS7IQYlKjJtE3JYaAsAfk6vuqlbjQbPan5r6jqtv3vG_BUMLEbcNWguErbHEivw49xjj5ZRvAMqbAR1_NARbtJhWcBd50eW4ZTfhqg5',
+  20 => 'ckDm5PwYs0c:APA91bGjm1u3KkMMWc-g9bzG1qtGwYxw8rnbuqXwf6DheIFl_KAN7ZADJXZUHUpj5u9fM1TsQh9xKpFEfotNmu6o5Xa9uoHDpn5cktSx4OT9J9pttRscphzBGWv-1mOLCNH3gf6rMrre',
+  21 => 'cDHmXHw9z68:APA91bG19kLfEF9QhhsMQr2SLBnVfgc_oqugk1dZ0YuFAIUdhAfoSr2KQQSMSZbOJMZymYVeWgOaPo0BtVrbjjwMcZZ507VVx-RTa4dyUK7dYXfdCWYV36m7jiBRqddIpSEpxWCkuUwy',
+  22 => 'ekUwTuUE4M0:APA91bFIDnrR2d1sZRFd0kAs4VqRy-_lWtw0q3BfJG5p4iNADWRGS8AOFyhbOoH9y336majoQ_g9PeGmB4AbWQvzq0JHAiTHHwzFfssd0nwl1qew6pC4syclmqx2vDxEqKwxUmFnmwFH',
+  23 => 'ePlIfF1C0A4:APA91bECi4-Fmx1ljnJGQFbobid84SOS5RUGxZqi1EgCCh9rMehwglvvDktHHIm2Bq8Zmc36iVlGZv5iJoK7bU6UKSSHmnORt4iui951kB14cp83vNv4HCwDe4yvUmixnbQoWQPgMJVg',
+  24 => 'ciJKTcdl1zM:APA91bGYe5_0eXuPcvpKMlLfBHkuQOtLwYDaKZN3hTTRBAX4m6GbC7JMy3O7DIAp7fEWkmOj8ZF6-OPdNWrjnyxqcwvfPviQ51qv6FzyqC14xY1P6Pz7EKsOeKBphA1uo82YSd03umqz',
+  25 => 'd2QWcj2n3_s:APA91bGSrh3vXfNHJusapX5O6od71CAYA0Vq_zHCZRYI8sHrX0RAbEDZ0u7AjsADxtR-naKsPpgW0Oeq8FrgBwXWHe2t5Hs465iutqUns23eBuU-NSBWfB5FDLZOhxjocvSQVGupVYw9',
+  26 => 'fKZcl2PqdH8:APA91bFP7ASegCwrrxa-0zc3HfSjh3ZmAJU05yJzDAPKdxFihASMkVgf5BnEnGoKJpzZohqKOwXYeeOI2fAJPzMSJbpAiSsMIcs98TwtPiNcIERHRmotfDfq6DvYmeQxR1OEu2tB1lKt',
+  27 => 'dbXt4Fv2ruc:APA91bEdrGLp_9k1hsHoM4BM0xh_X0cAMJ0vN5DDeBriPCoryUSJD5uF2JekqbLjUovy0LcwoFvGRCCjrZSlwPkf3rgW70vS97qyHmjo40scqPDY8mSpCtw2y17j6iXXIk7VU_UEr58U',
+  28 => 'c07SwHCibiw:APA91bFNcHfVdv11-t5RkJ27KFUI1ameKQCYZtrLresszGjTTvAwLPutVFV9dpIa_T-k72hILH3AdK_9xtOofvYCff0DWFUMh1hz4apaZjgWiFc9220Y5FxPGK_TCi1tvG6wcdtSliQO',
+  29 => 'd8eTwwSaoIU:APA91bHJrXZkcJVv38_8sWOt4M5PULJU2X5FmuzzjL8wM7n2TwywNYohwopmo6xaEgsHBDa8fjK1sEFDlejrfTaYfL5tZnCQN7Z6WTaUUFHkhGL6UK0_dS6h0YnJwt0AnRrzZs13teWE',
+  30 => 'cp6_4WEefV0:APA91bHyJZpRnolOgqHbvo6emt9eoh9cEsb7sqJMbRHf8GMDUfsQykH7MCJgsq3wN8BUiu2mPB9mnj5xZu8LMgL88La7T297QAxNZ7Xj7rCPAy--G8ZK4h1NR-xu9eA-ZEmvLUKxkm_N',
+  31 => 'd2w7ITNyvgw:APA91bE4dXK6yqjJbLdZOsDkakRv3YA9OtKS0WxMi4OHyjl9iJWcdakiYNhBruVrmQapgC9TF5mbhUtsR8zbOXA3iD6jt1N8ewuhWUJ4szO2saibUyWrUwF6pTP1PQ-zZHblMI4MP-DW',
+  32 => 'ee0tYSD7KzQ:APA91bHWmbnijSv9OLasvBe6t2X9wzD9DiWoz_DOWIQPK0v9TZBz0d7xQ6XDnuzqXKuSIxqByXVojpNeSwSdd42QSK0GLjhrk8BZfmf5Esn_IGugRO0JVD9ypulSuhgzhgswSbE6RVnh',
+  33 => 'fANVRkHwfcU:APA91bGjXRouDqRoIMp1oSnYBijIxULcPc6lyUqFd-X16ewiNUwhZUF6aaIvRUOrnWtbKV3ehkluZzhFmS8rRQS_vSOTwXpATOYC9VbUBFCe52ycSRNXbLjPajdwAzQbXeIkdy3yTqdz',
+  34 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+  35 => 'eGS3yNxO34g:APA91bHNffFyg3KUjdhBbqxRNKfjiczH5iVmMZC5L-zV1jvrKtCW_krtuDFgBTkzEEh7mBhdXYTUzOhLVbqRJfV9Fetff_fa_CYURQhTyA4hGjJ-KAx7vMfdJVMC_uT4W2J9akR1fHlq',
+  36 => 'fV0Mp9eid5A:APA91bHUB46kkmk3TCZmGgTqQFFsog-CH2SS5fiirPzSTdVCnqCczcqra6ET2pdwyEozqJROP_5N_6Pb76qYn89QIjkG5QuXz21IGu1Ob7f8fXzfBSVUCeESbDdeYLydgSWBoHDZu-Nl',
+  37 => 'd0xJJq2tVSA:APA91bF3zeSPypJzBSn0cVbH-kuXktVVspImSCK6_ZNBuOcUiaNdU-4oCWk77a7716pePlT9fRcLS8YaTQGEZrHwEvd0FMu8YU4eJqPNmuO64DFDePTgvfPYh9dQ7jNdY1gkhg6-vEUb',
+  38 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+  39 => 'fAW3Oxb5ox0:APA91bHtBD4U7zWmco__fwz_9TmuOUaUHPoiP3xI_drv0PW6tHZ9k05AGDHa9YpXRr9hKr_lNp1X7-ba64vJlDEqZ-o3A8KPnsVKsp6sURnCZ_WQKBmmWr3HMRbrHK9GwM_WjBjcI9Sz',
+  40 => 'duIbcdouWVI:APA91bGOvzc5l1xFUKfQu1zrD_AoDIoaNqlsdr1Zsana7bXSFcjNdNvaJz55hKZDeRit4xNaobldA1tr88YczWWSryC01l_amK_NjF0y847QjDMDSS27dc7slhSg2IsBZq93lD4-Vj2-',
+  41 => 'e-YrC5OhyrU:APA91bHIBcaGkFvquq1UE-hmE_YNo8Jmjzv6p8OMY_6WAvJT8hiiCcZu7iIaFrV8nd_k9dr0Lcjj_L6V9qEl2OhiH2dxIytEB2FsDXiMx5IdtVbkVWEC6NMA0wf-FI6uC5A2NJrJpFPb',
+)
+
+Tue, 16 May 2017 01:06:27 PM UTC : .php
+'{"multicast_id":6872936306354783406,"success":38,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1494940145417581%30ba418ff9fd7ecd"},{"message_id":"0:1494940145420964%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940145418207%30ba418ff9fd7ecd"},{"message_id":"0:1494940145419930%30ba418ff9fd7ecd"},{"message_id":"0:1494940145419983%30ba418ff9fd7ecd"},{"message_id":"0:1494940145418781%30ba418ff9fd7ecd"},{"message_id":"0:1494940145427083%30ba418ff9fd7ecd"},{"message_id":"0:1494940145418508%30ba418ff9fd7ecd"},{"message_id":"0:1494940145425191%30ba418ff9fd7ecd"},{"message_id":"0:1494940145419981%30ba418ff9fd7ecd"},{"message_id":"0:1494940145419985%30ba418ff9fd7ecd"},{"message_id":"0:1494940145420961%30ba418ff9fd7ecd"},{"message_id":"0:1494940145419989%30ba418ff9fd7ecd"},{"message_id":"0:1494940145419987%30ba418ff9fd7ecd"},{"message_id":"0:1494940145420960%30ba418ff9fd7ecd"},{"message_id":"0:1494940145423718%30ba418ff9fd7ecd"},{"message_id":"0:1494940145420968%30ba418ff9fd7ecd"},{"message_id":"0:1494940145422139%30ba418ff9fd7ecd"},{"message_id":"0:1494940145420966%30ba418ff9fd7ecd"},{"message_id":"0:1494940145421752%30ba418ff9fd7ecd"},{"message_id":"0:1494940145421943%30ba418ff9fd7ecd"},{"message_id":"0:1494940145421748%30ba418ff9fd7ecd"},{"message_id":"0:1494940145431894%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940145423714%30ba418ff9fd7ecd"},{"message_id":"0:1494940145421750%30ba418ff9fd7ecd"},{"message_id":"0:1494940145422971%30ba418ff9fd7ecd"},{"message_id":"0:1494940145422973%30ba418ff9fd7ecd"},{"message_id":"0:1494940145424719%30ba418ff9fd7ecd"},{"message_id":"0:1494940145423716%30ba418ff9fd7ecd"},{"message_id":"0:1494940145424995%30ba418ff9fd7ecd"},{"message_id":"0:1494940145423712%30ba418ff9fd7ecd"},{"message_id":"0:1494940145424432%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"error":"NotRegistered"},{"message_id":"0:1494940145428484%30ba418ff9fd7ecd"},{"message_id":"0:1494940145424434%30ba418ff9fd7ecd"},{"message_id":"0:1494940145426546%30ba418ff9fd7ecd"},{"message_id":"0:1494940145424993%30ba418ff9fd7ecd"},{"message_id":"0:1494940145431487%30ba418ff9fd7ecd"},{"message_id":"0:1494940145434793%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:06:27 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:06:27 PM UTC : add_course_server.php
+'Add Course Ended'
+
+Tue, 16 May 2017 01:07:05 PM UTC : add_course_server.php
+'Add Course Started'
+
+Tue, 16 May 2017 01:07:05 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:07:05 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_ASSIGNMENT',
+  'assignment_id' => '1505001004course1494940025',
+  'subject_id' => 'Biochemistry',
+  'assignment_name' => 'Portions covered till now',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1494940025,
+)
+
+Tue, 16 May 2017 01:07:05 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:07:05 PM UTC : .php
+'{"multicast_id":5177584448376914320,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940183728864%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:07:05 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:07:05 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:07:05 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_COURSE',
+  'assignment_id' => '1505001004course1494940025',
+  'course_name' => 'Portions covered till now',
+  'description' => 'Just tick the chapters in the book that are completed till now and write the important questions given by dept as well as from previous qp, chapter wise and keep in a notebook',
+)
+
+Tue, 16 May 2017 01:07:05 PM UTC : .php
+array (
+  0 => 'dBdl4IlCFNc:APA91bHWic1zV6HojOOpg0m-qhH_Wu6X1_k-96dnOxVddRw6vVe3dfF2ycHuCvFNOn9Ix8usvcWsweg7OZ_VeDGt_8X7jDTRdOi0OcTXn47SffrgsubrW3twkwCQzriFZkjaPfG1WUBL',
+  1 => 'efq3dPd-xHQ:APA91bGWFhc2Td3ca8JP5cio6OHJt3QZ8TSMI33WjrxicbPdsAigEkgY8xLEdyZJrLzEGpApv0rV5ZedrSwap0m5fnjNHBsUy3aUn2_xLAvtT3L5PWs5r1PDPxpZt0s_t920SLeOrmLp',
+  2 => 'eeP0716w_EE:APA91bEInzdjUgNdtIXp5DgQV3ChOmEYLUd1YcR3P36YAfAPRXBvcxjG_ah8DJa_SjFmobAam__8Sun-id61DC8nlL1guvtCcidNhOAGF67VckeWjcFbSC8si1tDesK0SSbwNjrcwc7T',
+  3 => 'cvdA3afIMwU:APA91bGLmOwAs8OkIyCEEVrbnoNC59qj53shh0k-bc3ZuWpr5R_Tx1WxpJ46jzvxXolsztVZtp8nNGGlrI6jd4TWfV9avs8KXyJAJ1VLSI9Zmrq4iLqB8xTVvNFGhpVF87nj3oDTgxW1',
+  4 => 'dsXY_IAauoU:APA91bEJlLFQgUwL3Fo9Hxh-NYdlRXZ-C2VYaIUNPjCyVOyfBiCvxvIh3-JXkW2IcceF1FnwNtYxt1Cb4lzhtryTd4dWYpez3EH_OsQmkXUWaXwDEgiCpffsefwDt7H0EjUvC9bs7Inb',
+  5 => 'fiuDGfY3s5g:APA91bFlHXFjPSvVrqQP063uJRjdztaqRhrR-xUA0LIOzrLsbsHgRFLazTHoHq8ebQ03F5H3d7xzJw4Z1x2Bme1TnZYXbtqDx685Dsg258hCQuxqDKznKNMy-HpLdPqWAkXeuhTHupHN',
+  6 => 'fP7hRtBp1bg:APA91bGjzyG6QkY1AKqtJ0VsPXVCtUJXoO4upqSby-ip-J5WWVrryc9iKjD-9ZrrC-HcRuUxWIxBUavMw9Bx6wTgdbXgEV4vrog1t4ZyCgWYCPXipN4vgeP-bQtlBWSosu4HruMhQLV1',
+  7 => 'fgiB8ou0VHk:APA91bGUQ0d969PjfdHcWXYnTm3scYgfy1CvLJD_HaHPW0YEFrVVaujYmiPVvjzTIZyOEePedMt8RFSY3I2J6YBeWmNyRqA8Prwpds4ggHg3CipS6eHnM14Vy3wCSO0u232zyy3GAOBT',
+  8 => 'e_JmGq8l8TI:APA91bG1X5B30iAgUdu3blhKVDesoV9t_nQF-pLhLgZy6oV8Da13mL63P0TBXMsQ-CiIySU4e-eh94ne_KOv4wlbs90ZGHmpdRU6xHwsZEzp1IRDJzuqHxNS-94tChUuQgSP7VGTuHp6',
+  9 => 'fQWjZx1PnMk:APA91bEqRzmqNetlNIP-SveivkTvPtx9Uk7OiXiTwcJ5Br7hylV5MNN0TEJ6v-T-OOfu8AWhyPT_Ase4A-w2H5b-PPZtdjWo0_XwHS5pzAz9NTqfsWKFdh8PWDjZEPalRArkXGTJw1CN',
+  10 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+  11 => 'fkGF_Q5LX5A:APA91bH2DFrPAsmu4eRsyS2bp46VWIZLjGPD8PInm4y9-PByLTbx_Ijhrlqu1LFi0UOwBmozZ9E88BksYVAq-bEaAJLJpFYCFABR9MuI6DKwbayDYfadQLwEG0S-NNUvJJGBLoSvR3V5',
+  12 => 'dhqNVdTmVwo:APA91bHQUBs4xQUvFM7W2iBLBz15mu9efXfKmPRKEWoRU6mUIcfQV5pPmzcW9DX0XW6gNsjg5EHE5GKWHu0mwQY3MR_ni8eLGzAPC2aFwC7Cb3Y0Vhrl41flTVqq0unvsiPT1GK0gn8u',
+  13 => 'eDV6CYaYkGU:APA91bGZg2Xh1Vav-WiPjJReIyeRbTxt2K43QFLzXU2WsrN5V_5AHQk5Qbbp_oWFOqo47Gak9MPBVP-1Rg1u8Huc_K5eZjpbQPzfsy_eAUSQ_mC_vcQG10ICqE07FnBts4Ljd3nafGaW',
+  14 => 'dr03ytckkWg:APA91bFMUDc53P3a7V9Gb9t4Bhh-usJC_0bB5jT74tBTd3XQ2YcsMw-8T6_mbcjr2ZWQdzjmuyPuSAye6krUonAewSMLxP9HeE_luwrIOPW5Ab_plb8-ZD5WiIdF9ySjJTIBJq6TH1TM',
+  15 => 'frbON8q7MXc:APA91bFR53AhSDlqfMX4yv_NgSbG_-7YHBcwUgwXLfXeiSgSta2qsVy1UQ9-IQdk20NgXGonVaAyyVW2fCgna6nSVibSUIhRvv2DTRNDaWVAtyVEz6pomxve7nEK6bOFhyf-M2eUao3h',
+  16 => 'clXSVC6_S44:APA91bGTpv0IdZXjO838UGLQyuJQzH1LZtxrmnDDHhl1gY13PQL32ZHgH5nBE8_1nAH9QLYWMYoQ7JUhgQ9NdNXAPd8pymLb9_IRbRjbx4QMEc1IpB2FysdMpeYifokwNdN49JY8Frm4',
+  17 => 'dEAlvni_UGU:APA91bHc1Df-8KBWyfqEUsrEKYp42gPMWduHi7uXnw9XDyLruAdjY6rsmw5bGFFKwGcCWP56m4YxpJJ4XyztC3gUCiGi33Ca4ldoezi-LlA5YxJOdB3DtPoxv0X7yXOE3QxzM9o7L3_N',
+  18 => 'cVIz3qXXnyw:APA91bGDad2SeqbnirR1uGIrGRFB6H-nEj0Cw0fWpmyByzJQ6VQal2OUCHzUepEnyr3KZSSqQ6zDfvaOef2DyG_bLnkyZY_Gvbj3LCl1Nkn7vjj-pY0fR8DdUvnuj5rEiPEVT6cK1K7e',
+  19 => 'eAr7Dn6Wewg:APA91bESN8tQlxTNmAXLjEEMLyHBuwbo9nizbsS7IQYlKjJtE3JYaAsAfk6vuqlbjQbPan5r6jqtv3vG_BUMLEbcNWguErbHEivw49xjj5ZRvAMqbAR1_NARbtJhWcBd50eW4ZTfhqg5',
+  20 => 'ckDm5PwYs0c:APA91bGjm1u3KkMMWc-g9bzG1qtGwYxw8rnbuqXwf6DheIFl_KAN7ZADJXZUHUpj5u9fM1TsQh9xKpFEfotNmu6o5Xa9uoHDpn5cktSx4OT9J9pttRscphzBGWv-1mOLCNH3gf6rMrre',
+  21 => 'cDHmXHw9z68:APA91bG19kLfEF9QhhsMQr2SLBnVfgc_oqugk1dZ0YuFAIUdhAfoSr2KQQSMSZbOJMZymYVeWgOaPo0BtVrbjjwMcZZ507VVx-RTa4dyUK7dYXfdCWYV36m7jiBRqddIpSEpxWCkuUwy',
+  22 => 'ekUwTuUE4M0:APA91bFIDnrR2d1sZRFd0kAs4VqRy-_lWtw0q3BfJG5p4iNADWRGS8AOFyhbOoH9y336majoQ_g9PeGmB4AbWQvzq0JHAiTHHwzFfssd0nwl1qew6pC4syclmqx2vDxEqKwxUmFnmwFH',
+  23 => 'ePlIfF1C0A4:APA91bECi4-Fmx1ljnJGQFbobid84SOS5RUGxZqi1EgCCh9rMehwglvvDktHHIm2Bq8Zmc36iVlGZv5iJoK7bU6UKSSHmnORt4iui951kB14cp83vNv4HCwDe4yvUmixnbQoWQPgMJVg',
+  24 => 'ciJKTcdl1zM:APA91bGYe5_0eXuPcvpKMlLfBHkuQOtLwYDaKZN3hTTRBAX4m6GbC7JMy3O7DIAp7fEWkmOj8ZF6-OPdNWrjnyxqcwvfPviQ51qv6FzyqC14xY1P6Pz7EKsOeKBphA1uo82YSd03umqz',
+  25 => 'd2QWcj2n3_s:APA91bGSrh3vXfNHJusapX5O6od71CAYA0Vq_zHCZRYI8sHrX0RAbEDZ0u7AjsADxtR-naKsPpgW0Oeq8FrgBwXWHe2t5Hs465iutqUns23eBuU-NSBWfB5FDLZOhxjocvSQVGupVYw9',
+  26 => 'fKZcl2PqdH8:APA91bFP7ASegCwrrxa-0zc3HfSjh3ZmAJU05yJzDAPKdxFihASMkVgf5BnEnGoKJpzZohqKOwXYeeOI2fAJPzMSJbpAiSsMIcs98TwtPiNcIERHRmotfDfq6DvYmeQxR1OEu2tB1lKt',
+  27 => 'dbXt4Fv2ruc:APA91bEdrGLp_9k1hsHoM4BM0xh_X0cAMJ0vN5DDeBriPCoryUSJD5uF2JekqbLjUovy0LcwoFvGRCCjrZSlwPkf3rgW70vS97qyHmjo40scqPDY8mSpCtw2y17j6iXXIk7VU_UEr58U',
+  28 => 'c07SwHCibiw:APA91bFNcHfVdv11-t5RkJ27KFUI1ameKQCYZtrLresszGjTTvAwLPutVFV9dpIa_T-k72hILH3AdK_9xtOofvYCff0DWFUMh1hz4apaZjgWiFc9220Y5FxPGK_TCi1tvG6wcdtSliQO',
+  29 => 'd8eTwwSaoIU:APA91bHJrXZkcJVv38_8sWOt4M5PULJU2X5FmuzzjL8wM7n2TwywNYohwopmo6xaEgsHBDa8fjK1sEFDlejrfTaYfL5tZnCQN7Z6WTaUUFHkhGL6UK0_dS6h0YnJwt0AnRrzZs13teWE',
+  30 => 'cp6_4WEefV0:APA91bHyJZpRnolOgqHbvo6emt9eoh9cEsb7sqJMbRHf8GMDUfsQykH7MCJgsq3wN8BUiu2mPB9mnj5xZu8LMgL88La7T297QAxNZ7Xj7rCPAy--G8ZK4h1NR-xu9eA-ZEmvLUKxkm_N',
+  31 => 'd2w7ITNyvgw:APA91bE4dXK6yqjJbLdZOsDkakRv3YA9OtKS0WxMi4OHyjl9iJWcdakiYNhBruVrmQapgC9TF5mbhUtsR8zbOXA3iD6jt1N8ewuhWUJ4szO2saibUyWrUwF6pTP1PQ-zZHblMI4MP-DW',
+  32 => 'ee0tYSD7KzQ:APA91bHWmbnijSv9OLasvBe6t2X9wzD9DiWoz_DOWIQPK0v9TZBz0d7xQ6XDnuzqXKuSIxqByXVojpNeSwSdd42QSK0GLjhrk8BZfmf5Esn_IGugRO0JVD9ypulSuhgzhgswSbE6RVnh',
+  33 => 'fANVRkHwfcU:APA91bGjXRouDqRoIMp1oSnYBijIxULcPc6lyUqFd-X16ewiNUwhZUF6aaIvRUOrnWtbKV3ehkluZzhFmS8rRQS_vSOTwXpATOYC9VbUBFCe52ycSRNXbLjPajdwAzQbXeIkdy3yTqdz',
+  34 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+  35 => 'eGS3yNxO34g:APA91bHNffFyg3KUjdhBbqxRNKfjiczH5iVmMZC5L-zV1jvrKtCW_krtuDFgBTkzEEh7mBhdXYTUzOhLVbqRJfV9Fetff_fa_CYURQhTyA4hGjJ-KAx7vMfdJVMC_uT4W2J9akR1fHlq',
+  36 => 'fV0Mp9eid5A:APA91bHUB46kkmk3TCZmGgTqQFFsog-CH2SS5fiirPzSTdVCnqCczcqra6ET2pdwyEozqJROP_5N_6Pb76qYn89QIjkG5QuXz21IGu1Ob7f8fXzfBSVUCeESbDdeYLydgSWBoHDZu-Nl',
+  37 => 'd0xJJq2tVSA:APA91bF3zeSPypJzBSn0cVbH-kuXktVVspImSCK6_ZNBuOcUiaNdU-4oCWk77a7716pePlT9fRcLS8YaTQGEZrHwEvd0FMu8YU4eJqPNmuO64DFDePTgvfPYh9dQ7jNdY1gkhg6-vEUb',
+  38 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+  39 => 'fAW3Oxb5ox0:APA91bHtBD4U7zWmco__fwz_9TmuOUaUHPoiP3xI_drv0PW6tHZ9k05AGDHa9YpXRr9hKr_lNp1X7-ba64vJlDEqZ-o3A8KPnsVKsp6sURnCZ_WQKBmmWr3HMRbrHK9GwM_WjBjcI9Sz',
+  40 => 'duIbcdouWVI:APA91bGOvzc5l1xFUKfQu1zrD_AoDIoaNqlsdr1Zsana7bXSFcjNdNvaJz55hKZDeRit4xNaobldA1tr88YczWWSryC01l_amK_NjF0y847QjDMDSS27dc7slhSg2IsBZq93lD4-Vj2-',
+  41 => 'e-YrC5OhyrU:APA91bHIBcaGkFvquq1UE-hmE_YNo8Jmjzv6p8OMY_6WAvJT8hiiCcZu7iIaFrV8nd_k9dr0Lcjj_L6V9qEl2OhiH2dxIytEB2FsDXiMx5IdtVbkVWEC6NMA0wf-FI6uC5A2NJrJpFPb',
+)
+
+Tue, 16 May 2017 01:07:06 PM UTC : .php
+'{"multicast_id":4983620181200322801,"success":38,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1494940184818591%30ba418ff9fd7ecd"},{"message_id":"0:1494940184816966%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940184817441%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818996%30ba418ff9fd7ecd"},{"message_id":"0:1494940184837870%30ba418ff9fd7ecd"},{"message_id":"0:1494940184822142%30ba418ff9fd7ecd"},{"message_id":"0:1494940184817917%30ba418ff9fd7ecd"},{"message_id":"0:1494940184816964%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818989%30ba418ff9fd7ecd"},{"message_id":"0:1494940184816954%30ba418ff9fd7ecd"},{"message_id":"0:1494940184836091%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818038%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818990%30ba418ff9fd7ecd"},{"message_id":"0:1494940184816083%30ba418ff9fd7ecd"},{"message_id":"0:1494940184817833%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818593%30ba418ff9fd7ecd"},{"message_id":"0:1494940184816960%30ba418ff9fd7ecd"},{"message_id":"0:1494940184817911%30ba418ff9fd7ecd"},{"message_id":"0:1494940184817913%30ba418ff9fd7ecd"},{"message_id":"0:1494940184821896%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818842%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818589%30ba418ff9fd7ecd"},{"message_id":"0:1494940184816958%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940184816956%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818998%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818994%30ba418ff9fd7ecd"},{"message_id":"0:1494940184816962%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818831%30ba418ff9fd7ecd"},{"message_id":"0:1494940184819002%30ba418ff9fd7ecd"},{"message_id":"0:1494940184819242%30ba418ff9fd7ecd"},{"message_id":"0:1494940184819749%30ba418ff9fd7ecd"},{"message_id":"0:1494940184818999%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"error":"NotRegistered"},{"message_id":"0:1494940184819855%30ba418ff9fd7ecd"},{"message_id":"0:1494940184819750%30ba418ff9fd7ecd"},{"message_id":"0:1494940184820821%30ba418ff9fd7ecd"},{"message_id":"0:1494940184819004%30ba418ff9fd7ecd"},{"message_id":"0:1494940184820869%30ba418ff9fd7ecd"},{"message_id":"0:1494940184819857%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:07:06 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:07:06 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:07:06 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_ASSIGNMENT',
+  'subject_id' => 'Biochemistry',
+  'assignment_id' => '1505001004course1494940025',
+  'assignment_name' => 'Portions covered till now',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1494940025,
+)
+
+Tue, 16 May 2017 01:07:06 PM UTC : .php
+array (
+  0 => 'dBdl4IlCFNc:APA91bHWic1zV6HojOOpg0m-qhH_Wu6X1_k-96dnOxVddRw6vVe3dfF2ycHuCvFNOn9Ix8usvcWsweg7OZ_VeDGt_8X7jDTRdOi0OcTXn47SffrgsubrW3twkwCQzriFZkjaPfG1WUBL',
+  1 => 'efq3dPd-xHQ:APA91bGWFhc2Td3ca8JP5cio6OHJt3QZ8TSMI33WjrxicbPdsAigEkgY8xLEdyZJrLzEGpApv0rV5ZedrSwap0m5fnjNHBsUy3aUn2_xLAvtT3L5PWs5r1PDPxpZt0s_t920SLeOrmLp',
+  2 => 'eeP0716w_EE:APA91bEInzdjUgNdtIXp5DgQV3ChOmEYLUd1YcR3P36YAfAPRXBvcxjG_ah8DJa_SjFmobAam__8Sun-id61DC8nlL1guvtCcidNhOAGF67VckeWjcFbSC8si1tDesK0SSbwNjrcwc7T',
+  3 => 'cvdA3afIMwU:APA91bGLmOwAs8OkIyCEEVrbnoNC59qj53shh0k-bc3ZuWpr5R_Tx1WxpJ46jzvxXolsztVZtp8nNGGlrI6jd4TWfV9avs8KXyJAJ1VLSI9Zmrq4iLqB8xTVvNFGhpVF87nj3oDTgxW1',
+  4 => 'dsXY_IAauoU:APA91bEJlLFQgUwL3Fo9Hxh-NYdlRXZ-C2VYaIUNPjCyVOyfBiCvxvIh3-JXkW2IcceF1FnwNtYxt1Cb4lzhtryTd4dWYpez3EH_OsQmkXUWaXwDEgiCpffsefwDt7H0EjUvC9bs7Inb',
+  5 => 'fiuDGfY3s5g:APA91bFlHXFjPSvVrqQP063uJRjdztaqRhrR-xUA0LIOzrLsbsHgRFLazTHoHq8ebQ03F5H3d7xzJw4Z1x2Bme1TnZYXbtqDx685Dsg258hCQuxqDKznKNMy-HpLdPqWAkXeuhTHupHN',
+  6 => 'fP7hRtBp1bg:APA91bGjzyG6QkY1AKqtJ0VsPXVCtUJXoO4upqSby-ip-J5WWVrryc9iKjD-9ZrrC-HcRuUxWIxBUavMw9Bx6wTgdbXgEV4vrog1t4ZyCgWYCPXipN4vgeP-bQtlBWSosu4HruMhQLV1',
+  7 => 'fgiB8ou0VHk:APA91bGUQ0d969PjfdHcWXYnTm3scYgfy1CvLJD_HaHPW0YEFrVVaujYmiPVvjzTIZyOEePedMt8RFSY3I2J6YBeWmNyRqA8Prwpds4ggHg3CipS6eHnM14Vy3wCSO0u232zyy3GAOBT',
+  8 => 'e_JmGq8l8TI:APA91bG1X5B30iAgUdu3blhKVDesoV9t_nQF-pLhLgZy6oV8Da13mL63P0TBXMsQ-CiIySU4e-eh94ne_KOv4wlbs90ZGHmpdRU6xHwsZEzp1IRDJzuqHxNS-94tChUuQgSP7VGTuHp6',
+  9 => 'fQWjZx1PnMk:APA91bEqRzmqNetlNIP-SveivkTvPtx9Uk7OiXiTwcJ5Br7hylV5MNN0TEJ6v-T-OOfu8AWhyPT_Ase4A-w2H5b-PPZtdjWo0_XwHS5pzAz9NTqfsWKFdh8PWDjZEPalRArkXGTJw1CN',
+  10 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+  11 => 'fkGF_Q5LX5A:APA91bH2DFrPAsmu4eRsyS2bp46VWIZLjGPD8PInm4y9-PByLTbx_Ijhrlqu1LFi0UOwBmozZ9E88BksYVAq-bEaAJLJpFYCFABR9MuI6DKwbayDYfadQLwEG0S-NNUvJJGBLoSvR3V5',
+  12 => 'dhqNVdTmVwo:APA91bHQUBs4xQUvFM7W2iBLBz15mu9efXfKmPRKEWoRU6mUIcfQV5pPmzcW9DX0XW6gNsjg5EHE5GKWHu0mwQY3MR_ni8eLGzAPC2aFwC7Cb3Y0Vhrl41flTVqq0unvsiPT1GK0gn8u',
+  13 => 'eDV6CYaYkGU:APA91bGZg2Xh1Vav-WiPjJReIyeRbTxt2K43QFLzXU2WsrN5V_5AHQk5Qbbp_oWFOqo47Gak9MPBVP-1Rg1u8Huc_K5eZjpbQPzfsy_eAUSQ_mC_vcQG10ICqE07FnBts4Ljd3nafGaW',
+  14 => 'dr03ytckkWg:APA91bFMUDc53P3a7V9Gb9t4Bhh-usJC_0bB5jT74tBTd3XQ2YcsMw-8T6_mbcjr2ZWQdzjmuyPuSAye6krUonAewSMLxP9HeE_luwrIOPW5Ab_plb8-ZD5WiIdF9ySjJTIBJq6TH1TM',
+  15 => 'frbON8q7MXc:APA91bFR53AhSDlqfMX4yv_NgSbG_-7YHBcwUgwXLfXeiSgSta2qsVy1UQ9-IQdk20NgXGonVaAyyVW2fCgna6nSVibSUIhRvv2DTRNDaWVAtyVEz6pomxve7nEK6bOFhyf-M2eUao3h',
+  16 => 'clXSVC6_S44:APA91bGTpv0IdZXjO838UGLQyuJQzH1LZtxrmnDDHhl1gY13PQL32ZHgH5nBE8_1nAH9QLYWMYoQ7JUhgQ9NdNXAPd8pymLb9_IRbRjbx4QMEc1IpB2FysdMpeYifokwNdN49JY8Frm4',
+  17 => 'dEAlvni_UGU:APA91bHc1Df-8KBWyfqEUsrEKYp42gPMWduHi7uXnw9XDyLruAdjY6rsmw5bGFFKwGcCWP56m4YxpJJ4XyztC3gUCiGi33Ca4ldoezi-LlA5YxJOdB3DtPoxv0X7yXOE3QxzM9o7L3_N',
+  18 => 'cVIz3qXXnyw:APA91bGDad2SeqbnirR1uGIrGRFB6H-nEj0Cw0fWpmyByzJQ6VQal2OUCHzUepEnyr3KZSSqQ6zDfvaOef2DyG_bLnkyZY_Gvbj3LCl1Nkn7vjj-pY0fR8DdUvnuj5rEiPEVT6cK1K7e',
+  19 => 'eAr7Dn6Wewg:APA91bESN8tQlxTNmAXLjEEMLyHBuwbo9nizbsS7IQYlKjJtE3JYaAsAfk6vuqlbjQbPan5r6jqtv3vG_BUMLEbcNWguErbHEivw49xjj5ZRvAMqbAR1_NARbtJhWcBd50eW4ZTfhqg5',
+  20 => 'ckDm5PwYs0c:APA91bGjm1u3KkMMWc-g9bzG1qtGwYxw8rnbuqXwf6DheIFl_KAN7ZADJXZUHUpj5u9fM1TsQh9xKpFEfotNmu6o5Xa9uoHDpn5cktSx4OT9J9pttRscphzBGWv-1mOLCNH3gf6rMrre',
+  21 => 'cDHmXHw9z68:APA91bG19kLfEF9QhhsMQr2SLBnVfgc_oqugk1dZ0YuFAIUdhAfoSr2KQQSMSZbOJMZymYVeWgOaPo0BtVrbjjwMcZZ507VVx-RTa4dyUK7dYXfdCWYV36m7jiBRqddIpSEpxWCkuUwy',
+  22 => 'ekUwTuUE4M0:APA91bFIDnrR2d1sZRFd0kAs4VqRy-_lWtw0q3BfJG5p4iNADWRGS8AOFyhbOoH9y336majoQ_g9PeGmB4AbWQvzq0JHAiTHHwzFfssd0nwl1qew6pC4syclmqx2vDxEqKwxUmFnmwFH',
+  23 => 'ePlIfF1C0A4:APA91bECi4-Fmx1ljnJGQFbobid84SOS5RUGxZqi1EgCCh9rMehwglvvDktHHIm2Bq8Zmc36iVlGZv5iJoK7bU6UKSSHmnORt4iui951kB14cp83vNv4HCwDe4yvUmixnbQoWQPgMJVg',
+  24 => 'ciJKTcdl1zM:APA91bGYe5_0eXuPcvpKMlLfBHkuQOtLwYDaKZN3hTTRBAX4m6GbC7JMy3O7DIAp7fEWkmOj8ZF6-OPdNWrjnyxqcwvfPviQ51qv6FzyqC14xY1P6Pz7EKsOeKBphA1uo82YSd03umqz',
+  25 => 'd2QWcj2n3_s:APA91bGSrh3vXfNHJusapX5O6od71CAYA0Vq_zHCZRYI8sHrX0RAbEDZ0u7AjsADxtR-naKsPpgW0Oeq8FrgBwXWHe2t5Hs465iutqUns23eBuU-NSBWfB5FDLZOhxjocvSQVGupVYw9',
+  26 => 'fKZcl2PqdH8:APA91bFP7ASegCwrrxa-0zc3HfSjh3ZmAJU05yJzDAPKdxFihASMkVgf5BnEnGoKJpzZohqKOwXYeeOI2fAJPzMSJbpAiSsMIcs98TwtPiNcIERHRmotfDfq6DvYmeQxR1OEu2tB1lKt',
+  27 => 'dbXt4Fv2ruc:APA91bEdrGLp_9k1hsHoM4BM0xh_X0cAMJ0vN5DDeBriPCoryUSJD5uF2JekqbLjUovy0LcwoFvGRCCjrZSlwPkf3rgW70vS97qyHmjo40scqPDY8mSpCtw2y17j6iXXIk7VU_UEr58U',
+  28 => 'c07SwHCibiw:APA91bFNcHfVdv11-t5RkJ27KFUI1ameKQCYZtrLresszGjTTvAwLPutVFV9dpIa_T-k72hILH3AdK_9xtOofvYCff0DWFUMh1hz4apaZjgWiFc9220Y5FxPGK_TCi1tvG6wcdtSliQO',
+  29 => 'd8eTwwSaoIU:APA91bHJrXZkcJVv38_8sWOt4M5PULJU2X5FmuzzjL8wM7n2TwywNYohwopmo6xaEgsHBDa8fjK1sEFDlejrfTaYfL5tZnCQN7Z6WTaUUFHkhGL6UK0_dS6h0YnJwt0AnRrzZs13teWE',
+  30 => 'cp6_4WEefV0:APA91bHyJZpRnolOgqHbvo6emt9eoh9cEsb7sqJMbRHf8GMDUfsQykH7MCJgsq3wN8BUiu2mPB9mnj5xZu8LMgL88La7T297QAxNZ7Xj7rCPAy--G8ZK4h1NR-xu9eA-ZEmvLUKxkm_N',
+  31 => 'd2w7ITNyvgw:APA91bE4dXK6yqjJbLdZOsDkakRv3YA9OtKS0WxMi4OHyjl9iJWcdakiYNhBruVrmQapgC9TF5mbhUtsR8zbOXA3iD6jt1N8ewuhWUJ4szO2saibUyWrUwF6pTP1PQ-zZHblMI4MP-DW',
+  32 => 'ee0tYSD7KzQ:APA91bHWmbnijSv9OLasvBe6t2X9wzD9DiWoz_DOWIQPK0v9TZBz0d7xQ6XDnuzqXKuSIxqByXVojpNeSwSdd42QSK0GLjhrk8BZfmf5Esn_IGugRO0JVD9ypulSuhgzhgswSbE6RVnh',
+  33 => 'fANVRkHwfcU:APA91bGjXRouDqRoIMp1oSnYBijIxULcPc6lyUqFd-X16ewiNUwhZUF6aaIvRUOrnWtbKV3ehkluZzhFmS8rRQS_vSOTwXpATOYC9VbUBFCe52ycSRNXbLjPajdwAzQbXeIkdy3yTqdz',
+  34 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+  35 => 'eGS3yNxO34g:APA91bHNffFyg3KUjdhBbqxRNKfjiczH5iVmMZC5L-zV1jvrKtCW_krtuDFgBTkzEEh7mBhdXYTUzOhLVbqRJfV9Fetff_fa_CYURQhTyA4hGjJ-KAx7vMfdJVMC_uT4W2J9akR1fHlq',
+  36 => 'fV0Mp9eid5A:APA91bHUB46kkmk3TCZmGgTqQFFsog-CH2SS5fiirPzSTdVCnqCczcqra6ET2pdwyEozqJROP_5N_6Pb76qYn89QIjkG5QuXz21IGu1Ob7f8fXzfBSVUCeESbDdeYLydgSWBoHDZu-Nl',
+  37 => 'd0xJJq2tVSA:APA91bF3zeSPypJzBSn0cVbH-kuXktVVspImSCK6_ZNBuOcUiaNdU-4oCWk77a7716pePlT9fRcLS8YaTQGEZrHwEvd0FMu8YU4eJqPNmuO64DFDePTgvfPYh9dQ7jNdY1gkhg6-vEUb',
+  38 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+  39 => 'fAW3Oxb5ox0:APA91bHtBD4U7zWmco__fwz_9TmuOUaUHPoiP3xI_drv0PW6tHZ9k05AGDHa9YpXRr9hKr_lNp1X7-ba64vJlDEqZ-o3A8KPnsVKsp6sURnCZ_WQKBmmWr3HMRbrHK9GwM_WjBjcI9Sz',
+  40 => 'duIbcdouWVI:APA91bGOvzc5l1xFUKfQu1zrD_AoDIoaNqlsdr1Zsana7bXSFcjNdNvaJz55hKZDeRit4xNaobldA1tr88YczWWSryC01l_amK_NjF0y847QjDMDSS27dc7slhSg2IsBZq93lD4-Vj2-',
+  41 => 'e-YrC5OhyrU:APA91bHIBcaGkFvquq1UE-hmE_YNo8Jmjzv6p8OMY_6WAvJT8hiiCcZu7iIaFrV8nd_k9dr0Lcjj_L6V9qEl2OhiH2dxIytEB2FsDXiMx5IdtVbkVWEC6NMA0wf-FI6uC5A2NJrJpFPb',
+)
+
+Tue, 16 May 2017 01:07:07 PM UTC : .php
+'{"multicast_id":6583828405403124994,"success":38,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1494940185915873%30ba418ff9fd7ecd"},{"message_id":"0:1494940185915054%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940185915875%30ba418ff9fd7ecd"},{"message_id":"0:1494940185915877%30ba418ff9fd7ecd"},{"message_id":"0:1494940185917952%30ba418ff9fd7ecd"},{"message_id":"0:1494940185916330%30ba418ff9fd7ecd"},{"message_id":"0:1494940185916509%30ba418ff9fd7ecd"},{"message_id":"0:1494940185916616%30ba418ff9fd7ecd"},{"message_id":"0:1494940185917631%30ba418ff9fd7ecd"},{"message_id":"0:1494940185916618%30ba418ff9fd7ecd"},{"message_id":"0:1494940185925262%30ba418ff9fd7ecd"},{"message_id":"0:1494940185917633%30ba418ff9fd7ecd"},{"message_id":"0:1494940185921888%30ba418ff9fd7ecd"},{"message_id":"0:1494940185917950%30ba418ff9fd7ecd"},{"message_id":"0:1494940185917954%30ba418ff9fd7ecd"},{"message_id":"0:1494940185918644%30ba418ff9fd7ecd"},{"message_id":"0:1494940185919945%30ba418ff9fd7ecd"},{"message_id":"0:1494940185918494%30ba418ff9fd7ecd"},{"message_id":"0:1494940185919944%30ba418ff9fd7ecd"},{"message_id":"0:1494940185921359%30ba418ff9fd7ecd"},{"message_id":"0:1494940185925931%30ba418ff9fd7ecd"},{"message_id":"0:1494940185919938%30ba418ff9fd7ecd"},{"message_id":"0:1494940185919755%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940185919948%30ba418ff9fd7ecd"},{"message_id":"0:1494940185924413%30ba418ff9fd7ecd"},{"message_id":"0:1494940185919940%30ba418ff9fd7ecd"},{"message_id":"0:1494940185920549%30ba418ff9fd7ecd"},{"message_id":"0:1494940185919942%30ba418ff9fd7ecd"},{"message_id":"0:1494940185920846%30ba418ff9fd7ecd"},{"message_id":"0:1494940185920838%30ba418ff9fd7ecd"},{"message_id":"0:1494940185920381%30ba418ff9fd7ecd"},{"message_id":"0:1494940185920875%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"error":"NotRegistered"},{"message_id":"0:1494940185920840%30ba418ff9fd7ecd"},{"message_id":"0:1494940185920844%30ba418ff9fd7ecd"},{"message_id":"0:1494940185922433%30ba418ff9fd7ecd"},{"message_id":"0:1494940185921890%30ba418ff9fd7ecd"},{"message_id":"0:1494940185925930%30ba418ff9fd7ecd"},{"message_id":"0:1494940185921892%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:07:07 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:07:07 PM UTC : add_course_server.php
+'Add Course Ended'
+
+Tue, 16 May 2017 01:07:43 PM UTC : add_course_server.php
+'Add Course Started'
+
+Tue, 16 May 2017 01:07:43 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:07:43 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_ASSIGNMENT',
+  'assignment_id' => '1505001004course1494940063',
+  'subject_id' => 'OralHistology',
+  'assignment_name' => 'Portions covered till now',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1494940063,
+)
+
+Tue, 16 May 2017 01:07:43 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:07:43 PM UTC : .php
+'{"multicast_id":6636641594630557798,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940221633191%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:07:43 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:07:43 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:07:43 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_COURSE',
+  'assignment_id' => '1505001004course1494940063',
+  'course_name' => 'Portions covered till now',
+  'description' => 'Just tick the chapters in the book that are completed till now and write the important questions given by dept as well as from previous qp, chapter wise and keep in a notebook',
+)
+
+Tue, 16 May 2017 01:07:43 PM UTC : .php
+array (
+  0 => 'dBdl4IlCFNc:APA91bHWic1zV6HojOOpg0m-qhH_Wu6X1_k-96dnOxVddRw6vVe3dfF2ycHuCvFNOn9Ix8usvcWsweg7OZ_VeDGt_8X7jDTRdOi0OcTXn47SffrgsubrW3twkwCQzriFZkjaPfG1WUBL',
+  1 => 'efq3dPd-xHQ:APA91bGWFhc2Td3ca8JP5cio6OHJt3QZ8TSMI33WjrxicbPdsAigEkgY8xLEdyZJrLzEGpApv0rV5ZedrSwap0m5fnjNHBsUy3aUn2_xLAvtT3L5PWs5r1PDPxpZt0s_t920SLeOrmLp',
+  2 => 'eeP0716w_EE:APA91bEInzdjUgNdtIXp5DgQV3ChOmEYLUd1YcR3P36YAfAPRXBvcxjG_ah8DJa_SjFmobAam__8Sun-id61DC8nlL1guvtCcidNhOAGF67VckeWjcFbSC8si1tDesK0SSbwNjrcwc7T',
+  3 => 'cvdA3afIMwU:APA91bGLmOwAs8OkIyCEEVrbnoNC59qj53shh0k-bc3ZuWpr5R_Tx1WxpJ46jzvxXolsztVZtp8nNGGlrI6jd4TWfV9avs8KXyJAJ1VLSI9Zmrq4iLqB8xTVvNFGhpVF87nj3oDTgxW1',
+  4 => 'dsXY_IAauoU:APA91bEJlLFQgUwL3Fo9Hxh-NYdlRXZ-C2VYaIUNPjCyVOyfBiCvxvIh3-JXkW2IcceF1FnwNtYxt1Cb4lzhtryTd4dWYpez3EH_OsQmkXUWaXwDEgiCpffsefwDt7H0EjUvC9bs7Inb',
+  5 => 'fiuDGfY3s5g:APA91bFlHXFjPSvVrqQP063uJRjdztaqRhrR-xUA0LIOzrLsbsHgRFLazTHoHq8ebQ03F5H3d7xzJw4Z1x2Bme1TnZYXbtqDx685Dsg258hCQuxqDKznKNMy-HpLdPqWAkXeuhTHupHN',
+  6 => 'fP7hRtBp1bg:APA91bGjzyG6QkY1AKqtJ0VsPXVCtUJXoO4upqSby-ip-J5WWVrryc9iKjD-9ZrrC-HcRuUxWIxBUavMw9Bx6wTgdbXgEV4vrog1t4ZyCgWYCPXipN4vgeP-bQtlBWSosu4HruMhQLV1',
+  7 => 'fgiB8ou0VHk:APA91bGUQ0d969PjfdHcWXYnTm3scYgfy1CvLJD_HaHPW0YEFrVVaujYmiPVvjzTIZyOEePedMt8RFSY3I2J6YBeWmNyRqA8Prwpds4ggHg3CipS6eHnM14Vy3wCSO0u232zyy3GAOBT',
+  8 => 'e_JmGq8l8TI:APA91bG1X5B30iAgUdu3blhKVDesoV9t_nQF-pLhLgZy6oV8Da13mL63P0TBXMsQ-CiIySU4e-eh94ne_KOv4wlbs90ZGHmpdRU6xHwsZEzp1IRDJzuqHxNS-94tChUuQgSP7VGTuHp6',
+  9 => 'fQWjZx1PnMk:APA91bEqRzmqNetlNIP-SveivkTvPtx9Uk7OiXiTwcJ5Br7hylV5MNN0TEJ6v-T-OOfu8AWhyPT_Ase4A-w2H5b-PPZtdjWo0_XwHS5pzAz9NTqfsWKFdh8PWDjZEPalRArkXGTJw1CN',
+  10 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+  11 => 'fkGF_Q5LX5A:APA91bH2DFrPAsmu4eRsyS2bp46VWIZLjGPD8PInm4y9-PByLTbx_Ijhrlqu1LFi0UOwBmozZ9E88BksYVAq-bEaAJLJpFYCFABR9MuI6DKwbayDYfadQLwEG0S-NNUvJJGBLoSvR3V5',
+  12 => 'dhqNVdTmVwo:APA91bHQUBs4xQUvFM7W2iBLBz15mu9efXfKmPRKEWoRU6mUIcfQV5pPmzcW9DX0XW6gNsjg5EHE5GKWHu0mwQY3MR_ni8eLGzAPC2aFwC7Cb3Y0Vhrl41flTVqq0unvsiPT1GK0gn8u',
+  13 => 'eDV6CYaYkGU:APA91bGZg2Xh1Vav-WiPjJReIyeRbTxt2K43QFLzXU2WsrN5V_5AHQk5Qbbp_oWFOqo47Gak9MPBVP-1Rg1u8Huc_K5eZjpbQPzfsy_eAUSQ_mC_vcQG10ICqE07FnBts4Ljd3nafGaW',
+  14 => 'dr03ytckkWg:APA91bFMUDc53P3a7V9Gb9t4Bhh-usJC_0bB5jT74tBTd3XQ2YcsMw-8T6_mbcjr2ZWQdzjmuyPuSAye6krUonAewSMLxP9HeE_luwrIOPW5Ab_plb8-ZD5WiIdF9ySjJTIBJq6TH1TM',
+  15 => 'frbON8q7MXc:APA91bFR53AhSDlqfMX4yv_NgSbG_-7YHBcwUgwXLfXeiSgSta2qsVy1UQ9-IQdk20NgXGonVaAyyVW2fCgna6nSVibSUIhRvv2DTRNDaWVAtyVEz6pomxve7nEK6bOFhyf-M2eUao3h',
+  16 => 'clXSVC6_S44:APA91bGTpv0IdZXjO838UGLQyuJQzH1LZtxrmnDDHhl1gY13PQL32ZHgH5nBE8_1nAH9QLYWMYoQ7JUhgQ9NdNXAPd8pymLb9_IRbRjbx4QMEc1IpB2FysdMpeYifokwNdN49JY8Frm4',
+  17 => 'dEAlvni_UGU:APA91bHc1Df-8KBWyfqEUsrEKYp42gPMWduHi7uXnw9XDyLruAdjY6rsmw5bGFFKwGcCWP56m4YxpJJ4XyztC3gUCiGi33Ca4ldoezi-LlA5YxJOdB3DtPoxv0X7yXOE3QxzM9o7L3_N',
+  18 => 'cVIz3qXXnyw:APA91bGDad2SeqbnirR1uGIrGRFB6H-nEj0Cw0fWpmyByzJQ6VQal2OUCHzUepEnyr3KZSSqQ6zDfvaOef2DyG_bLnkyZY_Gvbj3LCl1Nkn7vjj-pY0fR8DdUvnuj5rEiPEVT6cK1K7e',
+  19 => 'eAr7Dn6Wewg:APA91bESN8tQlxTNmAXLjEEMLyHBuwbo9nizbsS7IQYlKjJtE3JYaAsAfk6vuqlbjQbPan5r6jqtv3vG_BUMLEbcNWguErbHEivw49xjj5ZRvAMqbAR1_NARbtJhWcBd50eW4ZTfhqg5',
+  20 => 'ckDm5PwYs0c:APA91bGjm1u3KkMMWc-g9bzG1qtGwYxw8rnbuqXwf6DheIFl_KAN7ZADJXZUHUpj5u9fM1TsQh9xKpFEfotNmu6o5Xa9uoHDpn5cktSx4OT9J9pttRscphzBGWv-1mOLCNH3gf6rMrre',
+  21 => 'cDHmXHw9z68:APA91bG19kLfEF9QhhsMQr2SLBnVfgc_oqugk1dZ0YuFAIUdhAfoSr2KQQSMSZbOJMZymYVeWgOaPo0BtVrbjjwMcZZ507VVx-RTa4dyUK7dYXfdCWYV36m7jiBRqddIpSEpxWCkuUwy',
+  22 => 'ekUwTuUE4M0:APA91bFIDnrR2d1sZRFd0kAs4VqRy-_lWtw0q3BfJG5p4iNADWRGS8AOFyhbOoH9y336majoQ_g9PeGmB4AbWQvzq0JHAiTHHwzFfssd0nwl1qew6pC4syclmqx2vDxEqKwxUmFnmwFH',
+  23 => 'ePlIfF1C0A4:APA91bECi4-Fmx1ljnJGQFbobid84SOS5RUGxZqi1EgCCh9rMehwglvvDktHHIm2Bq8Zmc36iVlGZv5iJoK7bU6UKSSHmnORt4iui951kB14cp83vNv4HCwDe4yvUmixnbQoWQPgMJVg',
+  24 => 'ciJKTcdl1zM:APA91bGYe5_0eXuPcvpKMlLfBHkuQOtLwYDaKZN3hTTRBAX4m6GbC7JMy3O7DIAp7fEWkmOj8ZF6-OPdNWrjnyxqcwvfPviQ51qv6FzyqC14xY1P6Pz7EKsOeKBphA1uo82YSd03umqz',
+  25 => 'd2QWcj2n3_s:APA91bGSrh3vXfNHJusapX5O6od71CAYA0Vq_zHCZRYI8sHrX0RAbEDZ0u7AjsADxtR-naKsPpgW0Oeq8FrgBwXWHe2t5Hs465iutqUns23eBuU-NSBWfB5FDLZOhxjocvSQVGupVYw9',
+  26 => 'fKZcl2PqdH8:APA91bFP7ASegCwrrxa-0zc3HfSjh3ZmAJU05yJzDAPKdxFihASMkVgf5BnEnGoKJpzZohqKOwXYeeOI2fAJPzMSJbpAiSsMIcs98TwtPiNcIERHRmotfDfq6DvYmeQxR1OEu2tB1lKt',
+  27 => 'dbXt4Fv2ruc:APA91bEdrGLp_9k1hsHoM4BM0xh_X0cAMJ0vN5DDeBriPCoryUSJD5uF2JekqbLjUovy0LcwoFvGRCCjrZSlwPkf3rgW70vS97qyHmjo40scqPDY8mSpCtw2y17j6iXXIk7VU_UEr58U',
+  28 => 'c07SwHCibiw:APA91bFNcHfVdv11-t5RkJ27KFUI1ameKQCYZtrLresszGjTTvAwLPutVFV9dpIa_T-k72hILH3AdK_9xtOofvYCff0DWFUMh1hz4apaZjgWiFc9220Y5FxPGK_TCi1tvG6wcdtSliQO',
+  29 => 'd8eTwwSaoIU:APA91bHJrXZkcJVv38_8sWOt4M5PULJU2X5FmuzzjL8wM7n2TwywNYohwopmo6xaEgsHBDa8fjK1sEFDlejrfTaYfL5tZnCQN7Z6WTaUUFHkhGL6UK0_dS6h0YnJwt0AnRrzZs13teWE',
+  30 => 'cp6_4WEefV0:APA91bHyJZpRnolOgqHbvo6emt9eoh9cEsb7sqJMbRHf8GMDUfsQykH7MCJgsq3wN8BUiu2mPB9mnj5xZu8LMgL88La7T297QAxNZ7Xj7rCPAy--G8ZK4h1NR-xu9eA-ZEmvLUKxkm_N',
+  31 => 'd2w7ITNyvgw:APA91bE4dXK6yqjJbLdZOsDkakRv3YA9OtKS0WxMi4OHyjl9iJWcdakiYNhBruVrmQapgC9TF5mbhUtsR8zbOXA3iD6jt1N8ewuhWUJ4szO2saibUyWrUwF6pTP1PQ-zZHblMI4MP-DW',
+  32 => 'ee0tYSD7KzQ:APA91bHWmbnijSv9OLasvBe6t2X9wzD9DiWoz_DOWIQPK0v9TZBz0d7xQ6XDnuzqXKuSIxqByXVojpNeSwSdd42QSK0GLjhrk8BZfmf5Esn_IGugRO0JVD9ypulSuhgzhgswSbE6RVnh',
+  33 => 'fANVRkHwfcU:APA91bGjXRouDqRoIMp1oSnYBijIxULcPc6lyUqFd-X16ewiNUwhZUF6aaIvRUOrnWtbKV3ehkluZzhFmS8rRQS_vSOTwXpATOYC9VbUBFCe52ycSRNXbLjPajdwAzQbXeIkdy3yTqdz',
+  34 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+  35 => 'eGS3yNxO34g:APA91bHNffFyg3KUjdhBbqxRNKfjiczH5iVmMZC5L-zV1jvrKtCW_krtuDFgBTkzEEh7mBhdXYTUzOhLVbqRJfV9Fetff_fa_CYURQhTyA4hGjJ-KAx7vMfdJVMC_uT4W2J9akR1fHlq',
+  36 => 'fV0Mp9eid5A:APA91bHUB46kkmk3TCZmGgTqQFFsog-CH2SS5fiirPzSTdVCnqCczcqra6ET2pdwyEozqJROP_5N_6Pb76qYn89QIjkG5QuXz21IGu1Ob7f8fXzfBSVUCeESbDdeYLydgSWBoHDZu-Nl',
+  37 => 'd0xJJq2tVSA:APA91bF3zeSPypJzBSn0cVbH-kuXktVVspImSCK6_ZNBuOcUiaNdU-4oCWk77a7716pePlT9fRcLS8YaTQGEZrHwEvd0FMu8YU4eJqPNmuO64DFDePTgvfPYh9dQ7jNdY1gkhg6-vEUb',
+  38 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+  39 => 'fAW3Oxb5ox0:APA91bHtBD4U7zWmco__fwz_9TmuOUaUHPoiP3xI_drv0PW6tHZ9k05AGDHa9YpXRr9hKr_lNp1X7-ba64vJlDEqZ-o3A8KPnsVKsp6sURnCZ_WQKBmmWr3HMRbrHK9GwM_WjBjcI9Sz',
+  40 => 'duIbcdouWVI:APA91bGOvzc5l1xFUKfQu1zrD_AoDIoaNqlsdr1Zsana7bXSFcjNdNvaJz55hKZDeRit4xNaobldA1tr88YczWWSryC01l_amK_NjF0y847QjDMDSS27dc7slhSg2IsBZq93lD4-Vj2-',
+  41 => 'e-YrC5OhyrU:APA91bHIBcaGkFvquq1UE-hmE_YNo8Jmjzv6p8OMY_6WAvJT8hiiCcZu7iIaFrV8nd_k9dr0Lcjj_L6V9qEl2OhiH2dxIytEB2FsDXiMx5IdtVbkVWEC6NMA0wf-FI6uC5A2NJrJpFPb',
+)
+
+Tue, 16 May 2017 01:07:44 PM UTC : .php
+'{"multicast_id":5039372623076014060,"success":38,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1494940222726825%30ba418ff9fd7ecd"},{"message_id":"0:1494940222726335%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940222726827%30ba418ff9fd7ecd"},{"message_id":"0:1494940222726829%30ba418ff9fd7ecd"},{"message_id":"0:1494940222727854%30ba418ff9fd7ecd"},{"message_id":"0:1494940222727915%30ba418ff9fd7ecd"},{"message_id":"0:1494940222727041%30ba418ff9fd7ecd"},{"message_id":"0:1494940222727917%30ba418ff9fd7ecd"},{"message_id":"0:1494940222728971%30ba418ff9fd7ecd"},{"message_id":"0:1494940222727857%30ba418ff9fd7ecd"},{"message_id":"0:1494940222727919%30ba418ff9fd7ecd"},{"message_id":"0:1494940222750225%30ba418ff9fd7ecd"},{"message_id":"0:1494940222732003%30ba418ff9fd7ecd"},{"message_id":"0:1494940222728759%30ba418ff9fd7ecd"},{"message_id":"0:1494940222728757%30ba418ff9fd7ecd"},{"message_id":"0:1494940222731999%30ba418ff9fd7ecd"},{"message_id":"0:1494940222728973%30ba418ff9fd7ecd"},{"message_id":"0:1494940222733898%30ba418ff9fd7ecd"},{"message_id":"0:1494940222729411%30ba418ff9fd7ecd"},{"message_id":"0:1494940222732015%30ba418ff9fd7ecd"},{"message_id":"0:1494940222729845%30ba418ff9fd7ecd"},{"message_id":"0:1494940222732009%30ba418ff9fd7ecd"},{"message_id":"0:1494940222732007%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940222732013%30ba418ff9fd7ecd"},{"message_id":"0:1494940222731996%30ba418ff9fd7ecd"},{"message_id":"0:1494940222733896%30ba418ff9fd7ecd"},{"message_id":"0:1494940222731995%30ba418ff9fd7ecd"},{"message_id":"0:1494940222732004%30ba418ff9fd7ecd"},{"message_id":"0:1494940222733902%30ba418ff9fd7ecd"},{"message_id":"0:1494940222732001%30ba418ff9fd7ecd"},{"message_id":"0:1494940222737990%30ba418ff9fd7ecd"},{"message_id":"0:1494940222732011%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"error":"NotRegistered"},{"message_id":"0:1494940222732232%30ba418ff9fd7ecd"},{"message_id":"0:1494940222732747%30ba418ff9fd7ecd"},{"message_id":"0:1494940222737355%30ba418ff9fd7ecd"},{"message_id":"0:1494940222733809%30ba418ff9fd7ecd"},{"message_id":"0:1494940222734445%30ba418ff9fd7ecd"},{"message_id":"0:1494940222733900%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:07:44 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:07:44 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:07:44 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_ASSIGNMENT',
+  'subject_id' => 'OralHistology',
+  'assignment_id' => '1505001004course1494940063',
+  'assignment_name' => 'Portions covered till now',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1494940063,
+)
+
+Tue, 16 May 2017 01:07:44 PM UTC : .php
+array (
+  0 => 'dBdl4IlCFNc:APA91bHWic1zV6HojOOpg0m-qhH_Wu6X1_k-96dnOxVddRw6vVe3dfF2ycHuCvFNOn9Ix8usvcWsweg7OZ_VeDGt_8X7jDTRdOi0OcTXn47SffrgsubrW3twkwCQzriFZkjaPfG1WUBL',
+  1 => 'efq3dPd-xHQ:APA91bGWFhc2Td3ca8JP5cio6OHJt3QZ8TSMI33WjrxicbPdsAigEkgY8xLEdyZJrLzEGpApv0rV5ZedrSwap0m5fnjNHBsUy3aUn2_xLAvtT3L5PWs5r1PDPxpZt0s_t920SLeOrmLp',
+  2 => 'eeP0716w_EE:APA91bEInzdjUgNdtIXp5DgQV3ChOmEYLUd1YcR3P36YAfAPRXBvcxjG_ah8DJa_SjFmobAam__8Sun-id61DC8nlL1guvtCcidNhOAGF67VckeWjcFbSC8si1tDesK0SSbwNjrcwc7T',
+  3 => 'cvdA3afIMwU:APA91bGLmOwAs8OkIyCEEVrbnoNC59qj53shh0k-bc3ZuWpr5R_Tx1WxpJ46jzvxXolsztVZtp8nNGGlrI6jd4TWfV9avs8KXyJAJ1VLSI9Zmrq4iLqB8xTVvNFGhpVF87nj3oDTgxW1',
+  4 => 'dsXY_IAauoU:APA91bEJlLFQgUwL3Fo9Hxh-NYdlRXZ-C2VYaIUNPjCyVOyfBiCvxvIh3-JXkW2IcceF1FnwNtYxt1Cb4lzhtryTd4dWYpez3EH_OsQmkXUWaXwDEgiCpffsefwDt7H0EjUvC9bs7Inb',
+  5 => 'fiuDGfY3s5g:APA91bFlHXFjPSvVrqQP063uJRjdztaqRhrR-xUA0LIOzrLsbsHgRFLazTHoHq8ebQ03F5H3d7xzJw4Z1x2Bme1TnZYXbtqDx685Dsg258hCQuxqDKznKNMy-HpLdPqWAkXeuhTHupHN',
+  6 => 'fP7hRtBp1bg:APA91bGjzyG6QkY1AKqtJ0VsPXVCtUJXoO4upqSby-ip-J5WWVrryc9iKjD-9ZrrC-HcRuUxWIxBUavMw9Bx6wTgdbXgEV4vrog1t4ZyCgWYCPXipN4vgeP-bQtlBWSosu4HruMhQLV1',
+  7 => 'fgiB8ou0VHk:APA91bGUQ0d969PjfdHcWXYnTm3scYgfy1CvLJD_HaHPW0YEFrVVaujYmiPVvjzTIZyOEePedMt8RFSY3I2J6YBeWmNyRqA8Prwpds4ggHg3CipS6eHnM14Vy3wCSO0u232zyy3GAOBT',
+  8 => 'e_JmGq8l8TI:APA91bG1X5B30iAgUdu3blhKVDesoV9t_nQF-pLhLgZy6oV8Da13mL63P0TBXMsQ-CiIySU4e-eh94ne_KOv4wlbs90ZGHmpdRU6xHwsZEzp1IRDJzuqHxNS-94tChUuQgSP7VGTuHp6',
+  9 => 'fQWjZx1PnMk:APA91bEqRzmqNetlNIP-SveivkTvPtx9Uk7OiXiTwcJ5Br7hylV5MNN0TEJ6v-T-OOfu8AWhyPT_Ase4A-w2H5b-PPZtdjWo0_XwHS5pzAz9NTqfsWKFdh8PWDjZEPalRArkXGTJw1CN',
+  10 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+  11 => 'fkGF_Q5LX5A:APA91bH2DFrPAsmu4eRsyS2bp46VWIZLjGPD8PInm4y9-PByLTbx_Ijhrlqu1LFi0UOwBmozZ9E88BksYVAq-bEaAJLJpFYCFABR9MuI6DKwbayDYfadQLwEG0S-NNUvJJGBLoSvR3V5',
+  12 => 'dhqNVdTmVwo:APA91bHQUBs4xQUvFM7W2iBLBz15mu9efXfKmPRKEWoRU6mUIcfQV5pPmzcW9DX0XW6gNsjg5EHE5GKWHu0mwQY3MR_ni8eLGzAPC2aFwC7Cb3Y0Vhrl41flTVqq0unvsiPT1GK0gn8u',
+  13 => 'eDV6CYaYkGU:APA91bGZg2Xh1Vav-WiPjJReIyeRbTxt2K43QFLzXU2WsrN5V_5AHQk5Qbbp_oWFOqo47Gak9MPBVP-1Rg1u8Huc_K5eZjpbQPzfsy_eAUSQ_mC_vcQG10ICqE07FnBts4Ljd3nafGaW',
+  14 => 'dr03ytckkWg:APA91bFMUDc53P3a7V9Gb9t4Bhh-usJC_0bB5jT74tBTd3XQ2YcsMw-8T6_mbcjr2ZWQdzjmuyPuSAye6krUonAewSMLxP9HeE_luwrIOPW5Ab_plb8-ZD5WiIdF9ySjJTIBJq6TH1TM',
+  15 => 'frbON8q7MXc:APA91bFR53AhSDlqfMX4yv_NgSbG_-7YHBcwUgwXLfXeiSgSta2qsVy1UQ9-IQdk20NgXGonVaAyyVW2fCgna6nSVibSUIhRvv2DTRNDaWVAtyVEz6pomxve7nEK6bOFhyf-M2eUao3h',
+  16 => 'clXSVC6_S44:APA91bGTpv0IdZXjO838UGLQyuJQzH1LZtxrmnDDHhl1gY13PQL32ZHgH5nBE8_1nAH9QLYWMYoQ7JUhgQ9NdNXAPd8pymLb9_IRbRjbx4QMEc1IpB2FysdMpeYifokwNdN49JY8Frm4',
+  17 => 'dEAlvni_UGU:APA91bHc1Df-8KBWyfqEUsrEKYp42gPMWduHi7uXnw9XDyLruAdjY6rsmw5bGFFKwGcCWP56m4YxpJJ4XyztC3gUCiGi33Ca4ldoezi-LlA5YxJOdB3DtPoxv0X7yXOE3QxzM9o7L3_N',
+  18 => 'cVIz3qXXnyw:APA91bGDad2SeqbnirR1uGIrGRFB6H-nEj0Cw0fWpmyByzJQ6VQal2OUCHzUepEnyr3KZSSqQ6zDfvaOef2DyG_bLnkyZY_Gvbj3LCl1Nkn7vjj-pY0fR8DdUvnuj5rEiPEVT6cK1K7e',
+  19 => 'eAr7Dn6Wewg:APA91bESN8tQlxTNmAXLjEEMLyHBuwbo9nizbsS7IQYlKjJtE3JYaAsAfk6vuqlbjQbPan5r6jqtv3vG_BUMLEbcNWguErbHEivw49xjj5ZRvAMqbAR1_NARbtJhWcBd50eW4ZTfhqg5',
+  20 => 'ckDm5PwYs0c:APA91bGjm1u3KkMMWc-g9bzG1qtGwYxw8rnbuqXwf6DheIFl_KAN7ZADJXZUHUpj5u9fM1TsQh9xKpFEfotNmu6o5Xa9uoHDpn5cktSx4OT9J9pttRscphzBGWv-1mOLCNH3gf6rMrre',
+  21 => 'cDHmXHw9z68:APA91bG19kLfEF9QhhsMQr2SLBnVfgc_oqugk1dZ0YuFAIUdhAfoSr2KQQSMSZbOJMZymYVeWgOaPo0BtVrbjjwMcZZ507VVx-RTa4dyUK7dYXfdCWYV36m7jiBRqddIpSEpxWCkuUwy',
+  22 => 'ekUwTuUE4M0:APA91bFIDnrR2d1sZRFd0kAs4VqRy-_lWtw0q3BfJG5p4iNADWRGS8AOFyhbOoH9y336majoQ_g9PeGmB4AbWQvzq0JHAiTHHwzFfssd0nwl1qew6pC4syclmqx2vDxEqKwxUmFnmwFH',
+  23 => 'ePlIfF1C0A4:APA91bECi4-Fmx1ljnJGQFbobid84SOS5RUGxZqi1EgCCh9rMehwglvvDktHHIm2Bq8Zmc36iVlGZv5iJoK7bU6UKSSHmnORt4iui951kB14cp83vNv4HCwDe4yvUmixnbQoWQPgMJVg',
+  24 => 'ciJKTcdl1zM:APA91bGYe5_0eXuPcvpKMlLfBHkuQOtLwYDaKZN3hTTRBAX4m6GbC7JMy3O7DIAp7fEWkmOj8ZF6-OPdNWrjnyxqcwvfPviQ51qv6FzyqC14xY1P6Pz7EKsOeKBphA1uo82YSd03umqz',
+  25 => 'd2QWcj2n3_s:APA91bGSrh3vXfNHJusapX5O6od71CAYA0Vq_zHCZRYI8sHrX0RAbEDZ0u7AjsADxtR-naKsPpgW0Oeq8FrgBwXWHe2t5Hs465iutqUns23eBuU-NSBWfB5FDLZOhxjocvSQVGupVYw9',
+  26 => 'fKZcl2PqdH8:APA91bFP7ASegCwrrxa-0zc3HfSjh3ZmAJU05yJzDAPKdxFihASMkVgf5BnEnGoKJpzZohqKOwXYeeOI2fAJPzMSJbpAiSsMIcs98TwtPiNcIERHRmotfDfq6DvYmeQxR1OEu2tB1lKt',
+  27 => 'dbXt4Fv2ruc:APA91bEdrGLp_9k1hsHoM4BM0xh_X0cAMJ0vN5DDeBriPCoryUSJD5uF2JekqbLjUovy0LcwoFvGRCCjrZSlwPkf3rgW70vS97qyHmjo40scqPDY8mSpCtw2y17j6iXXIk7VU_UEr58U',
+  28 => 'c07SwHCibiw:APA91bFNcHfVdv11-t5RkJ27KFUI1ameKQCYZtrLresszGjTTvAwLPutVFV9dpIa_T-k72hILH3AdK_9xtOofvYCff0DWFUMh1hz4apaZjgWiFc9220Y5FxPGK_TCi1tvG6wcdtSliQO',
+  29 => 'd8eTwwSaoIU:APA91bHJrXZkcJVv38_8sWOt4M5PULJU2X5FmuzzjL8wM7n2TwywNYohwopmo6xaEgsHBDa8fjK1sEFDlejrfTaYfL5tZnCQN7Z6WTaUUFHkhGL6UK0_dS6h0YnJwt0AnRrzZs13teWE',
+  30 => 'cp6_4WEefV0:APA91bHyJZpRnolOgqHbvo6emt9eoh9cEsb7sqJMbRHf8GMDUfsQykH7MCJgsq3wN8BUiu2mPB9mnj5xZu8LMgL88La7T297QAxNZ7Xj7rCPAy--G8ZK4h1NR-xu9eA-ZEmvLUKxkm_N',
+  31 => 'd2w7ITNyvgw:APA91bE4dXK6yqjJbLdZOsDkakRv3YA9OtKS0WxMi4OHyjl9iJWcdakiYNhBruVrmQapgC9TF5mbhUtsR8zbOXA3iD6jt1N8ewuhWUJ4szO2saibUyWrUwF6pTP1PQ-zZHblMI4MP-DW',
+  32 => 'ee0tYSD7KzQ:APA91bHWmbnijSv9OLasvBe6t2X9wzD9DiWoz_DOWIQPK0v9TZBz0d7xQ6XDnuzqXKuSIxqByXVojpNeSwSdd42QSK0GLjhrk8BZfmf5Esn_IGugRO0JVD9ypulSuhgzhgswSbE6RVnh',
+  33 => 'fANVRkHwfcU:APA91bGjXRouDqRoIMp1oSnYBijIxULcPc6lyUqFd-X16ewiNUwhZUF6aaIvRUOrnWtbKV3ehkluZzhFmS8rRQS_vSOTwXpATOYC9VbUBFCe52ycSRNXbLjPajdwAzQbXeIkdy3yTqdz',
+  34 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+  35 => 'eGS3yNxO34g:APA91bHNffFyg3KUjdhBbqxRNKfjiczH5iVmMZC5L-zV1jvrKtCW_krtuDFgBTkzEEh7mBhdXYTUzOhLVbqRJfV9Fetff_fa_CYURQhTyA4hGjJ-KAx7vMfdJVMC_uT4W2J9akR1fHlq',
+  36 => 'fV0Mp9eid5A:APA91bHUB46kkmk3TCZmGgTqQFFsog-CH2SS5fiirPzSTdVCnqCczcqra6ET2pdwyEozqJROP_5N_6Pb76qYn89QIjkG5QuXz21IGu1Ob7f8fXzfBSVUCeESbDdeYLydgSWBoHDZu-Nl',
+  37 => 'd0xJJq2tVSA:APA91bF3zeSPypJzBSn0cVbH-kuXktVVspImSCK6_ZNBuOcUiaNdU-4oCWk77a7716pePlT9fRcLS8YaTQGEZrHwEvd0FMu8YU4eJqPNmuO64DFDePTgvfPYh9dQ7jNdY1gkhg6-vEUb',
+  38 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+  39 => 'fAW3Oxb5ox0:APA91bHtBD4U7zWmco__fwz_9TmuOUaUHPoiP3xI_drv0PW6tHZ9k05AGDHa9YpXRr9hKr_lNp1X7-ba64vJlDEqZ-o3A8KPnsVKsp6sURnCZ_WQKBmmWr3HMRbrHK9GwM_WjBjcI9Sz',
+  40 => 'duIbcdouWVI:APA91bGOvzc5l1xFUKfQu1zrD_AoDIoaNqlsdr1Zsana7bXSFcjNdNvaJz55hKZDeRit4xNaobldA1tr88YczWWSryC01l_amK_NjF0y847QjDMDSS27dc7slhSg2IsBZq93lD4-Vj2-',
+  41 => 'e-YrC5OhyrU:APA91bHIBcaGkFvquq1UE-hmE_YNo8Jmjzv6p8OMY_6WAvJT8hiiCcZu7iIaFrV8nd_k9dr0Lcjj_L6V9qEl2OhiH2dxIytEB2FsDXiMx5IdtVbkVWEC6NMA0wf-FI6uC5A2NJrJpFPb',
+)
+
+Tue, 16 May 2017 01:07:45 PM UTC : .php
+'{"multicast_id":4941302551591559901,"success":38,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1494940223842486%30ba418ff9fd7ecd"},{"message_id":"0:1494940223842607%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940223844641%30ba418ff9fd7ecd"},{"message_id":"0:1494940223845459%30ba418ff9fd7ecd"},{"message_id":"0:1494940223845465%30ba418ff9fd7ecd"},{"message_id":"0:1494940223846279%30ba418ff9fd7ecd"},{"message_id":"0:1494940223845352%30ba418ff9fd7ecd"},{"message_id":"0:1494940223844863%30ba418ff9fd7ecd"},{"message_id":"0:1494940223844861%30ba418ff9fd7ecd"},{"message_id":"0:1494940223845457%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852985%30ba418ff9fd7ecd"},{"message_id":"0:1494940223845463%30ba418ff9fd7ecd"},{"message_id":"0:1494940223845461%30ba418ff9fd7ecd"},{"message_id":"0:1494940223845923%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852995%30ba418ff9fd7ecd"},{"message_id":"0:1494940223851430%30ba418ff9fd7ecd"},{"message_id":"0:1494940223851428%30ba418ff9fd7ecd"},{"message_id":"0:1494940223850876%30ba418ff9fd7ecd"},{"message_id":"0:1494940223850958%30ba418ff9fd7ecd"},{"message_id":"0:1494940223850718%30ba418ff9fd7ecd"},{"message_id":"0:1494940223850964%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852964%30ba418ff9fd7ecd"},{"message_id":"0:1494940223850960%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940223850962%30ba418ff9fd7ecd"},{"message_id":"0:1494940223849906%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852874%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852983%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852987%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852989%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852216%30ba418ff9fd7ecd"},{"message_id":"0:1494940223856404%30ba418ff9fd7ecd"},{"message_id":"0:1494940223852876%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"error":"NotRegistered"},{"message_id":"0:1494940223852991%30ba418ff9fd7ecd"},{"message_id":"0:1494940223855202%30ba418ff9fd7ecd"},{"message_id":"0:1494940223878056%30ba418ff9fd7ecd"},{"message_id":"0:1494940223855625%30ba418ff9fd7ecd"},{"message_id":"0:1494940223857279%30ba418ff9fd7ecd"},{"message_id":"0:1494940223859252%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:07:45 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:07:45 PM UTC : add_course_server.php
+'Add Course Ended'
+
+Tue, 16 May 2017 01:08:02 PM UTC : add_course_server.php
+'Add Course Started'
+
+Tue, 16 May 2017 01:08:02 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:02 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_ASSIGNMENT',
+  'assignment_id' => '1505001004course1494940082',
+  'subject_id' => 'Physiology',
+  'assignment_name' => 'Portions covered till now',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1494940082,
+)
+
+Tue, 16 May 2017 01:08:02 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:02 PM UTC : .php
+'{"multicast_id":6231506426994646341,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940240854047%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:02 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:02 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:02 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_COURSE',
+  'assignment_id' => '1505001004course1494940082',
+  'course_name' => 'Portions covered till now',
+  'description' => 'Just tick the chapters in the book that are completed till now and write the important questions given by dept as well as from previous qp, chapter wise and keep in a notebook',
+)
+
+Tue, 16 May 2017 01:08:02 PM UTC : .php
+array (
+  0 => 'dBdl4IlCFNc:APA91bHWic1zV6HojOOpg0m-qhH_Wu6X1_k-96dnOxVddRw6vVe3dfF2ycHuCvFNOn9Ix8usvcWsweg7OZ_VeDGt_8X7jDTRdOi0OcTXn47SffrgsubrW3twkwCQzriFZkjaPfG1WUBL',
+  1 => 'efq3dPd-xHQ:APA91bGWFhc2Td3ca8JP5cio6OHJt3QZ8TSMI33WjrxicbPdsAigEkgY8xLEdyZJrLzEGpApv0rV5ZedrSwap0m5fnjNHBsUy3aUn2_xLAvtT3L5PWs5r1PDPxpZt0s_t920SLeOrmLp',
+  2 => 'eeP0716w_EE:APA91bEInzdjUgNdtIXp5DgQV3ChOmEYLUd1YcR3P36YAfAPRXBvcxjG_ah8DJa_SjFmobAam__8Sun-id61DC8nlL1guvtCcidNhOAGF67VckeWjcFbSC8si1tDesK0SSbwNjrcwc7T',
+  3 => 'cvdA3afIMwU:APA91bGLmOwAs8OkIyCEEVrbnoNC59qj53shh0k-bc3ZuWpr5R_Tx1WxpJ46jzvxXolsztVZtp8nNGGlrI6jd4TWfV9avs8KXyJAJ1VLSI9Zmrq4iLqB8xTVvNFGhpVF87nj3oDTgxW1',
+  4 => 'dsXY_IAauoU:APA91bEJlLFQgUwL3Fo9Hxh-NYdlRXZ-C2VYaIUNPjCyVOyfBiCvxvIh3-JXkW2IcceF1FnwNtYxt1Cb4lzhtryTd4dWYpez3EH_OsQmkXUWaXwDEgiCpffsefwDt7H0EjUvC9bs7Inb',
+  5 => 'fiuDGfY3s5g:APA91bFlHXFjPSvVrqQP063uJRjdztaqRhrR-xUA0LIOzrLsbsHgRFLazTHoHq8ebQ03F5H3d7xzJw4Z1x2Bme1TnZYXbtqDx685Dsg258hCQuxqDKznKNMy-HpLdPqWAkXeuhTHupHN',
+  6 => 'fP7hRtBp1bg:APA91bGjzyG6QkY1AKqtJ0VsPXVCtUJXoO4upqSby-ip-J5WWVrryc9iKjD-9ZrrC-HcRuUxWIxBUavMw9Bx6wTgdbXgEV4vrog1t4ZyCgWYCPXipN4vgeP-bQtlBWSosu4HruMhQLV1',
+  7 => 'fgiB8ou0VHk:APA91bGUQ0d969PjfdHcWXYnTm3scYgfy1CvLJD_HaHPW0YEFrVVaujYmiPVvjzTIZyOEePedMt8RFSY3I2J6YBeWmNyRqA8Prwpds4ggHg3CipS6eHnM14Vy3wCSO0u232zyy3GAOBT',
+  8 => 'e_JmGq8l8TI:APA91bG1X5B30iAgUdu3blhKVDesoV9t_nQF-pLhLgZy6oV8Da13mL63P0TBXMsQ-CiIySU4e-eh94ne_KOv4wlbs90ZGHmpdRU6xHwsZEzp1IRDJzuqHxNS-94tChUuQgSP7VGTuHp6',
+  9 => 'fQWjZx1PnMk:APA91bEqRzmqNetlNIP-SveivkTvPtx9Uk7OiXiTwcJ5Br7hylV5MNN0TEJ6v-T-OOfu8AWhyPT_Ase4A-w2H5b-PPZtdjWo0_XwHS5pzAz9NTqfsWKFdh8PWDjZEPalRArkXGTJw1CN',
+  10 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+  11 => 'fkGF_Q5LX5A:APA91bH2DFrPAsmu4eRsyS2bp46VWIZLjGPD8PInm4y9-PByLTbx_Ijhrlqu1LFi0UOwBmozZ9E88BksYVAq-bEaAJLJpFYCFABR9MuI6DKwbayDYfadQLwEG0S-NNUvJJGBLoSvR3V5',
+  12 => 'dhqNVdTmVwo:APA91bHQUBs4xQUvFM7W2iBLBz15mu9efXfKmPRKEWoRU6mUIcfQV5pPmzcW9DX0XW6gNsjg5EHE5GKWHu0mwQY3MR_ni8eLGzAPC2aFwC7Cb3Y0Vhrl41flTVqq0unvsiPT1GK0gn8u',
+  13 => 'eDV6CYaYkGU:APA91bGZg2Xh1Vav-WiPjJReIyeRbTxt2K43QFLzXU2WsrN5V_5AHQk5Qbbp_oWFOqo47Gak9MPBVP-1Rg1u8Huc_K5eZjpbQPzfsy_eAUSQ_mC_vcQG10ICqE07FnBts4Ljd3nafGaW',
+  14 => 'dr03ytckkWg:APA91bFMUDc53P3a7V9Gb9t4Bhh-usJC_0bB5jT74tBTd3XQ2YcsMw-8T6_mbcjr2ZWQdzjmuyPuSAye6krUonAewSMLxP9HeE_luwrIOPW5Ab_plb8-ZD5WiIdF9ySjJTIBJq6TH1TM',
+  15 => 'frbON8q7MXc:APA91bFR53AhSDlqfMX4yv_NgSbG_-7YHBcwUgwXLfXeiSgSta2qsVy1UQ9-IQdk20NgXGonVaAyyVW2fCgna6nSVibSUIhRvv2DTRNDaWVAtyVEz6pomxve7nEK6bOFhyf-M2eUao3h',
+  16 => 'clXSVC6_S44:APA91bGTpv0IdZXjO838UGLQyuJQzH1LZtxrmnDDHhl1gY13PQL32ZHgH5nBE8_1nAH9QLYWMYoQ7JUhgQ9NdNXAPd8pymLb9_IRbRjbx4QMEc1IpB2FysdMpeYifokwNdN49JY8Frm4',
+  17 => 'dEAlvni_UGU:APA91bHc1Df-8KBWyfqEUsrEKYp42gPMWduHi7uXnw9XDyLruAdjY6rsmw5bGFFKwGcCWP56m4YxpJJ4XyztC3gUCiGi33Ca4ldoezi-LlA5YxJOdB3DtPoxv0X7yXOE3QxzM9o7L3_N',
+  18 => 'cVIz3qXXnyw:APA91bGDad2SeqbnirR1uGIrGRFB6H-nEj0Cw0fWpmyByzJQ6VQal2OUCHzUepEnyr3KZSSqQ6zDfvaOef2DyG_bLnkyZY_Gvbj3LCl1Nkn7vjj-pY0fR8DdUvnuj5rEiPEVT6cK1K7e',
+  19 => 'eAr7Dn6Wewg:APA91bESN8tQlxTNmAXLjEEMLyHBuwbo9nizbsS7IQYlKjJtE3JYaAsAfk6vuqlbjQbPan5r6jqtv3vG_BUMLEbcNWguErbHEivw49xjj5ZRvAMqbAR1_NARbtJhWcBd50eW4ZTfhqg5',
+  20 => 'ckDm5PwYs0c:APA91bGjm1u3KkMMWc-g9bzG1qtGwYxw8rnbuqXwf6DheIFl_KAN7ZADJXZUHUpj5u9fM1TsQh9xKpFEfotNmu6o5Xa9uoHDpn5cktSx4OT9J9pttRscphzBGWv-1mOLCNH3gf6rMrre',
+  21 => 'cDHmXHw9z68:APA91bG19kLfEF9QhhsMQr2SLBnVfgc_oqugk1dZ0YuFAIUdhAfoSr2KQQSMSZbOJMZymYVeWgOaPo0BtVrbjjwMcZZ507VVx-RTa4dyUK7dYXfdCWYV36m7jiBRqddIpSEpxWCkuUwy',
+  22 => 'ekUwTuUE4M0:APA91bFIDnrR2d1sZRFd0kAs4VqRy-_lWtw0q3BfJG5p4iNADWRGS8AOFyhbOoH9y336majoQ_g9PeGmB4AbWQvzq0JHAiTHHwzFfssd0nwl1qew6pC4syclmqx2vDxEqKwxUmFnmwFH',
+  23 => 'ePlIfF1C0A4:APA91bECi4-Fmx1ljnJGQFbobid84SOS5RUGxZqi1EgCCh9rMehwglvvDktHHIm2Bq8Zmc36iVlGZv5iJoK7bU6UKSSHmnORt4iui951kB14cp83vNv4HCwDe4yvUmixnbQoWQPgMJVg',
+  24 => 'ciJKTcdl1zM:APA91bGYe5_0eXuPcvpKMlLfBHkuQOtLwYDaKZN3hTTRBAX4m6GbC7JMy3O7DIAp7fEWkmOj8ZF6-OPdNWrjnyxqcwvfPviQ51qv6FzyqC14xY1P6Pz7EKsOeKBphA1uo82YSd03umqz',
+  25 => 'd2QWcj2n3_s:APA91bGSrh3vXfNHJusapX5O6od71CAYA0Vq_zHCZRYI8sHrX0RAbEDZ0u7AjsADxtR-naKsPpgW0Oeq8FrgBwXWHe2t5Hs465iutqUns23eBuU-NSBWfB5FDLZOhxjocvSQVGupVYw9',
+  26 => 'fKZcl2PqdH8:APA91bFP7ASegCwrrxa-0zc3HfSjh3ZmAJU05yJzDAPKdxFihASMkVgf5BnEnGoKJpzZohqKOwXYeeOI2fAJPzMSJbpAiSsMIcs98TwtPiNcIERHRmotfDfq6DvYmeQxR1OEu2tB1lKt',
+  27 => 'dbXt4Fv2ruc:APA91bEdrGLp_9k1hsHoM4BM0xh_X0cAMJ0vN5DDeBriPCoryUSJD5uF2JekqbLjUovy0LcwoFvGRCCjrZSlwPkf3rgW70vS97qyHmjo40scqPDY8mSpCtw2y17j6iXXIk7VU_UEr58U',
+  28 => 'c07SwHCibiw:APA91bFNcHfVdv11-t5RkJ27KFUI1ameKQCYZtrLresszGjTTvAwLPutVFV9dpIa_T-k72hILH3AdK_9xtOofvYCff0DWFUMh1hz4apaZjgWiFc9220Y5FxPGK_TCi1tvG6wcdtSliQO',
+  29 => 'd8eTwwSaoIU:APA91bHJrXZkcJVv38_8sWOt4M5PULJU2X5FmuzzjL8wM7n2TwywNYohwopmo6xaEgsHBDa8fjK1sEFDlejrfTaYfL5tZnCQN7Z6WTaUUFHkhGL6UK0_dS6h0YnJwt0AnRrzZs13teWE',
+  30 => 'cp6_4WEefV0:APA91bHyJZpRnolOgqHbvo6emt9eoh9cEsb7sqJMbRHf8GMDUfsQykH7MCJgsq3wN8BUiu2mPB9mnj5xZu8LMgL88La7T297QAxNZ7Xj7rCPAy--G8ZK4h1NR-xu9eA-ZEmvLUKxkm_N',
+  31 => 'd2w7ITNyvgw:APA91bE4dXK6yqjJbLdZOsDkakRv3YA9OtKS0WxMi4OHyjl9iJWcdakiYNhBruVrmQapgC9TF5mbhUtsR8zbOXA3iD6jt1N8ewuhWUJ4szO2saibUyWrUwF6pTP1PQ-zZHblMI4MP-DW',
+  32 => 'ee0tYSD7KzQ:APA91bHWmbnijSv9OLasvBe6t2X9wzD9DiWoz_DOWIQPK0v9TZBz0d7xQ6XDnuzqXKuSIxqByXVojpNeSwSdd42QSK0GLjhrk8BZfmf5Esn_IGugRO0JVD9ypulSuhgzhgswSbE6RVnh',
+  33 => 'fANVRkHwfcU:APA91bGjXRouDqRoIMp1oSnYBijIxULcPc6lyUqFd-X16ewiNUwhZUF6aaIvRUOrnWtbKV3ehkluZzhFmS8rRQS_vSOTwXpATOYC9VbUBFCe52ycSRNXbLjPajdwAzQbXeIkdy3yTqdz',
+  34 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+  35 => 'eGS3yNxO34g:APA91bHNffFyg3KUjdhBbqxRNKfjiczH5iVmMZC5L-zV1jvrKtCW_krtuDFgBTkzEEh7mBhdXYTUzOhLVbqRJfV9Fetff_fa_CYURQhTyA4hGjJ-KAx7vMfdJVMC_uT4W2J9akR1fHlq',
+  36 => 'fV0Mp9eid5A:APA91bHUB46kkmk3TCZmGgTqQFFsog-CH2SS5fiirPzSTdVCnqCczcqra6ET2pdwyEozqJROP_5N_6Pb76qYn89QIjkG5QuXz21IGu1Ob7f8fXzfBSVUCeESbDdeYLydgSWBoHDZu-Nl',
+  37 => 'd0xJJq2tVSA:APA91bF3zeSPypJzBSn0cVbH-kuXktVVspImSCK6_ZNBuOcUiaNdU-4oCWk77a7716pePlT9fRcLS8YaTQGEZrHwEvd0FMu8YU4eJqPNmuO64DFDePTgvfPYh9dQ7jNdY1gkhg6-vEUb',
+  38 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+  39 => 'fAW3Oxb5ox0:APA91bHtBD4U7zWmco__fwz_9TmuOUaUHPoiP3xI_drv0PW6tHZ9k05AGDHa9YpXRr9hKr_lNp1X7-ba64vJlDEqZ-o3A8KPnsVKsp6sURnCZ_WQKBmmWr3HMRbrHK9GwM_WjBjcI9Sz',
+  40 => 'duIbcdouWVI:APA91bGOvzc5l1xFUKfQu1zrD_AoDIoaNqlsdr1Zsana7bXSFcjNdNvaJz55hKZDeRit4xNaobldA1tr88YczWWSryC01l_amK_NjF0y847QjDMDSS27dc7slhSg2IsBZq93lD4-Vj2-',
+  41 => 'e-YrC5OhyrU:APA91bHIBcaGkFvquq1UE-hmE_YNo8Jmjzv6p8OMY_6WAvJT8hiiCcZu7iIaFrV8nd_k9dr0Lcjj_L6V9qEl2OhiH2dxIytEB2FsDXiMx5IdtVbkVWEC6NMA0wf-FI6uC5A2NJrJpFPb',
+)
+
+Tue, 16 May 2017 01:08:03 PM UTC : .php
+'{"multicast_id":6583984817416641726,"success":38,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1494940241938841%30ba418ff9fd7ecd"},{"message_id":"0:1494940241938234%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940241939667%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940793%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940931%30ba418ff9fd7ecd"},{"message_id":"0:1494940241941873%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940833%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940795%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940791%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940927%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940929%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940935%30ba418ff9fd7ecd"},{"message_id":"0:1494940241943915%30ba418ff9fd7ecd"},{"message_id":"0:1494940241941869%30ba418ff9fd7ecd"},{"message_id":"0:1494940241940933%30ba418ff9fd7ecd"},{"message_id":"0:1494940241941871%30ba418ff9fd7ecd"},{"message_id":"0:1494940241942094%30ba418ff9fd7ecd"},{"message_id":"0:1494940241942942%30ba418ff9fd7ecd"},{"message_id":"0:1494940241943812%30ba418ff9fd7ecd"},{"message_id":"0:1494940241942886%30ba418ff9fd7ecd"},{"message_id":"0:1494940241942888%30ba418ff9fd7ecd"},{"message_id":"0:1494940241942890%30ba418ff9fd7ecd"},{"message_id":"0:1494940241942892%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940241943913%30ba418ff9fd7ecd"},{"message_id":"0:1494940241943810%30ba418ff9fd7ecd"},{"message_id":"0:1494940241947906%30ba418ff9fd7ecd"},{"message_id":"0:1494940241943911%30ba418ff9fd7ecd"},{"message_id":"0:1494940241943909%30ba418ff9fd7ecd"},{"message_id":"0:1494940241943916%30ba418ff9fd7ecd"},{"message_id":"0:1494940241947186%30ba418ff9fd7ecd"},{"message_id":"0:1494940241944842%30ba418ff9fd7ecd"},{"message_id":"0:1494940241944770%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"error":"NotRegistered"},{"message_id":"0:1494940241944855%30ba418ff9fd7ecd"},{"message_id":"0:1494940241945885%30ba418ff9fd7ecd"},{"message_id":"0:1494940241946111%30ba418ff9fd7ecd"},{"message_id":"0:1494940241945424%30ba418ff9fd7ecd"},{"message_id":"0:1494940241946817%30ba418ff9fd7ecd"},{"message_id":"0:1494940241945887%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:03 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:03 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:03 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_ASSIGNMENT',
+  'subject_id' => 'Physiology',
+  'assignment_id' => '1505001004course1494940082',
+  'assignment_name' => 'Portions covered till now',
+  'type' => 'COURSE',
+  'number_of_days' => '1',
+  'time' => 1494940082,
+)
+
+Tue, 16 May 2017 01:08:03 PM UTC : .php
+array (
+  0 => 'dBdl4IlCFNc:APA91bHWic1zV6HojOOpg0m-qhH_Wu6X1_k-96dnOxVddRw6vVe3dfF2ycHuCvFNOn9Ix8usvcWsweg7OZ_VeDGt_8X7jDTRdOi0OcTXn47SffrgsubrW3twkwCQzriFZkjaPfG1WUBL',
+  1 => 'efq3dPd-xHQ:APA91bGWFhc2Td3ca8JP5cio6OHJt3QZ8TSMI33WjrxicbPdsAigEkgY8xLEdyZJrLzEGpApv0rV5ZedrSwap0m5fnjNHBsUy3aUn2_xLAvtT3L5PWs5r1PDPxpZt0s_t920SLeOrmLp',
+  2 => 'eeP0716w_EE:APA91bEInzdjUgNdtIXp5DgQV3ChOmEYLUd1YcR3P36YAfAPRXBvcxjG_ah8DJa_SjFmobAam__8Sun-id61DC8nlL1guvtCcidNhOAGF67VckeWjcFbSC8si1tDesK0SSbwNjrcwc7T',
+  3 => 'cvdA3afIMwU:APA91bGLmOwAs8OkIyCEEVrbnoNC59qj53shh0k-bc3ZuWpr5R_Tx1WxpJ46jzvxXolsztVZtp8nNGGlrI6jd4TWfV9avs8KXyJAJ1VLSI9Zmrq4iLqB8xTVvNFGhpVF87nj3oDTgxW1',
+  4 => 'dsXY_IAauoU:APA91bEJlLFQgUwL3Fo9Hxh-NYdlRXZ-C2VYaIUNPjCyVOyfBiCvxvIh3-JXkW2IcceF1FnwNtYxt1Cb4lzhtryTd4dWYpez3EH_OsQmkXUWaXwDEgiCpffsefwDt7H0EjUvC9bs7Inb',
+  5 => 'fiuDGfY3s5g:APA91bFlHXFjPSvVrqQP063uJRjdztaqRhrR-xUA0LIOzrLsbsHgRFLazTHoHq8ebQ03F5H3d7xzJw4Z1x2Bme1TnZYXbtqDx685Dsg258hCQuxqDKznKNMy-HpLdPqWAkXeuhTHupHN',
+  6 => 'fP7hRtBp1bg:APA91bGjzyG6QkY1AKqtJ0VsPXVCtUJXoO4upqSby-ip-J5WWVrryc9iKjD-9ZrrC-HcRuUxWIxBUavMw9Bx6wTgdbXgEV4vrog1t4ZyCgWYCPXipN4vgeP-bQtlBWSosu4HruMhQLV1',
+  7 => 'fgiB8ou0VHk:APA91bGUQ0d969PjfdHcWXYnTm3scYgfy1CvLJD_HaHPW0YEFrVVaujYmiPVvjzTIZyOEePedMt8RFSY3I2J6YBeWmNyRqA8Prwpds4ggHg3CipS6eHnM14Vy3wCSO0u232zyy3GAOBT',
+  8 => 'e_JmGq8l8TI:APA91bG1X5B30iAgUdu3blhKVDesoV9t_nQF-pLhLgZy6oV8Da13mL63P0TBXMsQ-CiIySU4e-eh94ne_KOv4wlbs90ZGHmpdRU6xHwsZEzp1IRDJzuqHxNS-94tChUuQgSP7VGTuHp6',
+  9 => 'fQWjZx1PnMk:APA91bEqRzmqNetlNIP-SveivkTvPtx9Uk7OiXiTwcJ5Br7hylV5MNN0TEJ6v-T-OOfu8AWhyPT_Ase4A-w2H5b-PPZtdjWo0_XwHS5pzAz9NTqfsWKFdh8PWDjZEPalRArkXGTJw1CN',
+  10 => 'd4Pr7Ay3y0A:APA91bGYW3-islI0rjGBUIncUoB8rWxnghWsRtyJIoWVJ_n_Gx4kPQKLM5ejKxc7Pt7vq7_7TolxtQKu_7QKNxn2EwjUePETogfarS_KEeR1ZhPcS7HzKRX5NHTP0iIQ1UMevXFW8Bjo',
+  11 => 'fkGF_Q5LX5A:APA91bH2DFrPAsmu4eRsyS2bp46VWIZLjGPD8PInm4y9-PByLTbx_Ijhrlqu1LFi0UOwBmozZ9E88BksYVAq-bEaAJLJpFYCFABR9MuI6DKwbayDYfadQLwEG0S-NNUvJJGBLoSvR3V5',
+  12 => 'dhqNVdTmVwo:APA91bHQUBs4xQUvFM7W2iBLBz15mu9efXfKmPRKEWoRU6mUIcfQV5pPmzcW9DX0XW6gNsjg5EHE5GKWHu0mwQY3MR_ni8eLGzAPC2aFwC7Cb3Y0Vhrl41flTVqq0unvsiPT1GK0gn8u',
+  13 => 'eDV6CYaYkGU:APA91bGZg2Xh1Vav-WiPjJReIyeRbTxt2K43QFLzXU2WsrN5V_5AHQk5Qbbp_oWFOqo47Gak9MPBVP-1Rg1u8Huc_K5eZjpbQPzfsy_eAUSQ_mC_vcQG10ICqE07FnBts4Ljd3nafGaW',
+  14 => 'dr03ytckkWg:APA91bFMUDc53P3a7V9Gb9t4Bhh-usJC_0bB5jT74tBTd3XQ2YcsMw-8T6_mbcjr2ZWQdzjmuyPuSAye6krUonAewSMLxP9HeE_luwrIOPW5Ab_plb8-ZD5WiIdF9ySjJTIBJq6TH1TM',
+  15 => 'frbON8q7MXc:APA91bFR53AhSDlqfMX4yv_NgSbG_-7YHBcwUgwXLfXeiSgSta2qsVy1UQ9-IQdk20NgXGonVaAyyVW2fCgna6nSVibSUIhRvv2DTRNDaWVAtyVEz6pomxve7nEK6bOFhyf-M2eUao3h',
+  16 => 'clXSVC6_S44:APA91bGTpv0IdZXjO838UGLQyuJQzH1LZtxrmnDDHhl1gY13PQL32ZHgH5nBE8_1nAH9QLYWMYoQ7JUhgQ9NdNXAPd8pymLb9_IRbRjbx4QMEc1IpB2FysdMpeYifokwNdN49JY8Frm4',
+  17 => 'dEAlvni_UGU:APA91bHc1Df-8KBWyfqEUsrEKYp42gPMWduHi7uXnw9XDyLruAdjY6rsmw5bGFFKwGcCWP56m4YxpJJ4XyztC3gUCiGi33Ca4ldoezi-LlA5YxJOdB3DtPoxv0X7yXOE3QxzM9o7L3_N',
+  18 => 'cVIz3qXXnyw:APA91bGDad2SeqbnirR1uGIrGRFB6H-nEj0Cw0fWpmyByzJQ6VQal2OUCHzUepEnyr3KZSSqQ6zDfvaOef2DyG_bLnkyZY_Gvbj3LCl1Nkn7vjj-pY0fR8DdUvnuj5rEiPEVT6cK1K7e',
+  19 => 'eAr7Dn6Wewg:APA91bESN8tQlxTNmAXLjEEMLyHBuwbo9nizbsS7IQYlKjJtE3JYaAsAfk6vuqlbjQbPan5r6jqtv3vG_BUMLEbcNWguErbHEivw49xjj5ZRvAMqbAR1_NARbtJhWcBd50eW4ZTfhqg5',
+  20 => 'ckDm5PwYs0c:APA91bGjm1u3KkMMWc-g9bzG1qtGwYxw8rnbuqXwf6DheIFl_KAN7ZADJXZUHUpj5u9fM1TsQh9xKpFEfotNmu6o5Xa9uoHDpn5cktSx4OT9J9pttRscphzBGWv-1mOLCNH3gf6rMrre',
+  21 => 'cDHmXHw9z68:APA91bG19kLfEF9QhhsMQr2SLBnVfgc_oqugk1dZ0YuFAIUdhAfoSr2KQQSMSZbOJMZymYVeWgOaPo0BtVrbjjwMcZZ507VVx-RTa4dyUK7dYXfdCWYV36m7jiBRqddIpSEpxWCkuUwy',
+  22 => 'ekUwTuUE4M0:APA91bFIDnrR2d1sZRFd0kAs4VqRy-_lWtw0q3BfJG5p4iNADWRGS8AOFyhbOoH9y336majoQ_g9PeGmB4AbWQvzq0JHAiTHHwzFfssd0nwl1qew6pC4syclmqx2vDxEqKwxUmFnmwFH',
+  23 => 'ePlIfF1C0A4:APA91bECi4-Fmx1ljnJGQFbobid84SOS5RUGxZqi1EgCCh9rMehwglvvDktHHIm2Bq8Zmc36iVlGZv5iJoK7bU6UKSSHmnORt4iui951kB14cp83vNv4HCwDe4yvUmixnbQoWQPgMJVg',
+  24 => 'ciJKTcdl1zM:APA91bGYe5_0eXuPcvpKMlLfBHkuQOtLwYDaKZN3hTTRBAX4m6GbC7JMy3O7DIAp7fEWkmOj8ZF6-OPdNWrjnyxqcwvfPviQ51qv6FzyqC14xY1P6Pz7EKsOeKBphA1uo82YSd03umqz',
+  25 => 'd2QWcj2n3_s:APA91bGSrh3vXfNHJusapX5O6od71CAYA0Vq_zHCZRYI8sHrX0RAbEDZ0u7AjsADxtR-naKsPpgW0Oeq8FrgBwXWHe2t5Hs465iutqUns23eBuU-NSBWfB5FDLZOhxjocvSQVGupVYw9',
+  26 => 'fKZcl2PqdH8:APA91bFP7ASegCwrrxa-0zc3HfSjh3ZmAJU05yJzDAPKdxFihASMkVgf5BnEnGoKJpzZohqKOwXYeeOI2fAJPzMSJbpAiSsMIcs98TwtPiNcIERHRmotfDfq6DvYmeQxR1OEu2tB1lKt',
+  27 => 'dbXt4Fv2ruc:APA91bEdrGLp_9k1hsHoM4BM0xh_X0cAMJ0vN5DDeBriPCoryUSJD5uF2JekqbLjUovy0LcwoFvGRCCjrZSlwPkf3rgW70vS97qyHmjo40scqPDY8mSpCtw2y17j6iXXIk7VU_UEr58U',
+  28 => 'c07SwHCibiw:APA91bFNcHfVdv11-t5RkJ27KFUI1ameKQCYZtrLresszGjTTvAwLPutVFV9dpIa_T-k72hILH3AdK_9xtOofvYCff0DWFUMh1hz4apaZjgWiFc9220Y5FxPGK_TCi1tvG6wcdtSliQO',
+  29 => 'd8eTwwSaoIU:APA91bHJrXZkcJVv38_8sWOt4M5PULJU2X5FmuzzjL8wM7n2TwywNYohwopmo6xaEgsHBDa8fjK1sEFDlejrfTaYfL5tZnCQN7Z6WTaUUFHkhGL6UK0_dS6h0YnJwt0AnRrzZs13teWE',
+  30 => 'cp6_4WEefV0:APA91bHyJZpRnolOgqHbvo6emt9eoh9cEsb7sqJMbRHf8GMDUfsQykH7MCJgsq3wN8BUiu2mPB9mnj5xZu8LMgL88La7T297QAxNZ7Xj7rCPAy--G8ZK4h1NR-xu9eA-ZEmvLUKxkm_N',
+  31 => 'd2w7ITNyvgw:APA91bE4dXK6yqjJbLdZOsDkakRv3YA9OtKS0WxMi4OHyjl9iJWcdakiYNhBruVrmQapgC9TF5mbhUtsR8zbOXA3iD6jt1N8ewuhWUJ4szO2saibUyWrUwF6pTP1PQ-zZHblMI4MP-DW',
+  32 => 'ee0tYSD7KzQ:APA91bHWmbnijSv9OLasvBe6t2X9wzD9DiWoz_DOWIQPK0v9TZBz0d7xQ6XDnuzqXKuSIxqByXVojpNeSwSdd42QSK0GLjhrk8BZfmf5Esn_IGugRO0JVD9ypulSuhgzhgswSbE6RVnh',
+  33 => 'fANVRkHwfcU:APA91bGjXRouDqRoIMp1oSnYBijIxULcPc6lyUqFd-X16ewiNUwhZUF6aaIvRUOrnWtbKV3ehkluZzhFmS8rRQS_vSOTwXpATOYC9VbUBFCe52ycSRNXbLjPajdwAzQbXeIkdy3yTqdz',
+  34 => 'e8tYMG8spK8:APA91bH0O-kZpy1h6U7ibzlSOYgrCidmj-qBdaHXKyusLMkfQHfjOW3NaxXkwAGcKr0ZpN5fwtVDlRwPTVlpBAarxXQwz-th-MVbjw2NhcMD6_hf1aQkgZMIAjOL6hcN2KueOSQcYOCD',
+  35 => 'eGS3yNxO34g:APA91bHNffFyg3KUjdhBbqxRNKfjiczH5iVmMZC5L-zV1jvrKtCW_krtuDFgBTkzEEh7mBhdXYTUzOhLVbqRJfV9Fetff_fa_CYURQhTyA4hGjJ-KAx7vMfdJVMC_uT4W2J9akR1fHlq',
+  36 => 'fV0Mp9eid5A:APA91bHUB46kkmk3TCZmGgTqQFFsog-CH2SS5fiirPzSTdVCnqCczcqra6ET2pdwyEozqJROP_5N_6Pb76qYn89QIjkG5QuXz21IGu1Ob7f8fXzfBSVUCeESbDdeYLydgSWBoHDZu-Nl',
+  37 => 'd0xJJq2tVSA:APA91bF3zeSPypJzBSn0cVbH-kuXktVVspImSCK6_ZNBuOcUiaNdU-4oCWk77a7716pePlT9fRcLS8YaTQGEZrHwEvd0FMu8YU4eJqPNmuO64DFDePTgvfPYh9dQ7jNdY1gkhg6-vEUb',
+  38 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+  39 => 'fAW3Oxb5ox0:APA91bHtBD4U7zWmco__fwz_9TmuOUaUHPoiP3xI_drv0PW6tHZ9k05AGDHa9YpXRr9hKr_lNp1X7-ba64vJlDEqZ-o3A8KPnsVKsp6sURnCZ_WQKBmmWr3HMRbrHK9GwM_WjBjcI9Sz',
+  40 => 'duIbcdouWVI:APA91bGOvzc5l1xFUKfQu1zrD_AoDIoaNqlsdr1Zsana7bXSFcjNdNvaJz55hKZDeRit4xNaobldA1tr88YczWWSryC01l_amK_NjF0y847QjDMDSS27dc7slhSg2IsBZq93lD4-Vj2-',
+  41 => 'e-YrC5OhyrU:APA91bHIBcaGkFvquq1UE-hmE_YNo8Jmjzv6p8OMY_6WAvJT8hiiCcZu7iIaFrV8nd_k9dr0Lcjj_L6V9qEl2OhiH2dxIytEB2FsDXiMx5IdtVbkVWEC6NMA0wf-FI6uC5A2NJrJpFPb',
+)
+
+Tue, 16 May 2017 01:08:04 PM UTC : .php
+'{"multicast_id":5274035113239437877,"success":38,"failure":4,"canonical_ids":0,"results":[{"message_id":"0:1494940243036247%30ba418ff9fd7ecd"},{"message_id":"0:1494940243037110%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940243038763%30ba418ff9fd7ecd"},{"message_id":"0:1494940243036711%30ba418ff9fd7ecd"},{"message_id":"0:1494940243037742%30ba418ff9fd7ecd"},{"message_id":"0:1494940243036709%30ba418ff9fd7ecd"},{"message_id":"0:1494940243037971%30ba418ff9fd7ecd"},{"message_id":"0:1494940243036708%30ba418ff9fd7ecd"},{"message_id":"0:1494940243044907%30ba418ff9fd7ecd"},{"message_id":"0:1494940243037999%30ba418ff9fd7ecd"},{"message_id":"0:1494940243037969%30ba418ff9fd7ecd"},{"message_id":"0:1494940243038767%30ba418ff9fd7ecd"},{"message_id":"0:1494940243045525%30ba418ff9fd7ecd"},{"message_id":"0:1494940243038003%30ba418ff9fd7ecd"},{"message_id":"0:1494940243038001%30ba418ff9fd7ecd"},{"message_id":"0:1494940243038759%30ba418ff9fd7ecd"},{"message_id":"0:1494940243038761%30ba418ff9fd7ecd"},{"message_id":"0:1494940243042923%30ba418ff9fd7ecd"},{"message_id":"0:1494940243042925%30ba418ff9fd7ecd"},{"message_id":"0:1494940243039541%30ba418ff9fd7ecd"},{"message_id":"0:1494940243040004%30ba418ff9fd7ecd"},{"message_id":"0:1494940243038765%30ba418ff9fd7ecd"},{"message_id":"0:1494940243039990%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"message_id":"0:1494940243039996%30ba418ff9fd7ecd"},{"message_id":"0:1494940243041345%30ba418ff9fd7ecd"},{"message_id":"0:1494940243047485%30ba418ff9fd7ecd"},{"message_id":"0:1494940243039992%30ba418ff9fd7ecd"},{"message_id":"0:1494940243040001%30ba418ff9fd7ecd"},{"message_id":"0:1494940243039994%30ba418ff9fd7ecd"},{"message_id":"0:1494940243039998%30ba418ff9fd7ecd"},{"message_id":"0:1494940243040006%30ba418ff9fd7ecd"},{"message_id":"0:1494940243040000%30ba418ff9fd7ecd"},{"error":"NotRegistered"},{"error":"NotRegistered"},{"message_id":"0:1494940243042927%30ba418ff9fd7ecd"},{"message_id":"0:1494940243043074%30ba418ff9fd7ecd"},{"message_id":"0:1494940243040816%30ba418ff9fd7ecd"},{"message_id":"0:1494940243040200%30ba418ff9fd7ecd"},{"message_id":"0:1494940243041608%30ba418ff9fd7ecd"},{"message_id":"0:1494940243040980%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:04 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:04 PM UTC : add_course_server.php
+'Add Course Ended'
+
+Tue, 16 May 2017 01:08:27 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:27 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001029\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:27 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:27 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:27 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001029',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:27 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:27 PM UTC : .php
+'{"multicast_id":5281143754286519628,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940266073611%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:27 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:27 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:28 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:28 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001029\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001029',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+'{"multicast_id":7194547279336600998,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940266409042%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:28 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:28 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:28 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001029\',\'1505001004course1492248896\',\'1505001004\',\'1505001004course1492248896\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001029',
+  'assignment_id' => '1505001004course1492248896',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+'{"multicast_id":7079880676308898763,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940266740271%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:28 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:28 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:36 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:36 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001042\',\'1505001004course1492248695\',\'1505001004\',\'1505001004course1492248695\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:36 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:36 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:36 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001042',
+  'assignment_id' => '1505001004course1492248695',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:36 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:36 PM UTC : .php
+'{"multicast_id":6378708673345284724,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940275001095%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:36 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:36 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:37 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:37 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001042\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001042',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+'{"multicast_id":5708043156533992773,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940275632011%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:37 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:37 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:37 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001042\',\'1505001004course1492248764\',\'1505001004\',\'1505001004course1492248764\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001042',
+  'assignment_id' => '1505001004course1492248764',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+'{"multicast_id":8083899926408777697,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940276036967%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:37 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:37 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:38 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:38 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001042\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001042',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'{"multicast_id":6242247737030880428,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940276520622%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:38 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:38 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:38 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001042\',\'1505001004course1492248896\',\'1505001004\',\'1505001004course1492248896\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001042',
+  'assignment_id' => '1505001004course1492248896',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'{"multicast_id":7740903548835545951,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940276890241%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:38 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:38 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:38 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001042\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001042',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:38 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+'{"multicast_id":7025364743795310156,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940277202544%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:39 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:39 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:39 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001042\',\'1505001004course1492248843\',\'1505001004\',\'1505001004course1492248843\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001042',
+  'assignment_id' => '1505001004course1492248843',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+'{"multicast_id":8755589691767551306,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940277560666%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:39 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:39 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:39 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001042\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001042',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:39 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:40 PM UTC : .php
+'{"multicast_id":6745367923649689328,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940278187193%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:40 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:40 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001029\',\'1505001004course1491663107\',\'1505001004\',\'1505001004course1491663107\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001029',
+  'assignment_id' => '1505001004course1491663107',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'{"multicast_id":7929235457928072790,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940294452650%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001029\',\'1505001004course1492248764\',\'1505001004\',\'1505001004course1492248764\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001029',
+  'assignment_id' => '1505001004course1492248764',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'{"multicast_id":8420474822272410041,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940294807394%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001029\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001029',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'{"multicast_id":5902502941687869467,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940295150522%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:08:56 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:08:56 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:11 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:11 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+'{"multicast_id":5815729787739109396,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940309835392%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:11 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:11 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:11 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1491663064\',\'1505001004\',\'1505001004course1491663064\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1491663064',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:11 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'{"multicast_id":5608348657002873759,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940310205571%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:12 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:12 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:12 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1491047420\',\'1505001004\',\'1505001004course1491047420\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1491047420',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'{"multicast_id":5512820010521780583,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940310745575%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:12 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:12 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:12 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490960756\',\'1505001004\',\'1505001004course1490960756\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490960756',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'{"multicast_id":6860651797033564097,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940311121982%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:12 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:12 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:13 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:13 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490880881\',\'1505001004\',\'1505001004course1490880881\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490880881',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+'{"multicast_id":6047462488427811675,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940311686836%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:13 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:13 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:13 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490710482\',\'1505001004\',\'1505001004course1490710482\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490710482',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+'{"multicast_id":6003799814514827700,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940312065605%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:13 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:13 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:14 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:14 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+'{"multicast_id":5126967813748663894,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940312608350%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:14 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:14 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:14 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1491047486\',\'1505001004\',\'1505001004course1491047486\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1491047486',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+'{"multicast_id":8710801584973355725,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940312984244%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:14 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:14 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:15 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:15 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490960957\',\'1505001004\',\'1505001004course1490960957\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490960957',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'{"multicast_id":7515044511761033294,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940313361648%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:15 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:15 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:15 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490960849\',\'1505001004\',\'1505001004course1490960849\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490960849',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'{"multicast_id":4715120319383386411,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940313749724%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:15 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:15 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:15 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490960846\',\'1505001004\',\'1505001004course1490960846\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490960846',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:15 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'{"multicast_id":7439545867508626770,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940314163592%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:16 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:16 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:16 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490880934\',\'1505001004\',\'1505001004course1490880934\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490880934',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'{"multicast_id":9014257549666210936,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940314639334%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:16 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:16 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:16 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490710559\',\'1505001004\',\'1505001004course1490710559\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490710559',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'{"multicast_id":7534551639018784057,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940315092283%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:16 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:16 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:17 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:17 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+'{"multicast_id":5537264165178388067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940315567833%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:17 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:17 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:17 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1491047579\',\'1505001004\',\'1505001004course1491047579\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1491047579',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+'{"multicast_id":8564473418053838227,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940316012591%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:17 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:17 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:18 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:18 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490961018\',\'1505001004\',\'1505001004course1490961018\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490961018',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'{"multicast_id":6506547462080386573,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940316396377%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:18 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:18 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:18 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490881113\',\'1505001004\',\'1505001004course1490881113\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490881113',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'{"multicast_id":8585052486300195069,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940316790317%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:18 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:18 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:18 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1490710624\',\'1505001004\',\'1505001004course1490710624\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1490710624',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:18 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'{"multicast_id":4772205213718871112,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940317162957%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:19 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:19 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:19 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1491663240\',\'1505001004\',\'1505001004course1491663240\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1491663240',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'{"multicast_id":4876927300245176941,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940317548666%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:19 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:19 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:19 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1491047703\',\'1505001004\',\'1505001004course1491047703\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1491047703',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'{"multicast_id":7345886348282945492,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940317932261%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:19 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:19 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:09:20 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:09:20 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001037\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:09:20 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:09:20 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:09:20 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001037',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:09:20 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:09:20 PM UTC : .php
+'{"multicast_id":6026383283423086830,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940318353306%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:09:20 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:09:20 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:11:16 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001031',
+  'student_name' => 'Pavatharani',
+  'subject_id' => 'Anatomy',
+)
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+'{"multicast_id":9171710254673706466,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940434608087%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001031\''
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Anatomy',
+)
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+array (
+  0 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+)
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+'{"multicast_id":4664114458232854017,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940434693812%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:11:16 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:11:33 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001031',
+  'student_name' => 'Pavatharani',
+  'subject_id' => 'Biochemistry',
+)
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+'{"multicast_id":7622596863058740116,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940451899268%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001031\''
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Biochemistry',
+)
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+array (
+  0 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+)
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+'{"multicast_id":5803350631117247109,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940451978579%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:11:33 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:11:50 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:11:50 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001029\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 01:11:50 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:11:50 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:11:50 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001029',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:11:50 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:11:50 PM UTC : .php
+'{"multicast_id":8194569512403579576,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940469009218%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:11:50 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:11:50 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:11:57 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001031',
+  'student_name' => 'Pavatharani',
+  'subject_id' => 'OralHistology',
+)
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+'{"multicast_id":6756999429188061262,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940475717484%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001031\''
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'OralHistology',
+)
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+array (
+  0 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+)
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+'{"multicast_id":7635327218258682545,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940475820265%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:11:57 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:12:12 PM UTC : add_user_server.php
+'Reached Add User Server'
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001031',
+  'student_name' => 'Pavatharani',
+  'subject_id' => 'Physiology',
+)
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+'{"multicast_id":8803875704562002145,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940490469795%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001031\''
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Physiology',
+)
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+array (
+  0 => 'dJsabRusRGE:APA91bES4MAPj5qMGkNmQ4NkLXm_Y5TtW07GQRVYcIlOCKwj3zHQHCZDbGPNSKaplKMa_pszV4GUwO606i2NS5lr8WWNsbwbcfgpkmg529WwWjR573rtDa6vWb5leATA_ViESYhaA5Wd',
+)
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+'{"multicast_id":8921986493108004758,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940490564209%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:12:12 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:20:37 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:20:37 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001024\',\'1505001004course1492248896\',\'1505001004\',\'1505001004course1492248896\',\'0.0\')'
+
+Tue, 16 May 2017 01:20:37 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:20:37 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:20:37 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001024',
+  'assignment_id' => '1505001004course1492248896',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:20:37 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:20:37 PM UTC : .php
+'{"multicast_id":8862740457073935607,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494940995663755%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:20:37 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:20:37 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:22:14 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:22:14 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001019\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 01:22:14 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:22:14 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:22:14 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001019',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:22:14 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:22:14 PM UTC : .php
+'{"multicast_id":6972169143128335873,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494941092499847%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:22:14 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:22:14 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:24:12 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:24:12 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001012\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001012',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+'{"multicast_id":6506329469226100651,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494941210636070%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:24:12 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:24:12 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:24:12 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001012\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001012',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+'{"multicast_id":6075891748878982687,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494941210989808%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:24:12 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:24:12 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:24:13 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:24:13 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001012\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001012',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+'{"multicast_id":6117175467895982151,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494941211307787%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:24:13 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:24:13 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:24:13 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001012\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001012',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+'{"multicast_id":4845905478765646310,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494941211600925%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:24:13 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:24:13 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:31:28 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:31:28 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001014\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:31:28 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:31:28 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:31:28 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001014',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:31:28 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:31:29 PM UTC : .php
+'{"multicast_id":5202192704844571707,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494941647245200%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:31:29 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:31:29 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:35:36 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:35:36 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001024\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:35:36 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:35:36 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:35:36 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001024',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:35:36 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:35:36 PM UTC : .php
+'{"multicast_id":5590027441573417305,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494941894612122%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:35:36 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:35:36 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:37:26 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:37:26 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001019\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001019',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+'{"multicast_id":7127934514109375356,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494942004777707%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:37:26 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:37:26 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:37:26 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001019\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001019',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:37:26 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:37:27 PM UTC : .php
+'{"multicast_id":7341791073364842159,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494942005571251%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:37:27 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:37:27 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:37:27 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:37:27 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001019\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:37:27 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:37:27 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:37:27 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001019',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:37:27 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:37:28 PM UTC : .php
+'{"multicast_id":7156676492455049198,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494942006527916%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:37:28 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:37:28 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:46:33 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:46:33 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001004\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:46:33 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:46:33 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:46:33 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001004',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:46:33 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:46:33 PM UTC : .php
+'{"multicast_id":6319581773024892342,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494942551968516%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:46:33 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:46:33 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 01:51:32 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 01:51:32 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001031\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 01:51:32 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 01:51:32 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 01:51:32 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001031',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 01:51:32 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 01:51:33 PM UTC : .php
+'{"multicast_id":5427450091317895687,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494942851233669%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 01:51:33 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 01:51:33 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:11:16 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:11:16 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001025\',\'1505001004course1492248695\',\'1505001004\',\'1505001004course1492248695\',\'0.0\')'
+
+Tue, 16 May 2017 02:11:16 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:11:16 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:11:16 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001025',
+  'assignment_id' => '1505001004course1492248695',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:11:16 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:11:16 PM UTC : .php
+'{"multicast_id":6494215043245945607,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494944034471596%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:11:16 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:11:16 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:15:19 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:15:19 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001025\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001025',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+'{"multicast_id":8375075900236033057,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494944277582557%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:15:19 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:15:19 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:15:19 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001025\',\'1505001004course1492248764\',\'1505001004\',\'1505001004course1492248764\',\'0.0\')'
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001025',
+  'assignment_id' => '1505001004course1492248764',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:15:19 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:15:20 PM UTC : .php
+'<HTML>
+<HEAD>
+<TITLE>Internal Server Error</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<H1>Internal Server Error</H1>
+<H2>Error 500</H2>
+</BODY>
+</HTML>
+'
+
+Tue, 16 May 2017 02:15:20 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:15:20 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:15:20 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:15:20 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001025\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 02:15:20 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:15:20 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:15:20 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001025',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:15:20 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'{"multicast_id":8407387955581694292,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494944279303638%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001025\',\'1505001004course1492248843\',\'1505001004\',\'1505001004course1492248843\',\'0.0\')'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001025',
+  'assignment_id' => '1505001004course1492248843',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'{"multicast_id":5494388642586554122,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494944279637927%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001025\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001025',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'{"multicast_id":8908078487949964747,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494944279997728%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:15:21 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001025\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001025',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:15:21 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:15:22 PM UTC : .php
+'{"multicast_id":8455945088589618378,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494944280334680%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:15:22 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:15:22 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:31:32 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:31:32 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001044\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 02:31:32 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:31:32 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:31:32 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001044',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:31:32 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:31:32 PM UTC : .php
+'{"multicast_id":7431351003011841355,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494945251009412%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:31:32 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:31:32 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:31:33 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:31:33 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001044\',\'1505001004course1492248843\',\'1505001004\',\'1505001004course1492248843\',\'0.0\')'
+
+Tue, 16 May 2017 02:31:33 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:31:33 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:31:33 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001044',
+  'assignment_id' => '1505001004course1492248843',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:31:33 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:31:33 PM UTC : .php
+'{"multicast_id":5160027920533877892,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494945251648415%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:31:33 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:31:33 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:40:01 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:40:01 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001022\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 02:40:01 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:40:01 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:40:01 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001022',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:40:01 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'{"multicast_id":8827029591902563321,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494945760360840%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:40:02 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:40:02 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:40:02 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001022\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001022',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'{"multicast_id":4865563578055101472,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494945760744040%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:40:02 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:40:02 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:40:02 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001022\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001022',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'{"multicast_id":6726209294158414195,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494945761109357%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:40:02 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:40:02 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:40:03 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:40:03 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001022\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 02:40:03 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:40:03 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:40:03 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001022',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:40:03 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:40:03 PM UTC : .php
+'{"multicast_id":8290748731917338558,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494945761495035%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:40:03 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:40:03 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:46:24 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:46:24 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001002\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 02:46:24 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:46:24 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:46:24 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001002',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:46:24 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:46:24 PM UTC : .php
+'{"multicast_id":7266604142045307094,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494946142425385%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:46:24 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:46:24 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:46:25 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:46:25 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001002\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 02:46:25 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:46:25 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:46:25 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001002',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:46:25 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:46:25 PM UTC : .php
+'{"multicast_id":8056447660485755396,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494946143397811%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:46:25 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:46:25 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:46:26 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:46:26 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001002\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001002',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+'{"multicast_id":8677364179096541783,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494946144603071%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:46:26 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 02:46:26 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 02:46:26 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001002\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001002',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+'{"multicast_id":4813264696755741216,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494946145196572%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 02:46:26 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 02:46:26 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 04:34:49 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 04:34:50 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001009\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 04:34:50 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 04:34:50 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 04:34:50 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001009',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 04:34:50 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 04:34:50 PM UTC : .php
+'{"multicast_id":6722346721119884289,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494952648619141%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 04:34:50 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 04:34:50 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 05:58:47 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 05:58:48 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001007\',\'Anatomy\',\'1505001004\',\'Carotid triangle\',\'0.0\')'
+
+Tue, 16 May 2017 05:58:48 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 05:58:48 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 05:58:48 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001007',
+  'assignment_id' => '1505001004test1491221797',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 05:58:48 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 05:58:48 PM UTC : .php
+'{"multicast_id":6479055777723187706,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494957686773241%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 05:58:48 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 05:58:48 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 05:58:49 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 05:58:49 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001007\',\'1505001004course1494940082\',\'1505001004\',\'1505001004course1494940082\',\'0.0\')'
+
+Tue, 16 May 2017 05:58:49 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 05:58:49 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 05:58:49 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001007',
+  'assignment_id' => '1505001004course1494940082',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 05:58:49 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 05:58:49 PM UTC : .php
+'{"multicast_id":8041023348341908339,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494957687779290%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 05:58:49 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 05:58:49 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 05:58:50 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 05:58:50 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001007\',\'1505001004course1494940025\',\'1505001004\',\'1505001004course1494940025\',\'0.0\')'
+
+Tue, 16 May 2017 05:58:50 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 05:58:50 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 05:58:50 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001007',
+  'assignment_id' => '1505001004course1494940025',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 05:58:50 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 05:58:50 PM UTC : .php
+'{"multicast_id":8821199549375839970,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494957689432273%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 05:58:50 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 05:58:50 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 05:58:52 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 05:58:52 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001007\',\'1505001004course1494940063\',\'1505001004\',\'1505001004course1494940063\',\'0.0\')'
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001007',
+  'assignment_id' => '1505001004course1494940063',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+'{"multicast_id":7953511425330338883,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494957690750738%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 05:58:52 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Tue, 16 May 2017 05:58:52 PM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Tue, 16 May 2017 05:58:52 PM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001007\',\'1505001004course1494939984\',\'1505001004\',\'1505001004course1494939984\',\'0.0\')'
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+'Send to GCM Started'
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001007',
+  'assignment_id' => '1505001004course1494939984',
+  'score' => '0.0',
+)
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+array (
+  0 => 'f7VNdw3dhug:APA91bH-FjnG0kitlEOOgw7PumH4l92ZCe1uY1__MbflbOo2LIvHQ7l_vXNsZhFrbHkUmTKNRIwsXYcOEW-1sOzoIlwCvUhzpNxVfRUjl0yCn3909am58bKrYj8rsaSAA8a1NfAWJCoi',
+)
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+'{"multicast_id":5182055878762113296,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1494957691502607%30ba418ff9fd7ecd"}]}'
+
+Tue, 16 May 2017 05:58:52 PM UTC : .php
+'Send to GCM Ended'
+
+Tue, 16 May 2017 05:58:52 PM UTC : notify_completed.php
+'Ended Notify-Completed'
+

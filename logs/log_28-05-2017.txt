@@ -1,0 +1,290 @@
+Sun, 28 May 2017 06:09:37 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001044',
+  'student_name' => 'Habibur Rahman',
+  'subject_id' => 'Anat',
+)
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+'{"multicast_id":5621823957992190168,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495951959074169%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001044\''
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Anat',
+)
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+array (
+  0 => 'cMdUE3tOMX8:APA91bGl6T3zD5VA94YnaZCPdzwOJWh7BBZxgHLcH9vWipU2HPASLv9OIYFbvlqJe6vULFV_6hjvoVtQTynldb_2zBw3Bzc04UgyUysa5S6eIyskoJMDJaq2OvPtoN7uD1LV3uPScwHt',
+)
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+'{"multicast_id":5716054698672424464,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495951959162946%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:09:37 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:09:58 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001044',
+  'student_name' => 'Habibur Rahman',
+  'subject_id' => 'Biochem',
+)
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+'{"multicast_id":5413952927168032482,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495951980101464%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001044\''
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Biochem',
+)
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+array (
+  0 => 'cMdUE3tOMX8:APA91bGl6T3zD5VA94YnaZCPdzwOJWh7BBZxgHLcH9vWipU2HPASLv9OIYFbvlqJe6vULFV_6hjvoVtQTynldb_2zBw3Bzc04UgyUysa5S6eIyskoJMDJaq2OvPtoN7uD1LV3uPScwHt',
+)
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+'{"multicast_id":7930796078724075432,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495951980181692%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:09:58 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:10:10 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001044',
+  'student_name' => 'Habibur Rahman',
+  'subject_id' => 'Oralhis',
+)
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+'{"multicast_id":6759072002783683039,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495951994605605%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001044\''
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Oralhis',
+)
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+array (
+  0 => 'cMdUE3tOMX8:APA91bGl6T3zD5VA94YnaZCPdzwOJWh7BBZxgHLcH9vWipU2HPASLv9OIYFbvlqJe6vULFV_6hjvoVtQTynldb_2zBw3Bzc04UgyUysa5S6eIyskoJMDJaq2OvPtoN7uD1LV3uPScwHt',
+)
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+'{"multicast_id":9111279076543546275,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495951994675352%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:10:13 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:10:24 AM UTC : add_user_server.php
+'Reached Add User Server'
+
+Sun, 28 May 2017 06:10:24 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Sun, 28 May 2017 06:10:24 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:10:24 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ADD_USER',
+  'staff_id' => '1505001004',
+  'student_id' => '1604001044',
+  'student_name' => 'Habibur Rahman',
+  'subject_id' => 'Physio',
+)
+
+Sun, 28 May 2017 06:10:24 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Sun, 28 May 2017 06:10:25 AM UTC : .php
+'{"multicast_id":9186720532828046980,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495952006497870%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:10:25 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:10:25 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1604001044\''
+
+Sun, 28 May 2017 06:10:25 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:10:25 AM UTC : .php
+array (
+  'mode' => 'STUDENT',
+  'title' => 'ADD_SUBJECT',
+  'teacher_id' => '1505001004',
+  'subject_id' => 'Physio',
+)
+
+Sun, 28 May 2017 06:10:25 AM UTC : .php
+array (
+  0 => 'cMdUE3tOMX8:APA91bGl6T3zD5VA94YnaZCPdzwOJWh7BBZxgHLcH9vWipU2HPASLv9OIYFbvlqJe6vULFV_6hjvoVtQTynldb_2zBw3Bzc04UgyUysa5S6eIyskoJMDJaq2OvPtoN7uD1LV3uPScwHt',
+)
+
+Sun, 28 May 2017 06:10:25 AM UTC : .php
+'{"multicast_id":5874645799166355482,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495952006589112%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:10:25 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:50:12 AM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Sun, 28 May 2017 06:50:12 AM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001007\',\'Anat\',\'1505001004\',\'Pharyngeal apparatus\',\'40.0\')'
+
+Sun, 28 May 2017 06:50:12 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Sun, 28 May 2017 06:50:12 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:50:12 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001007',
+  'assignment_id' => '1505001004test1495877402',
+  'score' => '40.0',
+)
+
+Sun, 28 May 2017 06:50:12 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Sun, 28 May 2017 06:50:12 AM UTC : .php
+'{"multicast_id":8373002161751830075,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495954394428665%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:50:12 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:50:12 AM UTC : notify_completed.php
+'Ended Notify-Completed'
+
+Sun, 28 May 2017 06:50:13 AM UTC : notify_completed.php
+'Reached Notify-Completed'
+
+Sun, 28 May 2017 06:50:13 AM UTC : notify_completed.php
+'Query --> INSERT INTO test_report(StudentId, SubjectId, StaffId, TestName, Score) VALUES (\'1604001007\',\'Anat\',\'1505001004\',\'Pharyngeal apparatus\',\'40.0\')'
+
+Sun, 28 May 2017 06:50:13 AM UTC : .php
+'Query --> SELECT * FROM GCM WHERE CollegeId=\'1505001004\''
+
+Sun, 28 May 2017 06:50:13 AM UTC : .php
+'Send to FCM Started'
+
+Sun, 28 May 2017 06:50:13 AM UTC : .php
+array (
+  'mode' => 'TEACHER',
+  'title' => 'ASSIGNMENT_COMPLETED',
+  'student_id' => '1604001007',
+  'assignment_id' => '1505001004test1495877402',
+  'score' => '40.0',
+)
+
+Sun, 28 May 2017 06:50:13 AM UTC : .php
+array (
+  0 => 'eWbxMXoiKBM:APA91bFsg6vv_D1bdV7zJ3uzRpr80aiTxbN8DPLZ_xWRwIY8o3_C25daqOBwfMaixnCWZ5KSUsmwTqqAkK1CxYfdrooGLUoAQ5LIvidflXYv2D8fjDrXvCe3lNdPotzV35o46LVkX0jb',
+)
+
+Sun, 28 May 2017 06:50:14 AM UTC : .php
+'{"multicast_id":6157381239592379851,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1495954395506758%30ba418ff9fd7ecd"}]}'
+
+Sun, 28 May 2017 06:50:14 AM UTC : .php
+'Send to FCM Ended'
+
+Sun, 28 May 2017 06:50:14 AM UTC : notify_completed.php
+'Ended Notify-Completed'
+
